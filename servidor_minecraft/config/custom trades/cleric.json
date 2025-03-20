@@ -1,0 +1,43 @@
+{
+  "profession": "minecraft:cleric",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "revive_hardcore_players:revive_crystal",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:totem_of_undying",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 100,
+      "maxUses": 30,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_revive_crystal_for_totem_of_undying"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:totem_of_undying",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:golden_apple",
+        "amount": 30,
+        "priceModifier": 0
+      },
+      "tradeExp": 100,
+      "maxUses": 20,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_totem_of_undying_for_golden_apple"
+    }
+  ]
+}
