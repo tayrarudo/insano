@@ -389,5 +389,11 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-20 22:26:42 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
