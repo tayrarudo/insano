@@ -1122,3 +1122,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Mar2025 23:37:17.031] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
 [20Mar2025 23:37:17.040] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
 [20Mar2025 23:37:43.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> 397 -48 298
+[20Mar2025 23:38:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has reached the goal [Strong or Careful]
+[20Mar2025 23:38:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa was slain by Lifestealer
+[20Mar2025 23:40:16.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Diamonds!]
+[20Mar2025 23:40:27.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Deceived Hopes]
+[20Mar2025 23:41:11.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Cover Me with Diamonds]
+[20Mar2025 23:43:12.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> xaero-waypoint:Shared Location:S:397:-37:299:8:false:0:Internal-overworld-waypoints
+[20Mar2025 23:47:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: suervival
+[20Mar2025 23:47:16.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... suervival minitipa<--[HERE]
+[20Mar2025 23:47:40.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set minitipa's game mode to Survival Mode

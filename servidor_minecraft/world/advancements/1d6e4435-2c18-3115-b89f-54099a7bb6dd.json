@@ -83,8 +83,11 @@
       "shrubland": "2025-03-16 23:05:48 +0000",
       "rocky_shrubland": "2025-03-16 23:04:45 +0000",
       "scrubland": "2025-03-17 01:20:05 +0000",
+      "highland": "2025-03-20 23:38:47 +0000",
       "mediterranean_forest": "2025-03-17 01:20:08 +0000",
+      "redwood_forest": "2025-03-20 23:38:49 +0000",
       "dune_beach": "2025-03-16 23:45:33 +0000",
+      "lavender_field": "2025-03-20 23:39:59 +0000",
       "rainforest": "2025-03-17 01:03:21 +0000"
     },
     "done": false
@@ -166,6 +169,8 @@
       "minecraft:stony_shore": "2025-03-16 23:50:27 +0000",
       "minecraft:forest": "2025-03-16 23:49:17 +0000",
       "minecraft:ocean": "2025-03-16 23:13:03 +0000",
+      "minecraft:deep_dark": "2025-03-20 23:38:41 +0000",
+      "minecraft:meadow": "2025-03-20 23:41:01 +0000",
       "minecraft:plains": "2025-03-16 23:19:04 +0000"
     },
     "done": false
@@ -405,6 +410,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-20 23:38:41 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-03-20 23:23:30 +0000"
@@ -426,6 +437,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-03-20 23:10:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 23:38:15 +0000"
     },
     "done": true
   },
