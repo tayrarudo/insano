@@ -151,6 +151,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-03-16 23:00:38 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-20 22:11:38 +0000",
       "minecraft:stony_shore": "2025-03-16 23:10:29 +0000",
       "minecraft:forest": "2025-03-16 22:42:01 +0000",
       "minecraft:ocean": "2025-03-16 23:45:19 +0000"
@@ -373,6 +374,18 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-03-17 00:48:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-20 22:16:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 21:58:42 +0000"
     },
     "done": true
   },

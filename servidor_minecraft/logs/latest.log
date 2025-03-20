@@ -867,3 +867,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Mar2025 21:54:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> oe
 [20Mar2025 21:54:08.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> q
 [20Mar2025 21:54:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> ven ala casa
+[20Mar2025 21:56:30.650] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[20Mar2025 21:56:30.729] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[20Mar2025 21:56:39.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> xd
+[20Mar2025 21:56:43.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> cuachen
+[20Mar2025 21:56:50.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> ven ala casa
+[20Mar2025 21:57:10.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel[/127.176.66.134:45169] logged in with entity id 4151 at (469.4441199867023, 70.0, 421.95200678870685)
+[20Mar2025 21:57:10.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel joined the game
+[20Mar2025 21:57:10.438] [Server thread/INFO] [Jade/]: Syncing config to Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e)
+[20Mar2025 21:57:17.215] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[20Mar2025 21:57:17.268] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 21:57:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by The Moonflower
+[20Mar2025 21:57:31.749] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[20Mar2025 21:57:31.778] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[20Mar2025 21:57:41.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> oe
+[20Mar2025 21:57:54.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 21:58:01.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Spectator Mode]
+[20Mar2025 21:58:04.016] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[20Mar2025 21:58:04.031] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 21:58:06.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xd
+[20Mar2025 21:58:10.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> xdd
+[20Mar2025 21:58:18.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 21:58:22.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ese down de cuachen
+[20Mar2025 21:58:27.361] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[20Mar2025 21:58:27.375] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[20Mar2025 21:58:28.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ni puede matar un zombi
+[20Mar2025 21:58:34.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xddd
+[20Mar2025 21:58:42.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has reached the goal [A Fast Comeback]
+[20Mar2025 21:58:48.565] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[20Mar2025 21:58:48.576] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[20Mar2025 21:59:00.014] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[20Mar2025 21:59:00.023] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 21:59:03.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> xddddddddddddddd
+[20Mar2025 21:59:10.659] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[20Mar2025 21:59:10.672] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[20Mar2025 21:59:14.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xddd
+[20Mar2025 21:59:17.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by The Moonflower
+[20Mar2025 21:59:18.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> justo estaba en busca de un duende xd
+[20Mar2025 21:59:25.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 21:59:42.557] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[20Mar2025 21:59:42.568] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 21:59:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xd
+[20Mar2025 21:59:51.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> no puedo comer
+[20Mar2025 22:00:18.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> 20 seg
+[20Mar2025 22:00:47.968] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[20Mar2025 22:00:47.978] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[20Mar2025 22:01:27.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> 20s
+[20Mar2025 22:03:17.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5585, l='ServerLevel[world]', x=470.42, y=-256.00, z=439.11] died, message: 'Unemployed was killed'
+[20Mar2025 22:03:17.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> al discord
+[20Mar2025 22:03:33.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> ok
+[20Mar2025 22:04:21.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Not Today, Thank You]
+[20Mar2025 22:08:26.178] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[20Mar2025 22:09:48.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=528, y=64, z=445} BlockPos{x=528, y=63, z=444}
+[20Mar2025 22:09:49.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=529, y=64, z=444} BlockPos{x=529, y=63, z=445}
+[20Mar2025 22:11:25.832] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[20Mar2025 22:12:05.802] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[20Mar2025 22:12:05.825] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[20Mar2025 22:13:05.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has reached the goal [Strong or Careful]
+[20Mar2025 22:13:05.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 was blown up by Creeper
+[20Mar2025 22:13:05.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Your First Grave]
+[20Mar2025 22:14:33.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9949, l='ServerLevel[world]', x=471.77, y=-256.00, z=428.06] died, message: 'Unemployed was killed'
+[20Mar2025 22:16:12.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Penteconter]
+[20Mar2025 22:16:27.059] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[20Mar2025 22:16:27.084] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 22:16:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Ashes 'n Bones]
+[20Mar2025 22:16:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Ambush]
+[20Mar2025 22:16:55.357] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[20Mar2025 22:16:55.374] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
