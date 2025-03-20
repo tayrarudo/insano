@@ -407,12 +407,6 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-03-20 22:17:32 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-20 22:17:29 +0000"
@@ -422,6 +416,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-03-20 22:17:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-03-20 22:17:32 +0000"
     },
     "done": true
   },

@@ -1049,3 +1049,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Mar2025 23:17:32.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel[/127.176.66.134:33259] logged in with entity id 39134 at (470.8369315703614, 70.0, 432.92240793010956)
 [20Mar2025 23:17:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel joined the game
 [20Mar2025 23:17:32.939] [Server thread/INFO] [Jade/]: Syncing config to Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e)
+[20Mar2025 23:18:25.467] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[20Mar2025 23:18:25.478] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 23:19:11.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/40065, l='ServerLevel[world]', x=471.54, y=-256.00, z=439.94] died, message: 'Unemployed was killed'
+[20Mar2025 23:19:31.714] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[20Mar2025 23:19:31.729] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[20Mar2025 23:20:43.319] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[20Mar2025 23:20:43.334] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[20Mar2025 23:21:49.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/41402, l='ServerLevel[world]', x=470.60, y=-256.00, z=439.92] died, message: 'Unemployed was killed'
+[20Mar2025 23:23:20.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Mar2025 23:23:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has made the advancement [Good Demoman]
+[20Mar2025 23:23:48.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Mar2025 23:24:12.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20Mar2025 23:24:29.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Mar2025 23:24:58.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Mar2025 23:25:16.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Mar2025 23:25:34.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Mar2025 23:25:47.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has made the advancement [Ambush]
+[20Mar2025 23:25:55.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Mar2025 23:26:02.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:59699] logged in with entity id 44080 at (470.86284873776543, 79.5, 431.24125545136394)
+[20Mar2025 23:26:02.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[20Mar2025 23:26:02.908] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[20Mar2025 23:26:14.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[20Mar2025 23:26:30.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[20Mar2025 23:26:34.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5360ms or 107 ticks behind
+[20Mar2025 23:26:36.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 23:26:52.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has made the advancement [Knowledge raises the soul]
+[20Mar2025 23:26:55.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5376ms or 107 ticks behind
+[20Mar2025 23:27:16.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
+[20Mar2025 23:27:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Gave 1 [Ender Pearl] to elchipaxd12]
+[20Mar2025 23:27:37.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6130ms or 122 ticks behind
