@@ -83,6 +83,7 @@
       "shrubland": "2025-03-17 00:47:47 +0000",
       "rocky_shrubland": "2025-03-17 00:46:48 +0000",
       "redwood_forest": "2025-03-17 00:47:48 +0000",
+      "volcanic_plains": "2025-03-20 23:32:27 +0000",
       "rainforest": "2025-03-17 00:54:00 +0000"
     },
     "done": false
@@ -144,7 +145,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-03-20 23:33:03 +0000",
       "minecraft:stony_peaks": "2025-03-17 00:52:48 +0000",
+      "minecraft:sparse_jungle": "2025-03-20 23:32:49 +0000",
       "minecraft:lukewarm_ocean": "2025-03-17 01:03:04 +0000",
       "minecraft:river": "2025-03-17 01:08:31 +0000",
       "minecraft:stony_shore": "2025-03-17 01:01:50 +0000",
@@ -280,6 +283,48 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-03-20 22:51:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 23:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-20 23:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-20 23:30:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 23:29:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-20 23:28:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-03-20 23:28:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-20 23:29:06 +0000"
     },
     "done": true
   },

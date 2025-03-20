@@ -12999,3 +12999,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Mar2025 23:27:16.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
 [20Mar2025 23:27:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Gave 1 [Ender Pearl] to elchipaxd12]
 [20Mar2025 23:27:37.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6130ms or 122 ticks behind
+[20Mar2025 23:27:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[20Mar2025 23:27:59.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6768ms or 135 ticks behind
+[20Mar2025 23:28:02.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:28:02.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 23:28:02.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 23:28:20.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6730ms or 134 ticks behind
+[20Mar2025 23:28:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [The Most Useful Key]
+[20Mar2025 23:28:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Quickly Applied]
+[20Mar2025 23:28:41.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5302ms or 106 ticks behind
+[20Mar2025 23:29:01.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5501ms or 110 ticks behind
+[20Mar2025 23:29:06.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Knowledge of Death]
+[20Mar2025 23:29:06.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has reached the goal [A Fast Comeback]
+[20Mar2025 23:29:09.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[20Mar2025 23:29:19.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 23:29:21.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4667ms or 93 ticks behind
+[20Mar2025 23:29:39.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3643ms or 72 ticks behind
+[20Mar2025 23:29:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported elchipaxd12 to fablex39]
+[20Mar2025 23:29:57.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
+[20Mar2025 23:30:15.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[20Mar2025 23:30:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Cover Me with Diamonds]
+[20Mar2025 23:30:33.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3070ms or 61 ticks behind
+[20Mar2025 23:30:51.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[20Mar2025 23:31:11.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Mar2025 23:31:29.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[20Mar2025 23:31:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[20Mar2025 23:31:47.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[20Mar2025 23:32:08.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6076ms or 121 ticks behind
+[20Mar2025 23:32:33.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9585ms or 191 ticks behind
+[20Mar2025 23:32:58.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10782ms or 215 ticks behind
+[20Mar2025 23:33:25.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11644ms or 232 ticks behind
+[20Mar2025 23:33:37.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Ice Bucket Challenge]
+[20Mar2025 23:33:49.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9528ms or 190 ticks behind
+[20Mar2025 23:34:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has completed the challenge [Centennial]
+[20Mar2025 23:34:06.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[20Mar2025 23:34:06.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[20Mar2025 23:34:11.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7139ms or 142 ticks behind
+[20Mar2025 23:34:18.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[20Mar2025 23:34:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[20Mar2025 23:34:41.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:34:41.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 23:34:45.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 8:20 apaga serverd
+[20Mar2025 23:35:00.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Mar2025 23:36:30.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20Mar2025 23:36:58.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Mar2025 23:37:17.031] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[20Mar2025 23:37:17.040] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[20Mar2025 23:37:43.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> 397 -48 298
