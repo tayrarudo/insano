@@ -13061,3 +13061,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Mar2025 23:47:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: suervival
 [20Mar2025 23:47:16.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... suervival minitipa<--[HERE]
 [20Mar2025 23:47:40.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set minitipa's game mode to Survival Mode
+[20Mar2025 23:49:46.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:49:46.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Mar2025 23:54:46.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Mar2025 23:54:46.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
