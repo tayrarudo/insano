@@ -378,6 +378,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-20 22:59:49 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-03-20 22:16:12 +0000"
@@ -387,6 +393,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-03-20 21:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-20 23:00:53 +0000"
     },
     "done": true
   },

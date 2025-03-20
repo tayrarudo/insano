@@ -131,6 +131,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-20 22:48:59 +0000",
       "opened_chest": "2025-03-17 00:50:49 +0000"
     },
     "done": false
@@ -261,6 +262,24 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-20 22:39:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-20 22:48:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-20 22:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-20 22:51:55 +0000"
     },
     "done": true
   },

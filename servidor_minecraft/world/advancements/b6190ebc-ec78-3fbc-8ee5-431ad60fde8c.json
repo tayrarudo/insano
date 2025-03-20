@@ -241,6 +241,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-20 22:04:30 +0000",
       "minecraft:spider": "2025-03-20 22:11:51 +0000",
+      "minecraft:creeper": "2025-03-20 22:48:47 +0000",
       "minecraft:witch": "2025-03-20 22:16:48 +0000",
       "minecraft:vex": "2025-03-16 23:44:56 +0000",
       "minecraft:zombie": "2025-03-20 22:01:36 +0000"
@@ -304,6 +305,18 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-17 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2025-03-20 22:51:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-20 22:48:09 +0000"
     },
     "done": true
   },

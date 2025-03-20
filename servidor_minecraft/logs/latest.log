@@ -984,3 +984,53 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Mar2025 22:44:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> duerman
 [20Mar2025 22:46:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
 [20Mar2025 22:46:27.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 22:48:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Chest Slayer]
+[20Mar2025 22:48:48.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1171, l='ServerLevel[world]', x=61.51, y=104.05, z=42.70] died, message: 'Fisherman drowned'
+[20Mar2025 22:48:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Penteconter]
+[20Mar2025 22:48:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Barrel Booty]
+[20Mar2025 22:50:33.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <minitipa> 410 -42 490
+[20Mar2025 22:51:26.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has completed the challenge [Well, that was disgusting]
+[20Mar2025 22:51:55.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Diamonds!]
+[20Mar2025 22:54:12.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[20Mar2025 22:54:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[20Mar2025 22:54:38.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66f6039b[id=<null>,name=elchipaxd12,properties={},legacy=false] (/127.223.203.153:46585) lost connection: Disconnected
+[20Mar2025 22:54:52.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:35059] logged in with entity id 30042 at (491.02203492288146, -28.76073744661197, 385.0787070418641)
+[20Mar2025 22:54:52.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[20Mar2025 22:54:52.493] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[20Mar2025 22:54:58.928] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[20Mar2025 22:54:58.936] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[20Mar2025 22:55:03.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 drowned
+[20Mar2025 22:55:03.934] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[20Mar2025 22:58:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to elchipaxd12]
+[20Mar2025 22:58:51.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to Andremat2010]
+[20Mar2025 22:59:11.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to Gabriel]
+[20Mar2025 22:59:15.486] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[20Mar2025 22:59:15.523] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 22:59:23.473] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[20Mar2025 22:59:23.482] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 22:59:25.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to elchipaxd12]
+[20Mar2025 22:59:29.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to Andremat2010]
+[20Mar2025 22:59:30.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel drowned
+[20Mar2025 22:59:30.486] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[20Mar2025 22:59:36.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[20Mar2025 22:59:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[20Mar2025 22:59:49.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Not Today, Thank You]
+[20Mar2025 22:59:51.721] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[20Mar2025 22:59:51.732] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[20Mar2025 22:59:56.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32300, l='ServerLevel[world]', x=471.77, y=-256.00, z=428.06] died, message: 'Unemployed was killed'
+[20Mar2025 22:59:56.474] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11e6bfd9[id=<null>,name=elchipaxd12,properties={},legacy=false] (/127.223.203.153:35889) lost connection: Disconnected
+[20Mar2025 23:00:36.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to minitipa]
+[20Mar2025 23:00:53.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Diamonds!]
+[20Mar2025 23:00:58.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32503, l='ServerLevel[world]', x=470.60, y=-256.00, z=439.92] died, message: 'Unemployed was killed'
+[20Mar2025 23:01:42.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to Gabriel]
+[20Mar2025 23:02:28.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[20Mar2025 23:02:40.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 23:05:24.624] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[20Mar2025 23:05:24.634] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[20Mar2025 23:05:37.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:42733] logged in with entity id 34271 at (490.28554152784466, -30.066449625721727, 382.65381482645745)
+[20Mar2025 23:05:37.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[20Mar2025 23:05:37.076] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[20Mar2025 23:05:45.085] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[20Mar2025 23:06:22.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Timed out
+[20Mar2025 23:06:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[20Mar2025 23:06:22.148] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
