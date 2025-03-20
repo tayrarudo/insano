@@ -958,3 +958,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Mar2025 22:21:54.143] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [20Mar2025 22:26:33.866] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
 [20Mar2025 22:26:33.874] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[20Mar2025 22:27:51.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Diamonds!]
+[20Mar2025 22:28:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[20Mar2025 22:29:15.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[20Mar2025 22:30:37.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Barrel Booty]
+[20Mar2025 22:32:03.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Night Night]
+[20Mar2025 22:33:51.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:40467] logged in with entity id 17377 at (471.1154872330125, 70.26614601196569, 436.1645053486831)
+[20Mar2025 22:33:51.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[20Mar2025 22:33:51.921] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[20Mar2025 22:34:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set elchipaxd12's game mode to Survival Mode]
+[20Mar2025 22:34:18.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported elchipaxd12 to fablex39]
