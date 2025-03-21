@@ -225,8 +225,10 @@
       "minecraft:vindicator": "2025-03-16 23:21:52 +0000",
       "minecraft:spider": "2025-03-20 22:46:04 +0000",
       "minecraft:creeper": "2025-03-16 22:49:23 +0000",
+      "minecraft:zombified_piglin": "2025-03-21 23:30:48 +0000",
       "minecraft:enderman": "2025-03-21 22:41:57 +0000",
-      "minecraft:zombie": "2025-03-16 23:32:56 +0000"
+      "minecraft:zombie": "2025-03-16 23:32:56 +0000",
+      "minecraft:zombie_villager": "2025-03-21 23:39:19 +0000"
     },
     "done": false
   },
@@ -563,6 +565,24 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-03-21 23:17:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2025-03-21 23:40:36 +0000"
+    },
+    "done": false
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-03-21 23:47:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-03-21 23:39:56 +0000"
     },
     "done": true
   },

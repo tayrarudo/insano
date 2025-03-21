@@ -241,7 +241,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-03-17 01:25:25 +0000"
+      "minecraft:blaze": "2025-03-21 23:28:15 +0000",
+      "minecraft:skeleton": "2025-03-21 23:27:23 +0000",
+      "minecraft:magma_cube": "2025-03-21 23:30:16 +0000",
+      "minecraft:zombified_piglin": "2025-03-21 23:48:06 +0000",
+      "minecraft:wither_skeleton": "2025-03-21 23:33:21 +0000",
+      "minecraft:zombie": "2025-03-17 01:25:25 +0000",
+      "minecraft:zombie_villager": "2025-03-21 23:40:09 +0000"
     },
     "done": false
   },
@@ -362,6 +368,61 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-03-21 22:24:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2025-03-21 23:41:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-21 23:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-03-21 23:27:16 +0000",
+      "minecraft:nether_wastes": "2025-03-21 23:47:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-21 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-21 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-21 23:28:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 23:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-03-21 23:27:34 +0000"
     },
     "done": true
   },

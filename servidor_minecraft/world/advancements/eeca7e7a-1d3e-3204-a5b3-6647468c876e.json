@@ -701,5 +701,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-21 23:48:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/falconry_glove": {
+    "criteria": {
+      "falconry_glove": "2025-03-21 23:44:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

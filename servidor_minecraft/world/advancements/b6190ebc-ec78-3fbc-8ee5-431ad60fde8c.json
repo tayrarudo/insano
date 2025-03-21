@@ -248,7 +248,8 @@
       "minecraft:creeper": "2025-03-20 22:48:47 +0000",
       "minecraft:witch": "2025-03-20 22:16:48 +0000",
       "minecraft:vex": "2025-03-16 23:44:56 +0000",
-      "minecraft:zombie": "2025-03-20 22:01:36 +0000"
+      "minecraft:zombie": "2025-03-20 22:01:36 +0000",
+      "minecraft:zombie_villager": "2025-03-21 23:39:22 +0000"
     },
     "done": false
   },
@@ -432,6 +433,24 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2025-03-21 23:39:57 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 23:39:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-03-21 23:29:34 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-03-21 23:08:03 +0000"
@@ -450,6 +469,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-21 23:48:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-03-21 23:39:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-03-21 22:41:47 +0000"
@@ -465,6 +496,12 @@
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-03-21 22:42:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-21 23:47:20 +0000"
     },
     "done": true
   },
