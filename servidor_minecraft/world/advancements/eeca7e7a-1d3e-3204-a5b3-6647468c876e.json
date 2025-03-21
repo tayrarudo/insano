@@ -178,6 +178,7 @@
       "cooked_porkchop": "2025-03-20 23:04:29 +0000",
       "cooked_mutton": "2025-03-17 00:25:08 +0000",
       "cooked_beef": "2025-03-16 23:49:36 +0000",
+      "baked_potato": "2025-03-21 23:16:25 +0000",
       "bread": "2025-03-16 22:30:21 +0000",
       "golden_carrot": "2025-03-21 01:08:42 +0000",
       "enchanted_golden_apple": "2025-03-21 00:08:53 +0000",
@@ -252,6 +253,7 @@
       "minecraft:bamboo_jungle": "2025-03-21 21:44:52 +0000",
       "minecraft:beach": "2025-03-21 00:57:02 +0000",
       "minecraft:dark_forest": "2025-03-21 00:56:08 +0000",
+      "minecraft:stony_peaks": "2025-03-21 23:08:42 +0000",
       "minecraft:sparse_jungle": "2025-03-17 01:41:47 +0000",
       "minecraft:lukewarm_ocean": "2025-03-16 23:37:49 +0000",
       "minecraft:river": "2025-03-16 22:51:29 +0000",
@@ -263,6 +265,7 @@
       "minecraft:jungle": "2025-03-20 23:59:33 +0000",
       "minecraft:ocean": "2025-03-21 22:03:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-21 00:55:52 +0000",
+      "minecraft:deep_dark": "2025-03-21 23:02:53 +0000",
       "minecraft:meadow": "2025-03-20 22:59:41 +0000",
       "minecraft:savanna": "2025-03-21 00:49:51 +0000",
       "minecraft:plains": "2025-03-21 00:48:40 +0000"
@@ -665,6 +668,12 @@
   "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
       "toxic_paste": "2025-03-21 22:32:59 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-21 23:02:53 +0000"
     },
     "done": true
   },

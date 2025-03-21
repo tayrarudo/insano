@@ -154,7 +154,8 @@
       "minecraft:lukewarm_ocean": "2025-03-20 22:11:38 +0000",
       "minecraft:stony_shore": "2025-03-16 23:10:29 +0000",
       "minecraft:forest": "2025-03-16 22:42:01 +0000",
-      "minecraft:ocean": "2025-03-16 23:45:19 +0000"
+      "minecraft:ocean": "2025-03-16 23:45:19 +0000",
+      "minecraft:meadow": "2025-03-21 22:57:50 +0000"
     },
     "done": false
   },
@@ -481,6 +482,42 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-21 23:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-03-21 23:17:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-21 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-21 23:17:10 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2025-03-21 23:07:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-21 22:55:35 +0000"
@@ -511,9 +548,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 23:08:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-03-21 22:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-03-21 23:17:24 +0000"
     },
     "done": true
   },
