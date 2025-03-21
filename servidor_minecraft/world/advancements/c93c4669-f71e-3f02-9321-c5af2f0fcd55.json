@@ -341,27 +341,27 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-03-21 21:51:42 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-21 21:46:58 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "deeperdarker:main/root": {
     "criteria": {
-      "from_undead": "2025-03-21 22:24:50 +0000"
+      "deep_dark": "2025-03-21 21:51:42 +0000"
     },
     "done": true
   },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-21 22:16:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-21 22:24:50 +0000"
     },
     "done": true
   },

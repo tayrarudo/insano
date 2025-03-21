@@ -1272,3 +1272,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Mar2025 23:18:07.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel lost connection: Disconnected
 [21Mar2025 23:18:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel left the game
 [21Mar2025 23:18:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel was slain by Brainiac
+[21Mar2025 23:20:51.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:46105] logged in with entity id 56554 at (422.30000001192093, 63.0, 371.5060137755819)
+[21Mar2025 23:20:51.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[21Mar2025 23:20:51.558] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[21Mar2025 23:21:28.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[21Mar2025 23:22:29.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel[/127.24.171.196:56655] logged in with entity id 57151 at (2510.5962648909945, -33.0, -8427.23785102686)
+[21Mar2025 23:22:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel joined the game
+[21Mar2025 23:22:29.829] [Server thread/INFO] [Jade/]: Syncing config to Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e)
+[21Mar2025 23:22:56.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel moved too quickly! -9.885789402943828,-1.5964280943918432,4.55691886290515
+[21Mar2025 23:23:09.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Gabriel's game mode to Survival Mode]
+[21Mar2025 23:23:20.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported Gabriel to fablex39]
+[21Mar2025 23:23:36.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Gave 1 [Ender Pearl] to Gabriel]
+[21Mar2025 23:24:09.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[21Mar2025 23:24:30.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[21Mar2025 23:24:32.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21Mar2025 23:24:42.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[21Mar2025 23:24:52.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[21Mar2025 23:25:09.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:35463] logged in with entity id 58630 at (685.2028717176537, 62.07326432466507, 301.8328248743429)
+[21Mar2025 23:25:09.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[21Mar2025 23:25:09.368] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[21Mar2025 23:25:11.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Mar2025 23:25:30.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4056ms or 81 ticks behind
+[21Mar2025 23:25:50.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5097ms or 101 ticks behind
+[21Mar2025 23:26:09.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4509ms or 90 ticks behind
+[21Mar2025 23:26:30.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21Mar2025 23:26:53.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21Mar2025 23:27:14.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [We Need to Go Deeper]
+[21Mar2025 23:27:17.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[21Mar2025 23:27:21.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Not Today, Thank You]
+[21Mar2025 23:27:34.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [A Terrible Fortress]
+[21Mar2025 23:27:35.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
+[21Mar2025 23:27:56.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6059ms or 121 ticks behind
+[21Mar2025 23:27:58.357] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -4725 -56 -15858 in 9s
+[21Mar2025 23:28:15.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Into Fire]
+[21Mar2025 23:28:19.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7156ms or 143 ticks behind
+[21Mar2025 23:28:42.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8027ms or 160 ticks behind
+[21Mar2025 23:29:02.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5530ms or 110 ticks behind
+[21Mar2025 23:29:22.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5095ms or 101 ticks behind
+[21Mar2025 23:29:30.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel lost connection: Timed out
+[21Mar2025 23:29:30.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel left the game
+[21Mar2025 23:29:34.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Lorem Ipsum]
+[21Mar2025 23:29:39.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[21Mar2025 23:29:49.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel[/127.7.76.8:50217] logged in with entity id 61506 at (2346.9513524651793, 104.0, -8217.370935232988)
+[21Mar2025 23:29:49.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel joined the game
+[21Mar2025 23:29:49.906] [Server thread/INFO] [Jade/]: Syncing config to Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e)
+[21Mar2025 23:30:26.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Mar2025 23:30:40.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Easter Egg Searcher]
+[21Mar2025 23:30:43.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
