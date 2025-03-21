@@ -13783,3 +13783,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Mar2025 01:28:06.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1138, l='ServerLevel[world]', x=64.39, y=104.05, z=39.44] died, message: 'Librarian drowned'
 [21Mar2025 01:29:38.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel lost connection: Disconnected
 [21Mar2025 01:29:38.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel left the game
+[21Mar2025 01:32:56.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 01:32:56.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 01:37:56.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 01:37:56.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
