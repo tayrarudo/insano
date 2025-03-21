@@ -87,6 +87,7 @@
       "mediterranean_forest": "2025-03-17 01:20:08 +0000",
       "redwood_forest": "2025-03-20 23:38:49 +0000",
       "dune_beach": "2025-03-16 23:45:33 +0000",
+      "rocky_rainforest": "2025-03-21 00:58:38 +0000",
       "lavender_field": "2025-03-20 23:39:59 +0000",
       "rainforest": "2025-03-17 01:03:21 +0000"
     },
@@ -450,6 +451,12 @@
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-21 00:42:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-21 01:00:57 +0000"
     },
     "done": true
   },
