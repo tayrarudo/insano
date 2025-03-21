@@ -82,7 +82,10 @@
       "woodland": "2025-03-17 00:53:26 +0000",
       "shrubland": "2025-03-17 00:47:47 +0000",
       "rocky_shrubland": "2025-03-17 00:46:48 +0000",
+      "old_growth_woodland": "2025-03-21 22:22:26 +0000",
       "redwood_forest": "2025-03-17 00:47:48 +0000",
+      "volcano": "2025-03-21 22:26:27 +0000",
+      "rocky_rainforest": "2025-03-21 22:26:42 +0000",
       "volcanic_plains": "2025-03-20 23:32:27 +0000",
       "rainforest": "2025-03-17 00:54:00 +0000"
     },
@@ -345,6 +348,18 @@
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-21 21:46:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-21 22:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-21 22:16:40 +0000"
     },
     "done": true
   },

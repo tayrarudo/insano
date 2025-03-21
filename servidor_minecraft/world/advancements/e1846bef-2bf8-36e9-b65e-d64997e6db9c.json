@@ -438,15 +438,9 @@
     },
     "done": true
   },
-  "create:andesite_alloy": {
+  "tombstone:recipes/from_decorative_grave": {
     "criteria": {
-      "0": "2025-03-21 22:01:35 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-03-21 22:01:38 +0000"
+      "has_ingredient": "2025-03-21 21:51:12 +0000"
     },
     "done": true
   },
@@ -462,15 +456,27 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_decorative_grave": {
+  "create:andesite_alloy": {
     "criteria": {
-      "has_ingredient": "2025-03-21 21:51:12 +0000"
+      "0": "2025-03-21 22:01:35 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-03-21 22:01:38 +0000"
     },
     "done": true
   },
   "create:belt": {
     "criteria": {
       "0": "2025-03-21 22:13:09 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-03-21 22:15:28 +0000"
     },
     "done": true
   },

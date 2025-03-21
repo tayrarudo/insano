@@ -197,6 +197,7 @@
       "minecraft:lukewarm_ocean": "2025-03-17 00:02:43 +0000",
       "minecraft:river": "2025-03-16 23:00:34 +0000",
       "minecraft:stony_shore": "2025-03-16 23:09:01 +0000",
+      "minecraft:forest": "2025-03-21 22:25:05 +0000",
       "minecraft:jungle": "2025-03-17 01:19:46 +0000",
       "minecraft:meadow": "2025-03-16 23:27:02 +0000"
     },
@@ -426,6 +427,12 @@
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-21 21:49:02 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-03-21 22:17:18 +0000"
     },
     "done": true
   },
