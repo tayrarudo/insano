@@ -241,6 +241,7 @@
     "criteria": {
       "minecraft:taiga": "2025-03-21 00:56:35 +0000",
       "minecraft:birch_forest": "2025-03-21 00:55:24 +0000",
+      "minecraft:bamboo_jungle": "2025-03-21 21:44:52 +0000",
       "minecraft:beach": "2025-03-21 00:57:02 +0000",
       "minecraft:dark_forest": "2025-03-21 00:56:08 +0000",
       "minecraft:sparse_jungle": "2025-03-17 01:41:47 +0000",
@@ -450,21 +451,21 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "lootr:100loot": {
     "criteria": {
-      "lava_bucket": "2025-03-21 00:46:48 +0000"
+      "loot_stat": "2025-03-20 23:34:01 +0000"
     },
     "done": true
   },
-  "undead_revamp2:oneskelly": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "oneskelly_0": "2025-03-21 00:30:12 +0000"
+      "diamond": "2025-03-20 23:40:16 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
+  "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
-      "interact": "2025-03-21 00:51:16 +0000"
+      "deceived_hopes_0": "2025-03-20 23:40:27 +0000"
     },
     "done": true
   },
@@ -474,21 +475,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-21 00:06:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-21 00:14:04 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-03-21 00:15:53 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "undead_revamp2:oneskelly": {
     "criteria": {
-      "obsidian": "2025-03-21 01:07:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-03-21 01:05:22 +0000"
+      "oneskelly_0": "2025-03-21 00:30:12 +0000"
     },
     "done": true
   },
@@ -510,45 +517,45 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-03-21 00:14:04 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-03-20 23:34:01 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-03-21 00:44:26 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_magic_scroll": "2025-03-21 00:06:42 +0000"
+      "lava_bucket": "2025-03-21 00:46:48 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "diamond": "2025-03-20 23:40:16 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2025-03-20 23:40:27 +0000"
+      "interact": "2025-03-21 00:51:16 +0000"
     },
     "done": true
   },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-03-21 00:59:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-21 01:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-21 01:07:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 21:43:31 +0000"
     },
     "done": true
   },
