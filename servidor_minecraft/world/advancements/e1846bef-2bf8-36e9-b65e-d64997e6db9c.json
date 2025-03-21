@@ -378,15 +378,9 @@
     },
     "done": true
   },
-  "create:water_wheel": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "0": "2025-03-20 23:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-03-20 22:59:49 +0000"
+      "coded_trigger": "2025-03-20 21:58:42 +0000"
     },
     "done": true
   },
@@ -396,15 +390,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "coded_trigger": "2025-03-20 21:58:42 +0000"
+      "potato": "2025-03-20 22:26:42 +0000"
     },
-    "done": true
+    "done": false
   },
-  "artifacts:amateur_archaeologist": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "find_artifact": "2025-03-20 23:10:28 +0000"
+      "deflected_projectile": "2025-03-20 22:59:49 +0000"
     },
     "done": true
   },
@@ -414,11 +408,41 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "potato": "2025-03-20 22:26:42 +0000"
+      "find_artifact": "2025-03-20 23:10:28 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-03-20 23:31:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 21:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-21 21:49:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-03-21 21:51:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-03-21 21:51:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

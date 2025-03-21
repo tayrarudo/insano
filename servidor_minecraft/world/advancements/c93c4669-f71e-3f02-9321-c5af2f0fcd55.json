@@ -153,6 +153,7 @@
       "minecraft:stony_shore": "2025-03-17 01:01:50 +0000",
       "minecraft:forest": "2025-03-17 00:52:44 +0000",
       "minecraft:jungle": "2025-03-21 01:02:09 +0000",
+      "minecraft:deep_dark": "2025-03-21 21:51:42 +0000",
       "minecraft:meadow": "2025-03-17 00:52:32 +0000"
     },
     "done": false
@@ -332,6 +333,18 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-03-21 01:17:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-21 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 21:46:58 +0000"
     },
     "done": true
   },
