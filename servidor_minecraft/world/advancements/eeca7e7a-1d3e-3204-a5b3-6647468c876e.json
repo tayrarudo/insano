@@ -88,13 +88,18 @@
       "jade_cliffs": "2025-03-21 22:01:13 +0000",
       "clover_patch": "2025-03-21 22:00:19 +0000",
       "old_growth_woodland": "2025-03-21 00:46:01 +0000",
+      "maple_woods": "2025-03-21 22:13:05 +0000",
       "orchard": "2025-03-21 01:18:53 +0000",
       "lavender_forest": "2025-03-21 01:17:51 +0000",
       "mediterranean_forest": "2025-03-21 01:20:07 +0000",
+      "coniferous_forest": "2025-03-21 22:14:02 +0000",
       "redwood_forest": "2025-03-21 01:18:56 +0000",
+      "seasonal_forest": "2025-03-21 22:13:16 +0000",
       "volcano": "2025-03-17 01:40:23 +0000",
       "rocky_rainforest": "2025-03-17 01:39:41 +0000",
       "volcanic_plains": "2025-03-17 01:40:25 +0000",
+      "fir_clearing": "2025-03-21 22:14:03 +0000",
+      "pumpkin_patch": "2025-03-21 22:13:29 +0000",
       "prairie": "2025-03-21 00:51:43 +0000",
       "grassland": "2025-03-21 22:00:18 +0000",
       "rainforest": "2025-03-17 01:40:09 +0000"
@@ -256,6 +261,7 @@
       "minecraft:forest": "2025-03-21 00:48:39 +0000",
       "minecraft:deep_cold_ocean": "2025-03-21 00:58:38 +0000",
       "minecraft:jungle": "2025-03-20 23:59:33 +0000",
+      "minecraft:ocean": "2025-03-21 22:03:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-21 00:55:52 +0000",
       "minecraft:meadow": "2025-03-20 22:59:41 +0000",
       "minecraft:savanna": "2025-03-21 00:49:51 +0000",
@@ -566,6 +572,12 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-03-21 21:59:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-03-21 22:14:21 +0000"
     },
     "done": true
   },
