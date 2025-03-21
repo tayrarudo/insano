@@ -13081,3 +13081,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Mar2025 00:04:58.279] [Server thread/DEBUG] [twilightforest/]: Player Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e) respawned and received items held in storage
 [21Mar2025 00:05:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Gabriel's game mode to Survival Mode
 [21Mar2025 00:06:42.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Magic Writing]
+[21Mar2025 00:09:46.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:09:46.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 00:11:18.067] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[21Mar2025 00:11:18.113] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[21Mar2025 00:11:52.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa was killed by Witch using magic
+[21Mar2025 00:11:52.661] [Server thread/DEBUG] [tombstone/]: A new grave of the player minitipa was created at position [x:535, y:-18, z:375, dim:minecraft:overworld]
+[21Mar2025 00:11:54.925] [Server thread/DEBUG] [twilightforest/]: Player minitipa (1d6e4435-2c18-3115-b89f-54099a7bb6dd) respawned and received items held in storage
+[21Mar2025 00:13:56.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set minitipa's game mode to Survival Mode
+[21Mar2025 00:14:04.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Alex's Caves]
+[21Mar2025 00:14:46.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:14:46.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 00:15:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Lorem Ipsum]
+[21Mar2025 00:19:46.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:19:46.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 00:20:38.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/70452, l='ServerLevel[world]', x=470.54, y=-256.00, z=428.01] died, message: 'Unemployed was killed'
+[21Mar2025 00:24:03.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xaero-waypoint:casa:C:467:80:435:15:false:0:Internal-overworld-waypoints
+[21Mar2025 00:24:46.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:24:46.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 00:27:21.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/73385, l='ServerLevel[world]', x=470.54, y=-256.00, z=428.01] died, message: 'Unemployed was killed'
+[21Mar2025 00:29:01.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Mar2025 00:29:26.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21Mar2025 00:29:50.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:29:50.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 00:30:12.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has completed the challenge [Thine end is here.]
+[21Mar2025 00:30:12.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has completed the challenge [One eyed big skelly]
+[21Mar2025 00:30:53.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has completed the challenge [Centennial]
+[21Mar2025 00:34:50.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 00:34:50.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 00:35:21.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Cover Me with Diamonds]
+[21Mar2025 00:37:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Limit Breaker]
+[21Mar2025 00:37:22.880] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[21Mar2025 00:37:22.888] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved

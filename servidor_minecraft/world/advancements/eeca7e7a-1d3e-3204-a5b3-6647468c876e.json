@@ -162,7 +162,9 @@
       "cooked_porkchop": "2025-03-20 23:04:29 +0000",
       "cooked_mutton": "2025-03-17 00:25:08 +0000",
       "cooked_beef": "2025-03-16 23:49:36 +0000",
-      "bread": "2025-03-16 22:30:21 +0000"
+      "bread": "2025-03-16 22:30:21 +0000",
+      "enchanted_golden_apple": "2025-03-21 00:08:53 +0000",
+      "carrot": "2025-03-21 00:21:36 +0000"
     },
     "done": false
   },
@@ -272,6 +274,7 @@
       "minecraft:skeleton": "2025-03-16 23:11:24 +0000",
       "minecraft:vindicator": "2025-03-16 23:35:44 +0000",
       "minecraft:spider": "2025-03-17 00:09:22 +0000",
+      "minecraft:slime": "2025-03-21 00:26:53 +0000",
       "minecraft:zombie": "2025-03-16 23:04:17 +0000"
     },
     "done": false
@@ -426,15 +429,45 @@
     },
     "done": true
   },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-03-21 00:30:12 +0000"
+    },
+    "done": true
+  },
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-03-21 00:00:52 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-03-21 00:15:53 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-03-21 00:30:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-21 00:14:04 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-03-20 23:34:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-21 00:06:42 +0000"
     },
     "done": true
   },

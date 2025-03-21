@@ -368,6 +368,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-21 00:30:53 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nightnight": {
     "criteria": {
       "nightnight_0": "2025-03-20 22:32:03 +0000"
