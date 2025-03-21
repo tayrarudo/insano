@@ -292,21 +292,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "obsidian": "2025-03-20 23:33:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-03-20 23:30:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-03-20 23:29:06 +0000"
+      "has_upgraded_grave_key": "2025-03-20 23:28:37 +0000"
     },
     "done": true
   },
@@ -316,15 +304,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-03-20 23:28:37 +0000"
+      "coded_trigger": "2025-03-20 23:29:06 +0000"
     },
     "done": true
   },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-20 23:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-20 23:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-20 23:33:37 +0000"
     },
     "done": true
   },

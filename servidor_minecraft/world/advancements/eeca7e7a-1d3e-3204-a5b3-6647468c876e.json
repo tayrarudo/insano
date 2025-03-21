@@ -453,6 +453,18 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-21 00:35:21 +0000"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-03-21 00:37:22 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-03-21 00:14:04 +0000"
@@ -462,6 +474,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-03-20 23:34:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-03-21 00:44:26 +0000"
     },
     "done": true
   },

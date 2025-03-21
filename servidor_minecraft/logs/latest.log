@@ -26,3 +26,20 @@
 [21Mar2025 00:37:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Limit Breaker]
 [21Mar2025 00:37:22.880] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
 [21Mar2025 00:37:22.888] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[21Mar2025 00:42:51.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has reached the goal [Great minds think alike]
+[21Mar2025 00:44:26.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [The Journey Begins]
+[21Mar2025 00:44:43.057] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 2922 -56 -8543 in 5s
+[21Mar2025 00:45:00.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/79244, l='ServerLevel[world]', x=569.49, y=67.46, z=634.66] died, message: 'Armorer suffocated in a wall'
+[21Mar2025 00:45:21.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:33617] logged in with entity id 80026 at (7.0418239548554125, 76.0, 808.8562499880791)
+[21Mar2025 00:45:21.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[21Mar2025 00:45:21.872] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[21Mar2025 00:46:02.038] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[21Mar2025 00:46:02.085] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[21Mar2025 00:46:36.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/57128, l='ServerLevel[world]', x=464.43, y=69.50, z=434.60] died, message: 'Farmer liquified to Fanta juice'
+[21Mar2025 00:46:48.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[21Mar2025 00:46:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[21Mar2025 00:46:48.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 liquified to Fanta juice
+[21Mar2025 00:46:48.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Hot Stuff]
+[21Mar2025 00:48:50.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[21Mar2025 00:48:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [First big catch of the month!]
+[21Mar2025 00:48:54.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
