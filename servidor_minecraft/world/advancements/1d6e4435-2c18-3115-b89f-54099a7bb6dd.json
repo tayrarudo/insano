@@ -417,6 +417,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-03-21 00:50:12 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-03-20 23:23:30 +0000"
@@ -450,6 +456,24 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-03-20 23:38:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-03-21 00:50:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-03-21 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-03-21 00:49:46 +0000"
     },
     "done": true
   },
