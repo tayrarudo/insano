@@ -232,6 +232,7 @@
       "minecraft:lukewarm_ocean": "2025-03-16 23:37:49 +0000",
       "minecraft:river": "2025-03-16 22:51:29 +0000",
       "minecraft:stony_shore": "2025-03-16 23:24:07 +0000",
+      "minecraft:jungle": "2025-03-20 23:59:33 +0000",
       "minecraft:meadow": "2025-03-20 22:59:41 +0000"
     },
     "done": false
@@ -422,6 +423,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-03-20 22:17:32 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-03-21 00:00:52 +0000"
     },
     "done": true
   },
