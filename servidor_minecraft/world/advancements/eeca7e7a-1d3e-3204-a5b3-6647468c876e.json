@@ -570,26 +570,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/radon_bottle": {
-    "criteria": {
-      "radon_bottle": "2025-03-21 22:19:03 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_radiation_foods": {
-    "criteria": {
-      "slam": "2025-03-21 22:29:26 +0000",
-      "green_soylent": "2025-03-21 22:24:57 +0000",
-      "spelunkie": "2025-03-21 22:24:37 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-03-21 22:16:32 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-03-21 21:59:28 +0000"
@@ -602,51 +582,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-21 22:16:32 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_corundum": {
     "criteria": {
       "yellow": "2025-03-21 22:17:22 +0000"
     },
     "done": false
   },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
+  "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
-      "enter_acid_with_armor": "2025-03-21 22:26:48 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/acid_create_rust": {
-    "criteria": {
-      "rust": "2025-03-21 22:22:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_easter_egg": {
-    "criteria": {
-      "coded_trigger": "2025-03-21 22:29:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_nucleeper": {
-    "criteria": {
-      "killed": "2025-03-21 22:27:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-03-21 22:32:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/uranium_rod": {
-    "criteria": {
-      "limestone": "2025-03-21 22:21:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_brainiac": {
-    "criteria": {
-      "killed": "2025-03-21 22:32:32 +0000"
+      "discover": "2025-03-21 22:17:28 +0000"
     },
     "done": true
   },
@@ -656,15 +606,89 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-03-21 22:19:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-03-21 22:21:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2025-03-21 22:22:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2025-03-21 22:29:26 +0000",
+      "green_soylent": "2025-03-21 22:24:57 +0000",
+      "spelunkie": "2025-03-21 22:24:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-03-21 22:26:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-03-21 22:27:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 22:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-21 22:32:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-03-21 22:32:32 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
       "toxic_paste": "2025-03-21 22:32:59 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_toxic_caves": {
+  "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
-      "discover": "2025-03-21 22:17:28 +0000"
+      "sulfur_dust": "2025-03-21 22:39:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 22:49:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-21 22:47:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-03-21 22:49:05 +0000"
     },
     "done": true
   },
