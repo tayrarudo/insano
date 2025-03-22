@@ -754,3 +754,86 @@
 [22Mar2025 02:14:37.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3063ms or 61 ticks behind
 [22Mar2025 02:14:48.642] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
 [22Mar2025 02:14:48.668] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 02:14:55.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2934ms or 58 ticks behind
+[22Mar2025 02:14:56.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has reached the goal [Fighting Nightmares]
+[22Mar2025 02:15:12.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[22Mar2025 02:15:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 5 entities to Gabriel
+[22Mar2025 02:15:30.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22Mar2025 02:16:05.630] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a7a8731[id=<null>,name=fablex39,properties={},legacy=false] (/127.104.85.61:56905) lost connection: Disconnected
+[22Mar2025 02:16:27.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> oooo josue
+[22Mar2025 02:16:29.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:41039] logged in with entity id 169570 at (457.4013001509538, 74.0, 447.6035437279003)
+[22Mar2025 02:16:29.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[22Mar2025 02:16:29.263] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[22Mar2025 02:16:30.183] [Server thread/WARN] [tombstone/]: The death event of the player zJxs_12 was canceled by another mod
+[22Mar2025 02:16:30.192] [Server thread/INFO] [tombstone/]: The player zJxs_12 has successfully been saved
+[22Mar2025 02:16:49.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[22Mar2025 02:16:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[22Mar2025 02:17:54.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked zJxs_12: Kicked by an operator
+[22Mar2025 02:17:54.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJxs_12 lost connection: Kicked by an operator
+[22Mar2025 02:17:54.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJxs_12 left the game
+[22Mar2025 02:18:14.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me unO?
+[22Mar2025 02:18:20.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> no
+[22Mar2025 02:20:43.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/132698, l='ServerLevel[world]', x=488.56, y=68.00, z=430.50] died, message: 'Librarian became death, the destroyer of worlds'
+[22Mar2025 02:20:43.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['cara de vivaldi'/130582, l='ServerLevel[world]', x=484.49, y=68.00, z=429.92] died: cara de vivaldi didn't duck and cover
+[22Mar2025 02:20:43.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/138204, l='ServerLevel[world]', x=488.70, y=68.00, z=433.70] died, message: 'Librarian was reduced to atoms'
+[22Mar2025 02:20:43.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/131809, l='ServerLevel[world]', x=485.64, y=68.00, z=432.87] died, message: 'Librarian was atomized'
+[22Mar2025 02:20:43.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/158408, l='ServerLevel[world]', x=488.70, y=68.00, z=432.51] died, message: 'Unemployed became death, the destroyer of worlds'
+[22Mar2025 02:20:43.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/131204, l='ServerLevel[world]', x=486.33, y=68.00, z=433.07] died, message: 'Librarian became death, the destroyer of worlds'
+[22Mar2025 02:20:43.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['JOSE ALVERTO III IV V'/170430, l='ServerLevel[world]', x=484.93, y=68.00, z=433.55] died: JOSE ALVERTO III IV V became death, the destroyer of worlds
+[22Mar2025 02:21:20.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:42141] logged in with entity id 172105 at (456.51389400016234, 73.17012203007599, 448.37471531989786)
+[22Mar2025 02:21:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[22Mar2025 02:21:20.885] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[22Mar2025 02:22:03.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[22Mar2025 02:22:03.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[22Mar2025 02:23:55.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved wrongly!
+[22Mar2025 02:24:18.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22Mar2025 02:24:50.310] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[22Mar2025 02:24:50.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22Mar2025 02:24:55.088] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 2855 -56 -8577 in 9s
+[22Mar2025 02:26:09.504] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[22Mar2025 02:26:09.540] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[22Mar2025 02:26:13.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ayuda
+[22Mar2025 02:26:53.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa lost connection: Disconnected
+[22Mar2025 02:26:53.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa left the game
+[22Mar2025 02:27:06.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:40817] logged in with entity id 175508 at (456.51389400016234, 73.17012203007599, 448.37471531989786)
+[22Mar2025 02:27:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[22Mar2025 02:27:06.299] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[22Mar2025 02:28:04.498] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[22Mar2025 02:28:04.537] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[22Mar2025 02:28:08.202] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 02:28:08.253] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:28:11.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> oe
+[22Mar2025 02:28:14.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> no vale
+[22Mar2025 02:29:44.490] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[22Mar2025 02:29:44.505] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[22Mar2025 02:30:57.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[22Mar2025 02:30:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[22Mar2025 02:31:09.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiritogamericrac[/127.41.134.222:44111] logged in with entity id 177041 at (463.67550425780615, 68.24998007636303, 421.9241055619526)
+[22Mar2025 02:31:09.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac joined the game
+[22Mar2025 02:31:09.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has reached the goal [Easter]
+[22Mar2025 02:31:09.592] [Server thread/INFO] [Jade/]: Syncing config to Kiritogamericrac (e9a987dc-9d07-3092-a9c7-544b4fc28a77)
+[22Mar2025 02:31:19.484] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[22Mar2025 02:31:19.492] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[22Mar2025 02:31:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Kiritogamericrac's game mode to Survival Mode]
+[22Mar2025 02:31:33.734] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:31:33.742] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:31:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac suffocated in a wall
+[22Mar2025 02:31:39.244] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:31:43.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported Kiritogamericrac to fablex39]
+[22Mar2025 02:31:45.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Kiritogamericrac's game mode to Survival Mode]
+[22Mar2025 02:32:54.490] [Server thread/WARN] [tombstone/]: The death event of the player Gabriel was canceled by another mod
+[22Mar2025 02:32:54.499] [Server thread/INFO] [tombstone/]: The player Gabriel has successfully been saved
+[22Mar2025 02:33:05.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Removed every effect from 4 targets]
+[22Mar2025 02:33:30.941] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:33:30.949] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:33:34.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac died whilst trying to escape Zombie
+[22Mar2025 02:33:34.094] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:33:51.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported Kiritogamericrac to fablex39]
+[22Mar2025 02:33:54.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Kiritogamericrac's game mode to Survival Mode]
+[22Mar2025 02:34:01.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiritogamericrac> enderperl
+[22Mar2025 02:34:15.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Gave 1 [Ender Pearl] to Kiritogamericrac]
+[22Mar2025 02:34:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [The Most Useful Key]
+[22Mar2025 02:34:21.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Good Demoman]
+[22Mar2025 02:34:25.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Knowledge of Death]
+[22Mar2025 02:34:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has reached the goal [A Fast Comeback]
+[22Mar2025 02:34:37.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Knowledge raises the soul]

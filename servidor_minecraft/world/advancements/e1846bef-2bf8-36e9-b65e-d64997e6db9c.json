@@ -571,99 +571,9 @@
     },
     "done": true
   },
-  "create:mechanical_pump_0": {
+  "create:burner": {
     "criteria": {
-      "0": "2025-03-21 23:54:50 +0000"
-    },
-    "done": true
-  },
-  "create:brass": {
-    "criteria": {
-      "0": "2025-03-22 00:30:43 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_4": "2025-03-21 23:40:36 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-03-22 01:50:14 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-03-22 01:30:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-03-22 00:03:10 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:tier_1_rocket": {
-    "criteria": {
-      "has_tier_1_rocket": "2025-03-22 01:01:18 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:carbon_footprint": {
-    "criteria": {
-      "has_coal_generator": "2025-03-22 00:37:34 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-03-22 00:03:10 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:ti_69": {
-    "criteria": {
-      "has_ti_69": "2025-03-22 00:50:58 +0000"
-    },
-    "done": true
-  },
-  "create:brass_casing": {
-    "criteria": {
-      "0": "2025-03-22 00:30:44 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_mixer": {
-    "criteria": {
-      "0": "2025-03-22 00:26:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-03-22 00:19:30 +0000"
-    },
-    "done": true
-  },
-  "create:copper_casing": {
-    "criteria": {
-      "0": "2025-03-21 23:47:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-03-22 00:17:36 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:smart_blasting": {
-    "criteria": {
-      "has_etrionic_blast_furnace": "2025-03-22 00:39:40 +0000"
+      "0": "2025-03-21 23:22:41 +0000"
     },
     "done": true
   },
@@ -673,9 +583,81 @@
     },
     "done": true
   },
-  "create:burner": {
+  "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "0": "2025-03-21 23:22:41 +0000"
+      "charm_collector_4": "2025-03-21 23:40:36 +0000"
+    },
+    "done": false
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-03-21 23:47:54 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-21 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 00:03:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-03-22 00:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-22 00:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-22 00:19:30 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-03-22 00:26:28 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-03-22 00:30:43 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-03-22 00:30:44 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2025-03-22 00:37:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2025-03-22 00:37:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-03-22 00:39:40 +0000"
     },
     "done": true
   },
@@ -685,9 +667,27 @@
     },
     "done": true
   },
-  "ad_astra:ad_astra": {
+  "ad_astra:ti_69": {
     "criteria": {
-      "has_coal_generator": "2025-03-22 00:37:34 +0000"
+      "has_ti_69": "2025-03-22 00:50:58 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2025-03-22 01:01:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-03-22 01:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-03-22 01:50:14 +0000"
     },
     "done": true
   },
