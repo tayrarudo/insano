@@ -656,6 +656,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 19:08:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-03-22 17:18:26 +0000"
@@ -667,6 +673,12 @@
       "minecraft:bee": "2025-03-22 18:56:02 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-03-22 19:07:46 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
