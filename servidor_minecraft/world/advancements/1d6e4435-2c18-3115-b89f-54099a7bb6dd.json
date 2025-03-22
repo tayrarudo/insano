@@ -156,6 +156,7 @@
       "rotten_flesh": "2025-03-21 00:29:31 +0000",
       "dried_kelp": "2025-03-16 23:55:30 +0000",
       "salmon": "2025-03-16 23:58:40 +0000",
+      "enchanted_golden_apple": "2025-03-22 19:49:42 +0000",
       "mushroom_stew": "2025-03-16 23:56:08 +0000"
     },
     "done": false
@@ -610,6 +611,18 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-22 17:27:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-03-22 19:50:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-03-22 19:45:35 +0000"
     },
     "done": true
   },
