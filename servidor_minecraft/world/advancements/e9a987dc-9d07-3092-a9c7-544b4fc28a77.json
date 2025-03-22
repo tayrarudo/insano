@@ -240,51 +240,51 @@
     },
     "done": true
   },
-  "undead_revamp2:cloggeradvance": {
-    "criteria": {
-      "cloggeradvance_0": "2025-03-22 03:29:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:beanstalk": {
-    "criteria": {
-      "beans": "2025-03-22 03:01:26 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-22 02:31:09 +0000"
     },
     "done": true
   },
-  "undead_revamp2:defeatundeadbosses": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "defeatundeadbosses_0": "2025-03-22 03:29:08 +0000"
+      "has_upgraded_grave_key": "2025-03-22 02:34:20 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "killed_by_relicheirus": "2025-03-22 03:51:14 +0000"
+      "coded_trigger": "2025-03-22 02:34:25 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "iron_chestplate": "2025-03-22 02:59:57 +0000"
+      "coded_trigger": "2025-03-22 02:34:25 +0000"
     },
     "done": true
   },
-  "twilightforest:giants": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "pickaxe": "2025-03-22 03:01:26 +0000"
+      "coded_trigger": "2025-03-22 02:34:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "mowziesmobs:suns_blessing": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "get_suns_blessing": "2025-03-22 03:59:37 +0000"
+      "from_undead": "2025-03-22 02:37:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-22 02:37:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 02:40:47 +0000"
     },
     "done": true
   },
@@ -294,17 +294,41 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "discover": "2025-03-22 03:50:00 +0000"
+      "shot_arrow": "2025-03-22 02:46:17 +0000"
     },
     "done": true
   },
-  "faded_conquest_2:pbslain": {
+  "alexscaves:alexscaves/raygun": {
     "criteria": {
-      "pbslain_0": "2025-03-22 03:45:20 +0000"
+      "raygun": "2025-03-22 02:58:47 +0000"
     },
     "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-22 02:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-22 02:59:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-03-22 03:01:26 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-03-22 03:01:26 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
@@ -318,9 +342,30 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "from_undead": "2025-03-22 02:37:25 +0000"
+      "entered_nether": "2025-03-22 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-03-22 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-22 03:16:53 +0000",
+      "minecraft:spider": "2025-03-22 03:13:53 +0000",
+      "minecraft:creeper": "2025-03-22 03:36:39 +0000",
+      "minecraft:zombie": "2025-03-22 03:08:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-22 03:08:06 +0000"
     },
     "done": true
   },
@@ -336,66 +381,15 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "undead_revamp2:cloggeradvance": {
     "criteria": {
-      "entered_nether": "2025-03-22 03:04:29 +0000"
+      "cloggeradvance_0": "2025-03-22 03:29:08 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/limestone": {
+  "undead_revamp2:defeatundeadbosses": {
     "criteria": {
-      "limestone": "2025-03-22 03:50:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/serene_salad": {
-    "criteria": {
-      "serene_salad": "2025-03-22 04:02:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_easter_egg": {
-    "criteria": {
-      "coded_trigger": "2025-03-22 02:40:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-03-22 02:46:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-03-22 02:34:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-03-22 03:16:53 +0000",
-      "minecraft:spider": "2025-03-22 03:13:53 +0000",
-      "minecraft:creeper": "2025-03-22 03:36:39 +0000",
-      "minecraft:zombie": "2025-03-22 03:08:06 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-03-22 02:34:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-03-22 03:08:06 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-03-22 02:37:28 +0000"
+      "defeatundeadbosses_0": "2025-03-22 03:29:08 +0000"
     },
     "done": true
   },
@@ -405,21 +399,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "faded_conquest_2:pbslain": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-03-22 02:34:20 +0000"
+      "pbslain_0": "2025-03-22 03:45:20 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
-      "coded_trigger": "2025-03-22 02:34:25 +0000"
+      "discover": "2025-03-22 03:50:00 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "alexscaves:alexscaves/limestone": {
     "criteria": {
-      "diamond": "2025-03-22 02:59:02 +0000"
+      "limestone": "2025-03-22 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_relicheirus": "2025-03-22 03:51:14 +0000"
     },
     "done": true
   },
@@ -435,15 +435,45 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "mowziesmobs:suns_blessing": {
     "criteria": {
-      "in_better_fortress": "2025-03-22 03:05:15 +0000"
+      "get_suns_blessing": "2025-03-22 03:59:37 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/raygun": {
+  "alexscaves:alexscaves/serene_salad": {
     "criteria": {
-      "raygun": "2025-03-22 02:58:47 +0000"
+      "serene_salad": "2025-03-22 04:02:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-03-22 04:05:35 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2025-03-22 04:06:38 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood_0": "2025-03-22 04:09:49 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-03-22 04:17:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-03-22 04:16:11 +0000"
     },
     "done": true
   },

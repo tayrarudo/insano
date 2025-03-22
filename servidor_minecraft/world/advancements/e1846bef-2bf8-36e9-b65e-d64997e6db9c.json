@@ -694,15 +694,9 @@
     },
     "done": true
   },
-  "ad_astra:moon_cheese": {
+  "ad_astra:ocean_cleanup": {
     "criteria": {
-      "has_moon_cheese": "2025-03-22 03:43:17 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:moon": {
-    "criteria": {
-      "entered_moon": "2025-03-22 03:40:09 +0000"
+      "oil_bucket": "2025-03-22 03:28:14 +0000"
     },
     "done": true
   },
@@ -712,9 +706,21 @@
     },
     "done": true
   },
-  "ad_astra:ocean_cleanup": {
+  "ad_astra:moon": {
     "criteria": {
-      "oil_bucket": "2025-03-22 03:28:14 +0000"
+      "entered_moon": "2025-03-22 03:40:09 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:moon_cheese": {
+    "criteria": {
+      "has_moon_cheese": "2025-03-22 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-03-22 04:11:18 +0000"
     },
     "done": true
   },

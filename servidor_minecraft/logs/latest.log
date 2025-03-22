@@ -1238,3 +1238,55 @@
 [22Mar2025 04:06:38.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
 [22Mar2025 04:06:38.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has completed the challenge [Well, that was disgusting]
 [22Mar2025 04:06:56.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[22Mar2025 04:07:14.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[22Mar2025 04:07:32.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[22Mar2025 04:07:40.409] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 04:07:40.427] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 04:07:50.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[22Mar2025 04:08:09.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3479ms or 69 ticks behind
+[22Mar2025 04:08:26.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has completed the challenge [Unfunny dad jokes]
+[22Mar2025 04:08:27.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
+[22Mar2025 04:08:48.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5665ms or 113 ticks behind
+[22Mar2025 04:09:11.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8200ms or 164 ticks behind
+[22Mar2025 04:09:31.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5209ms or 104 ticks behind
+[22Mar2025 04:09:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [Diamonds!]
+[22Mar2025 04:09:49.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has completed the challenge [Blood of the great ent]
+[22Mar2025 04:09:52.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5384ms or 107 ticks behind
+[22Mar2025 04:10:11.537] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 04:10:11.562] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 04:10:12.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4843ms or 96 ticks behind
+[22Mar2025 04:10:32.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[22Mar2025 04:10:43.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 04:10:51.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
+[22Mar2025 04:10:54.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 04:11:09.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[22Mar2025 04:11:12.505] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot first try, trying again with longer range.
+[22Mar2025 04:11:12.546] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot second try, trying to move slightly towards the center between key biomes.
+[22Mar2025 04:11:12.570] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot third try, trying to move further towards the center between key biomes.
+[22Mar2025 04:11:12.592] [Server thread/WARN] [twilightforest/]: Still did not find a safe portal spot.
+[22Mar2025 04:11:32.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: culosucio moved too quickly! 0.34731455528731203,1.0411092609382138,-10.208889610520089
+[22Mar2025 04:11:39.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[22Mar2025 04:11:39.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[22Mar2025 04:11:39.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15213ms or 304 ticks behind
+[22Mar2025 04:12:47.534] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 04:12:47.556] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 04:13:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac was slain by Sucker
+[22Mar2025 04:13:50.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiritogamericrac lost connection: Disconnected
+[22Mar2025 04:13:50.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac left the game
+[22Mar2025 04:14:36.419] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fb8f503[id=<null>,name=Kiritogamericrac,properties={},legacy=false] (/127.41.134.222:44297) lost connection: Disconnected
+[22Mar2025 04:14:50.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiritogamericrac[/127.41.134.222:59271] logged in with entity id 236285 at (-2086.70279967256, -22.0, 2345.85573318031)
+[22Mar2025 04:14:50.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac joined the game
+[22Mar2025 04:14:50.768] [Server thread/INFO] [Jade/]: Syncing config to Kiritogamericrac (e9a987dc-9d07-3092-a9c7-544b4fc28a77)
+[22Mar2025 04:15:33.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:35407] logged in with entity id 236486 at (434.5, 71.0, 432.5)
+[22Mar2025 04:15:33.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[22Mar2025 04:15:33.501] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[22Mar2025 04:15:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Kiritogamericrac's game mode to Survival Mode
+[22Mar2025 04:15:41.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Law of Club and Fang]
+[22Mar2025 04:15:41.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Mar2025 04:16:01.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4461ms or 89 ticks behind
+[22Mar2025 04:16:11.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Law of Club and Fang]
+[22Mar2025 04:16:22.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
+[22Mar2025 04:16:42.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5534ms or 110 ticks behind
+[22Mar2025 04:17:04.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has completed the challenge [+PARRY]
+[22Mar2025 04:17:07.957] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 04:17:08.019] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
