@@ -249,10 +249,12 @@
     "criteria": {
       "minecraft:blaze": "2025-03-21 23:28:15 +0000",
       "minecraft:skeleton": "2025-03-21 23:27:23 +0000",
+      "minecraft:vindicator": "2025-03-22 20:43:12 +0000",
       "minecraft:magma_cube": "2025-03-21 23:30:16 +0000",
       "minecraft:slime": "2025-03-22 01:00:02 +0000",
       "minecraft:zombified_piglin": "2025-03-21 23:48:06 +0000",
       "minecraft:wither_skeleton": "2025-03-21 23:33:21 +0000",
+      "minecraft:cave_spider": "2025-03-22 20:38:45 +0000",
       "minecraft:zombie": "2025-03-17 01:25:25 +0000",
       "minecraft:zombie_villager": "2025-03-21 23:40:09 +0000"
     },
@@ -583,9 +585,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 20:43:12 +0000"
+    },
+    "done": true
+  },
   "quark:throw_pickarang": {
     "criteria": {
       "throw_pickarang": "2025-03-22 20:27:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 20:39:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-03-22 20:44:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-03-22 20:44:53 +0000"
     },
     "done": true
   },

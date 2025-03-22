@@ -173,6 +173,7 @@
       "minecraft:bamboo_jungle": "2025-03-22 20:09:41 +0000",
       "minecraft:beach": "2025-03-16 23:13:58 +0000",
       "minecraft:stony_peaks": "2025-03-22 20:09:25 +0000",
+      "minecraft:dark_forest": "2025-03-22 20:41:33 +0000",
       "minecraft:sparse_jungle": "2025-03-22 20:02:52 +0000",
       "minecraft:river": "2025-03-16 23:12:58 +0000",
       "minecraft:lukewarm_ocean": "2025-03-17 00:04:53 +0000",
@@ -182,6 +183,7 @@
       "minecraft:lush_caves": "2025-03-22 20:10:30 +0000",
       "minecraft:ocean": "2025-03-16 23:13:03 +0000",
       "minecraft:jungle": "2025-03-22 20:09:30 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-22 20:40:54 +0000",
       "minecraft:deep_dark": "2025-03-20 23:38:41 +0000",
       "minecraft:meadow": "2025-03-20 23:41:01 +0000",
       "minecraft:plains": "2025-03-16 23:19:04 +0000"
@@ -235,6 +237,7 @@
     "criteria": {
       "minecraft:blaze": "2025-03-22 00:28:02 +0000",
       "minecraft:skeleton": "2025-03-16 23:35:33 +0000",
+      "minecraft:vindicator": "2025-03-22 20:44:00 +0000",
       "minecraft:magma_cube": "2025-03-22 00:29:59 +0000",
       "minecraft:spider": "2025-03-16 23:19:10 +0000",
       "minecraft:piglin_brute": "2025-03-22 01:44:38 +0000",
@@ -248,7 +251,8 @@
       "quark:wraith": "2025-03-22 01:34:56 +0000",
       "minecraft:piglin": "2025-03-22 00:59:27 +0000",
       "minecraft:zombie": "2025-03-16 23:36:12 +0000",
-      "quark:foxhound": "2025-03-22 00:27:33 +0000"
+      "quark:foxhound": "2025-03-22 00:27:33 +0000",
+      "minecraft:zombie_villager": "2025-03-22 20:43:45 +0000"
     },
     "done": false
   },
@@ -639,15 +643,9 @@
     },
     "done": true
   },
-  "undead_revamp2:sugarcoat": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "sugarcoat_0": "2025-03-22 20:29:05 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:parry": {
-    "criteria": {
-      "parry_0": "2025-03-22 20:28:51 +0000"
+      "has_upgraded_grave_key": "2025-03-22 20:11:47 +0000"
     },
     "done": true
   },
@@ -657,9 +655,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "undead_revamp2:parry": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-03-22 20:11:47 +0000"
+      "parry_0": "2025-03-22 20:28:51 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-03-22 20:29:05 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-03-22 20:42:44 +0000"
     },
     "done": true
   },
