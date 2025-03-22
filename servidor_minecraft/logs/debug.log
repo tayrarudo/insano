@@ -13544,3 +13544,103 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Mar2025 18:45:07.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: culosucio moved too quickly! -3.5157775833848177,0.41999998688697815,9.995007174893487
 [22Mar2025 18:45:07.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4666ms or 93 ticks behind
 [22Mar2025 18:45:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported elchipaxd12 to fablex39]
+[22Mar2025 18:45:16.979] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 18:45:17.056] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:45:17.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 suffocated in a wall
+[22Mar2025 18:45:17.124] [Server thread/DEBUG] [tombstone/]: A new grave of the player elchipaxd12 was created at position [x:1104, y:76, z:-360, dim:ad_astra:moon]
+[22Mar2025 18:45:17.182] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 18:45:19.800] [Server thread/DEBUG] [twilightforest/]: Player elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55) respawned and received items held in storage
+[22Mar2025 18:45:20.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio couldn't breathe anymore
+[22Mar2025 18:45:20.311] [Server thread/DEBUG] [tombstone/]: A new grave of the player culosucio was created at position [x:1106, y:76, z:-360, dim:ad_astra:moon]
+[22Mar2025 18:45:20.313] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:45:25.520] [Server thread/DEBUG] [twilightforest/]: Player culosucio (6ebf05c9-1b61-309d-b1b0-a8d0001e39ec) respawned and received items held in storage
+[22Mar2025 18:45:43.705] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 18:45:43.768] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 18:45:49.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Dread Hound
+[22Mar2025 18:45:49.924] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:430, y:63, z:398, dim:minecraft:overworld]
+[22Mar2025 18:45:51.196] [Server thread/DEBUG] [twilightforest/]: Player fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c) respawned and received items held in storage
+[22Mar2025 18:46:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set elchipaxd12's game mode to Survival Mode]
+[22Mar2025 18:46:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set culosucio's game mode to Survival Mode]
+[22Mar2025 18:46:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 18:46:58.803] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 18:46:58.816] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 18:47:44.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 18:47:44.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 18:47:48.754] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 18:47:48.768] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 18:48:06.602] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 18:48:06.615] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:48:07.602] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 18:48:07.617] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 18:49:01.157] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 18:49:01.170] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 18:49:05.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by The Pregnant
+[22Mar2025 18:49:05.164] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:468, y:70, z:436, dim:minecraft:overworld]
+[22Mar2025 18:49:06.404] [Server thread/DEBUG] [twilightforest/]: Player fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c) respawned and received items held in storage
+[22Mar2025 18:49:06.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio was slain by The Pregnant
+[22Mar2025 18:49:06.883] [Server thread/DEBUG] [tombstone/]: A new grave of the player culosucio was created at position [x:467, y:70, z:434, dim:minecraft:overworld]
+[22Mar2025 18:49:08.303] [Server thread/DEBUG] [twilightforest/]: Player culosucio (6ebf05c9-1b61-309d-b1b0-a8d0001e39ec) respawned and received items held in storage
+[22Mar2025 18:49:10.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 18:49:10.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set culosucio's game mode to Survival Mode]
+[22Mar2025 18:49:13.456] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 18:49:13.517] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 18:49:18.150] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 18:49:18.164] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 18:49:25.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by The Pregnant
+[22Mar2025 18:49:25.611] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:469, y:70, z:434, dim:minecraft:overworld]
+[22Mar2025 18:49:27.012] [Server thread/DEBUG] [twilightforest/]: Player fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c) respawned and received items held in storage
+[22Mar2025 18:49:30.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 18:49:57.911] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 18:49:57.924] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:50:01.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3761ms or 75 ticks behind
+[22Mar2025 18:50:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 was slain by Zombie
+[22Mar2025 18:50:04.865] [Server thread/DEBUG] [tombstone/]: A new grave of the player Andremat2010 was created at position [x:477, y:70, z:422, dim:minecraft:overworld]
+[22Mar2025 18:50:06.584] [Server thread/DEBUG] [twilightforest/]: Player Andremat2010 (b6190ebc-ec78-3fbc-8ee5-431ad60fde8c) respawned and received items held in storage
+[22Mar2025 18:50:09.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Andremat2010's game mode to Survival Mode]
+[22Mar2025 18:50:17.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 was slain by Zombie
+[22Mar2025 18:50:17.600] [Server thread/DEBUG] [tombstone/]: A new grave of the player elchipaxd12 was created at position [x:476, y:70, z:421, dim:minecraft:overworld]
+[22Mar2025 18:50:19.275] [Server thread/DEBUG] [twilightforest/]: Player elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55) respawned and received items held in storage
+[22Mar2025 18:50:19.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set elchipaxd12's game mode to Survival Mode]
+[22Mar2025 18:50:35.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio was slain by Nightmare Stalker
+[22Mar2025 18:50:37.760] [Server thread/DEBUG] [twilightforest/]: Player culosucio (6ebf05c9-1b61-309d-b1b0-a8d0001e39ec) respawned and received items held in storage
+[22Mar2025 18:51:13.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set culosucio's game mode to Survival Mode]
+[22Mar2025 18:51:56.996] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 18:51:57.036] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:51:59.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio froze to death
+[22Mar2025 18:51:59.716] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:52:02.059] [Server thread/DEBUG] [twilightforest/]: Player culosucio (6ebf05c9-1b61-309d-b1b0-a8d0001e39ec) respawned and received items held in storage
+[22Mar2025 18:52:03.494] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 18:52:03.558] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 18:52:08.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 suffocated in a wall
+[22Mar2025 18:52:08.724] [Server thread/DEBUG] [tombstone/]: A new grave of the player elchipaxd12 was created at position [x:1105, y:76, z:-360, dim:ad_astra:moon]
+[22Mar2025 18:52:08.784] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 18:52:10.313] [Server thread/DEBUG] [twilightforest/]: Player elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55) respawned and received items held in storage
+[22Mar2025 18:52:14.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set culosucio's game mode to Survival Mode]
+[22Mar2025 18:52:14.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set elchipaxd12's game mode to Survival Mode]
+[22Mar2025 18:52:48.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 18:52:48.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 18:53:04.142] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 18:53:04.195] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:53:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio couldn't breathe anymore
+[22Mar2025 18:53:07.734] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:53:09.433] [Server thread/DEBUG] [twilightforest/]: Player culosucio (6ebf05c9-1b61-309d-b1b0-a8d0001e39ec) respawned and received items held in storage
+[22Mar2025 18:53:24.608] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 18:53:24.679] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 18:53:28.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 couldn't breathe anymore
+[22Mar2025 18:53:28.557] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:1112, y:76, z:-357, dim:ad_astra:moon]
+[22Mar2025 18:53:28.598] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 18:53:30.033] [Server thread/DEBUG] [twilightforest/]: Player fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c) respawned and received items held in storage
+[22Mar2025 18:53:43.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set culosucio's game mode to Survival Mode]
+[22Mar2025 18:53:43.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 18:54:19.217] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 18:54:19.271] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 18:54:43.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 18:54:44.891] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 6ebf05c9-1b61-309d-b1b0-a8d0001e39ec data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[22Mar2025 18:54:45.698] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 6ebf05c9-1b61-309d-b1b0-a8d0001e39ec data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=ebfb1e69-330a-4970-8bca-f5625c90681a, emoteData=null, startingAt=0, player=null}
+[22Mar2025 18:54:46.739] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 6ebf05c9-1b61-309d-b1b0-a8d0001e39ec data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[22Mar2025 18:54:51.203] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 6ebf05c9-1b61-309d-b1b0-a8d0001e39ec data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[22Mar2025 18:55:05.864] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 6ebf05c9-1b61-309d-b1b0-a8d0001e39ec data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[22Mar2025 18:55:07.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 18:55:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 was pummeled by Ice Spit
+[22Mar2025 18:55:18.897] [Server thread/DEBUG] [tombstone/]: A new grave of the player elchipaxd12 was created at position [x:1106, y:76, z:-314, dim:ad_astra:moon]
+[22Mar2025 18:55:21.849] [Server thread/DEBUG] [twilightforest/]: Player elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55) respawned and received items held in storage
