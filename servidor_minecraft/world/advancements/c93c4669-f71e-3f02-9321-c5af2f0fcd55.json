@@ -469,9 +469,9 @@
     },
     "done": true
   },
-  "undead_revamp2:sugarcoat": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "sugarcoat_0": "2025-03-22 01:57:43 +0000"
+      "coded_trigger": "2025-03-22 01:52:40 +0000"
     },
     "done": true
   },
@@ -487,9 +487,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "coded_trigger": "2025-03-22 01:52:40 +0000"
+      "has_enchanted_voodoo_poppet": "2025-03-22 01:53:54 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-03-22 01:57:43 +0000"
     },
     "done": true
   },
@@ -499,9 +505,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "ad_astra:astronaut": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-03-22 01:53:54 +0000"
+      "has_astronaut": "2025-03-22 17:07:24 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:zip_gun": {
+    "criteria": {
+      "using_zip_gun": "2025-03-22 17:08:05 +0000"
     },
     "done": true
   },
