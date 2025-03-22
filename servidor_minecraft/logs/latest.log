@@ -1316,3 +1316,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Mar2025 18:54:43.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
 [22Mar2025 18:55:07.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
 [22Mar2025 18:55:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 was pummeled by Ice Spit
+[22Mar2025 18:56:01.927] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 18:56:01.996] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:56:02.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [The Parrots and the Bats]
+[22Mar2025 18:56:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio couldn't breathe anymore
+[22Mar2025 18:56:06.402] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 18:56:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported culosucio to fablex39]
+[22Mar2025 18:59:15.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set elchipaxd12's game mode to Survival Mode]
+[22Mar2025 18:59:15.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set culosucio's game mode to Survival Mode]
+[22Mar2025 18:59:57.717] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 18:59:57.728] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 19:00:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio couldn't breathe anymore
+[22Mar2025 19:00:02.234] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 19:00:10.419] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 19:00:10.472] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 19:00:14.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 couldn't breathe anymore
+[22Mar2025 19:00:14.685] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 19:01:25.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set culosucio's game mode to Survival Mode]
+[22Mar2025 19:01:25.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set elchipaxd12's game mode to Survival Mode]
+[22Mar2025 19:02:10.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported elchipaxd12 to fablex39]
+[22Mar2025 19:03:42.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/85246, l='ServerLevel[world]', x=472.53, y=-256.00, z=428.96] died, message: 'Unemployed was killed'
+[22Mar2025 19:04:39.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LTCBAS2022[/127.157.4.137:47005] logged in with entity id 85618 at (9.5, 103.0, -0.5)
+[22Mar2025 19:04:39.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 joined the game
+[22Mar2025 19:04:39.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has reached the goal [Easter]
+[22Mar2025 19:04:39.209] [Server thread/INFO] [Jade/]: Syncing config to LTCBAS2022 (2d34fe58-5639-3f57-9b50-26fd3cd6fb80)
+[22Mar2025 19:04:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has completed the challenge [The Undead]
+[22Mar2025 19:05:05.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=106, z=0}
+[22Mar2025 19:05:55.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Cover Me with Diamonds]
