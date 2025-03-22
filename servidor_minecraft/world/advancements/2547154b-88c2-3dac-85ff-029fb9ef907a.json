@@ -188,6 +188,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-03-16 22:43:51 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-22 00:27:17 +0000",
       "minecraft:stony_shore": "2025-03-16 23:11:33 +0000",
       "minecraft:meadow": "2025-03-16 23:24:19 +0000"
     },
@@ -316,9 +317,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/allay_deliver_item_to_player": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "allay_deliver_item_to_player": "2025-03-17 00:07:38 +0000"
+      "coded_trigger": "2025-03-16 23:51:03 +0000"
     },
     "done": true
   },
@@ -328,15 +329,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-03-17 00:07:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-03-17 00:23:14 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "tombstone:adventure/easter": {
     "criteria": {
-      "coded_trigger": "2025-03-16 23:51:03 +0000"
+      "coded_trigger": "2025-03-22 00:23:54 +0000"
     },
     "done": true
   },
