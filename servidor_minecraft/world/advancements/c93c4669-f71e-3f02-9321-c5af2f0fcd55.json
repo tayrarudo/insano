@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2025-03-22 18:13:26 +0000"
+    },
+    "done": true
+  },
   "ad_astra:astronaut": {
     "criteria": {
       "has_astronaut": "2025-03-22 17:07:24 +0000"

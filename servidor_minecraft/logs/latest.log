@@ -1078,3 +1078,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Mar2025 18:03:31.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 went up in flames
 [22Mar2025 18:03:32.071] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
 [22Mar2025 18:03:42.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 18:04:19.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set elchipaxd12's game mode to Survival Mode]
+[22Mar2025 18:04:45.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: culosucio[/127.250.95.184:36683] logged in with entity id 46562 at (438.2431027177581, 70.79673560066871, 427.3818674251159)
+[22Mar2025 18:04:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio joined the game
+[22Mar2025 18:04:45.459] [Server thread/INFO] [Jade/]: Syncing config to culosucio (6ebf05c9-1b61-309d-b1b0-a8d0001e39ec)
+[22Mar2025 18:06:59.615] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[22Mar2025 18:13:26.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [One Small Step]
+[22Mar2025 18:13:26.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of elchipaxd12) moved too quickly! 0.5,29.155536476288944,0.5
+[22Mar2025 18:13:26.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of elchipaxd12) moved too quickly! 0.5,28.060536476288917,0.5
+[22Mar2025 18:13:26.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of elchipaxd12) moved too quickly! 0.5,29.015535756264853,0.5
+[22Mar2025 18:13:26.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of elchipaxd12) moved too quickly! 0.5,29.97053503624079,0.5
+[22Mar2025 18:13:43.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJxs_12[/127.45.10.185:53025] logged in with entity id 51060 at (439.7533893547287, 72.0, 462.95488564458003)
+[22Mar2025 18:13:43.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJxs_12 joined the game
+[22Mar2025 18:13:43.840] [Server thread/INFO] [Jade/]: Syncing config to zJxs_12 (2547154b-88c2-3dac-85ff-029fb9ef907a)
+[22Mar2025 18:14:00.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Mar2025 18:14:26.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
