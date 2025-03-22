@@ -694,6 +694,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-03-22 21:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:bee": "2025-03-22 18:56:02 +0000"
@@ -715,6 +721,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-03-22 19:07:46 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-03-22 21:07:57 +0000"
     },
     "done": true
   },
@@ -751,6 +763,12 @@
   "alexscaves:alexscaves/tame_vallumraptor": {
     "criteria": {
       "killed": "2025-03-22 20:51:02 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-22 21:06:18 +0000"
     },
     "done": true
   },

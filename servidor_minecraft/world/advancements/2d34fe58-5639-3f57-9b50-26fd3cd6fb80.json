@@ -133,7 +133,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:lukewarm_ocean": "2025-03-22 19:13:31 +0000",
-      "minecraft:stony_shore": "2025-03-22 19:13:03 +0000"
+      "minecraft:stony_shore": "2025-03-22 19:13:03 +0000",
+      "minecraft:dripstone_caves": "2025-03-22 21:07:18 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-22 21:08:52 +0000"
     },
     "done": false
   },
@@ -191,6 +193,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-03-22 21:05:03 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-03-22 20:49:00 +0000"
@@ -209,9 +217,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-03-22 21:07:28 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2025-03-22 20:49:33 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-03-22 21:06:35 +0000"
     },
     "done": true
   },
@@ -248,6 +268,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-03-22 19:30:43 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-22 21:06:15 +0000"
     },
     "done": true
   },

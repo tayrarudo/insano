@@ -161,6 +161,7 @@
       "minecraft:river": "2025-03-16 23:00:38 +0000",
       "minecraft:lukewarm_ocean": "2025-03-20 22:11:38 +0000",
       "minecraft:stony_shore": "2025-03-16 23:10:29 +0000",
+      "minecraft:dripstone_caves": "2025-03-22 21:07:21 +0000",
       "minecraft:forest": "2025-03-16 22:42:01 +0000",
       "minecraft:ocean": "2025-03-16 23:45:19 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
@@ -848,6 +849,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-03-22 21:07:56 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2025-03-22 18:27:06 +0000"
@@ -863,6 +870,12 @@
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_tremorsaurus": "2025-03-22 20:51:39 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-22 21:05:34 +0000"
     },
     "done": true
   },
