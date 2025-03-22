@@ -88,6 +88,7 @@
       "woodland": "2025-03-22 03:10:27 +0000",
       "shrubland": "2025-03-22 03:09:19 +0000",
       "rocky_shrubland": "2025-03-22 03:08:25 +0000",
+      "dune_beach": "2025-03-22 18:36:09 +0000",
       "rainforest": "2025-03-22 03:19:46 +0000"
     },
     "done": false
@@ -112,7 +113,8 @@
       "minecraft:river": "2025-03-22 03:25:45 +0000",
       "minecraft:stony_shore": "2025-03-22 03:12:01 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
-      "minecraft:ocean": "2025-03-22 03:27:14 +0000"
+      "minecraft:ocean": "2025-03-22 03:27:14 +0000",
+      "minecraft:savanna": "2025-03-22 18:41:06 +0000"
     },
     "done": false
   },

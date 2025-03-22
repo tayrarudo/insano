@@ -198,6 +198,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:stony_peaks": "2025-03-22 01:47:03 +0000",
+      "minecraft:sparse_jungle": "2025-03-22 18:42:28 +0000",
       "minecraft:river": "2025-03-16 22:43:51 +0000",
       "minecraft:lukewarm_ocean": "2025-03-22 00:27:17 +0000",
       "minecraft:stony_shore": "2025-03-16 23:11:33 +0000",
