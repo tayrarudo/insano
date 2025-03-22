@@ -558,13 +558,20 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-21 23:17:12 +0000"
+      "minecraft:crimson_forest": "2025-03-21 23:17:12 +0000",
+      "minecraft:nether_wastes": "2025-03-21 23:50:42 +0000"
     },
     "done": false
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-03-21 23:17:24 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-21 23:54:50 +0000"
     },
     "done": true
   },
