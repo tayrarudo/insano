@@ -854,6 +854,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2025-03-22 20:51:39 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-03-22 18:21:54 +0000"

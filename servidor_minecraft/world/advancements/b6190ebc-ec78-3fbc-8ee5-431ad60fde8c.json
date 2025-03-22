@@ -651,9 +651,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_tremorsaurus": "2025-03-22 20:51:30 +0000"
+    },
+    "done": true
+  },
   "portablemobs:captureadvancement": {
     "criteria": {
       "capture": "2025-03-22 18:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-22 20:51:02 +0000"
     },
     "done": true
   },
@@ -669,11 +681,23 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-03-22 20:52:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:bee": "2025-03-22 18:56:02 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-03-22 20:48:12 +0000"
+    },
+    "done": true
   },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
@@ -699,9 +723,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-03-22 20:52:47 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-03-22 20:25:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_vallumraptor": {
+    "criteria": {
+      "killed": "2025-03-22 20:51:02 +0000"
     },
     "done": true
   },

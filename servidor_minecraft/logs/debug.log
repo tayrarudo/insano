@@ -17054,3 +17054,84 @@ Caused by: java.util.NoSuchElementException: No value present
 [22Mar2025 20:48:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Town of Bedrock]
 [22Mar2025 20:48:14.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has reached the goal [Dark Creator]
 [22Mar2025 20:48:19.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Mar2025 20:48:38.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4261ms or 85 ticks behind
+[22Mar2025 20:48:56.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[22Mar2025 20:49:00.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has reached the goal [The Cave That Time Forgot]
+[22Mar2025 20:49:15.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
+[22Mar2025 20:49:26.996] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[22Mar2025 20:49:33.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Town of Bedrock]
+[22Mar2025 20:49:37.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22Mar2025 20:49:55.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[22Mar2025 20:50:12.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[22Mar2025 20:50:13.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has reached the goal [Arachnophobe's Nightmare]
+[22Mar2025 20:50:29.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[22Mar2025 20:50:33.388] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 20:50:33.466] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 20:50:41.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Tremorsaurus
+[22Mar2025 20:50:41.468] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:-1995, y:-31, z:2315, dim:minecraft:overworld]
+[22Mar2025 20:50:43.333] [Server thread/DEBUG] [twilightforest/]: Player fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c) respawned and received items held in storage
+[22Mar2025 20:50:47.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[22Mar2025 20:50:53.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 20:51:02.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has reached the goal [Clever Girl]
+[22Mar2025 20:51:02.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Best Friends Forever]
+[22Mar2025 20:51:05.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 20:51:05.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 20:51:05.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[22Mar2025 20:51:07.162] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[22Mar2025 20:51:07.204] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[22Mar2025 20:51:18.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has completed the challenge [Well, that was disgusting]
+[22Mar2025 20:51:22.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[22Mar2025 20:51:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Life Finds A Way]
+[22Mar2025 20:51:30.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Life Finds A Way]
+[22Mar2025 20:51:39.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Re-Extinct]
+[22Mar2025 20:52:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has reached the goal [Fortuitous Militia]
+[22Mar2025 20:52:05.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Mar2025 20:52:08.740] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 20:52:08.806] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 20:52:23.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22Mar2025 20:52:25.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Tree Stars!!!]
+[22Mar2025 20:52:36.157] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 20:52:36.225] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 20:52:41.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[22Mar2025 20:52:47.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Re-Extinct]
+[22Mar2025 20:52:58.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[22Mar2025 20:53:00.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Gotta Capture Them All!]
+[22Mar2025 20:53:10.777] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 20:53:10.886] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 20:53:15.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[22Mar2025 20:53:33.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[22Mar2025 20:53:53.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Mar2025 20:53:53.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Capture a mob using a Capture Cell]
+[22Mar2025 20:54:11.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2750ms or 55 ticks behind
+[22Mar2025 20:54:29.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
+[22Mar2025 20:54:30.469] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 20:54:30.554] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 20:54:36.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 died because of Grottoceratops
+[22Mar2025 20:54:36.586] [Server thread/DEBUG] [tombstone/]: A new grave of the player Andremat2010 was created at position [x:-2071, y:-27, z:2248, dim:minecraft:overworld]
+[22Mar2025 20:54:36.605] [Server thread/WARN] [tombstone/]: The death event of the player LTCBAS2022 was canceled by another mod
+[22Mar2025 20:54:36.617] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 20:54:36.618] [Server thread/INFO] [tombstone/]: The player LTCBAS2022 has successfully been saved
+[22Mar2025 20:54:43.572] [Server thread/DEBUG] [twilightforest/]: Player Andremat2010 (b6190ebc-ec78-3fbc-8ee5-431ad60fde8c) respawned and received items held in storage
+[22Mar2025 20:54:49.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5468ms or 109 ticks behind
+[22Mar2025 20:55:03.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/133369, l='ServerLevel[world]', x=-2.51, y=90.00, z=1803.83] died, message: 'Leatherworker was slain by Zombie'
+[22Mar2025 20:55:07.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3221ms or 64 ticks behind
+[22Mar2025 20:55:24.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[22Mar2025 20:55:34.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Andremat2010's game mode to Survival Mode]
+[22Mar2025 20:55:39.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved wrongly!
+[22Mar2025 20:55:42.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[22Mar2025 20:55:46.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported Andremat2010 to fablex39]
+[22Mar2025 20:56:01.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
+[22Mar2025 20:56:13.216] [Server thread/WARN] [tombstone/]: The death event of the player LTCBAS2022 was canceled by another mod
+[22Mar2025 20:56:13.239] [Server thread/INFO] [tombstone/]: The player LTCBAS2022 has successfully been saved
+[22Mar2025 20:56:19.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3572ms or 71 ticks behind
+[22Mar2025 20:56:38.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
+[22Mar2025 20:56:58.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 20:56:58.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 20:57:00.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6556ms or 131 ticks behind
+[22Mar2025 20:57:23.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8539ms or 170 ticks behind
+[22Mar2025 20:57:38.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [The End?]
+[22Mar2025 20:57:52.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13866ms or 277 ticks behind
+[22Mar2025 20:58:15.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7951ms or 159 ticks behind
+[22Mar2025 20:58:35.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4342ms or 86 ticks behind
+[22Mar2025 20:58:39.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 moved too quickly! -5.3437470617178064,-1.5587138108895573,8.446232956812992
+[22Mar2025 20:58:39.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved too quickly! -9.72399003095748,0.9227067798697561,-2.726683698009083

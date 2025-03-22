@@ -178,6 +178,7 @@
       "minecraft:river": "2025-03-16 23:12:58 +0000",
       "minecraft:lukewarm_ocean": "2025-03-17 00:04:53 +0000",
       "minecraft:stony_shore": "2025-03-16 23:50:27 +0000",
+      "minecraft:dripstone_caves": "2025-03-22 20:52:14 +0000",
       "minecraft:jagged_peaks": "2025-03-22 20:09:24 +0000",
       "minecraft:forest": "2025-03-16 23:49:17 +0000",
       "minecraft:lush_caves": "2025-03-22 20:10:30 +0000",
@@ -243,6 +244,7 @@
       "minecraft:piglin_brute": "2025-03-22 01:44:38 +0000",
       "minecraft:creeper": "2025-03-16 23:36:07 +0000",
       "minecraft:slime": "2025-03-17 00:40:53 +0000",
+      "minecraft:evoker": "2025-03-22 20:45:39 +0000",
       "minecraft:phantom": "2025-03-22 01:50:59 +0000",
       "minecraft:zombified_piglin": "2025-03-22 00:25:32 +0000",
       "minecraft:witch": "2025-03-20 23:25:47 +0000",
@@ -667,9 +669,34 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-03-22 20:48:16 +0000",
+      "charm_collector_4": "2025-03-22 20:48:16 +0000"
+    },
+    "done": false
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-03-22 20:42:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-03-22 20:50:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-03-22 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 20:52:01 +0000"
     },
     "done": true
   },
