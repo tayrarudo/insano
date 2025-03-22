@@ -878,3 +878,97 @@
 [22Mar2025 02:43:06.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
 [22Mar2025 02:43:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
 [22Mar2025 02:45:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Not Today, Thank You]
+[22Mar2025 02:45:31.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Voluntary Exile]
+[22Mar2025 02:46:17.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Take Aim]
+[22Mar2025 02:46:17.954] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:46:17.989] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:46:33.784] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:46:33.791] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:46:59.582] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4678f030[id=<null>,name=fablex39,properties={},legacy=false] (/127.104.85.61:34049) lost connection: Disconnected
+[22Mar2025 02:47:12.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:54381] logged in with entity id 183170 at (534.5636086745607, 70.0, 607.6285356474999)
+[22Mar2025 02:47:12.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[22Mar2025 02:47:12.730] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[22Mar2025 02:47:37.757] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 02:47:37.795] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:47:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 went up in flames
+[22Mar2025 02:47:42.811] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:48:42.642] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:48:42.650] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:48:53.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved too quickly! 0.3178289671487846,0.4064954653758832,10.26021685255057
+[22Mar2025 02:49:00.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 02:49:21.986] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:49:21.994] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:49:25.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac was slain by fablex39
+[22Mar2025 02:49:25.505] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:49:57.509] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 02:49:57.526] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 02:50:50.249] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 02:50:50.278] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 02:51:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 blew up
+[22Mar2025 02:51:13.602] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 02:51:20.477] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 02:51:20.485] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:51:24.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was zapped with a raygun by Gabriel
+[22Mar2025 02:51:24.142] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:51:31.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 02:51:41.129] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 02:51:41.137] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:51:47.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was zapped with a raygun by Gabriel
+[22Mar2025 02:51:53.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 02:52:03.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[22Mar2025 02:52:21.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Kiritogamericrac's game mode to Survival Mode
+[22Mar2025 02:52:36.703] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:52:36.705] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 02:52:36.715] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:52:36.745] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:52:43.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 blew up
+[22Mar2025 02:52:52.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 02:52:57.046] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:52:57.053] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:53:02.897] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 02:53:02.909] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:53:09.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 blew up
+[22Mar2025 02:53:19.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Andremat2010's game mode to Survival Mode
+[22Mar2025 02:53:19.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 02:53:34.002] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:53:34.006] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 02:53:34.046] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:53:34.046] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:53:40.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 blew up
+[22Mar2025 02:53:47.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 02:53:57.788] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 02:53:57.797] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 02:54:04.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 blew up
+[22Mar2025 02:54:10.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 02:54:28.733] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:54:28.746] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:54:31.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 02:55:08.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabriel lost connection: Disconnected
+[22Mar2025 02:55:08.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel left the game
+[22Mar2025 02:55:27.633] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 02:55:27.646] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:55:31.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac was slain by Andremat2010
+[22Mar2025 02:55:31.349] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 02:55:37.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=498, y=-18, z=415}
+[22Mar2025 02:55:37.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=498, y=-18, z=415}
+[22Mar2025 02:55:37.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=498, y=-18, z=415}
+[22Mar2025 02:55:37.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabriel[/127.7.76.8:37507] logged in with entity id 187653 at (467.2063621362019, 69.5625, 451.43381071959254)
+[22Mar2025 02:55:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel joined the game
+[22Mar2025 02:55:37.711] [Server thread/INFO] [Jade/]: Syncing config to Gabriel (eeca7e7a-1d3e-3204-a5b3-6647468c876e)
+[22Mar2025 02:55:37.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=498, y=-18, z=415}
+[22Mar2025 02:57:48.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Kiritogamericrac's game mode to Survival Mode]
+[22Mar2025 02:58:18.983] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 02:58:18.993] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 02:58:47.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Revive Me, I Have a Raygun]
+[22Mar2025 02:59:02.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Diamonds!]
+[22Mar2025 02:59:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 02:59:57.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Suit Up]
+[22Mar2025 03:00:44.587] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,supplementaries:channel,alexscaves:main_channel,rootoffear:messages,ponder:main,guardvillagers:main,sophisticatedbackpacks:channel,framework:play,ad_astra_giselle_addon:main,minecraft:treechop-channel,cataclysm:main_channel,lionfishapi:main_channel,ribbits:messages,forge:tier_sorting,alexsmobs:main_channel,playerrevive:main,illageandspillage:main,mowziesmobs:net,paraglider:master,creativecore:main,flightlib:network,lootr:main_network_channel,witherstormmod:main,create:main,geckolib:main,graveyard:spawn_entity,moonlight:channel,carryon:carryonpackets,create_jetpack:configs,citadel:main_channel,securitycraft:securitycraft,ricksportalgun:main,born_in_chaos_v1:born_in_chaos_v1,obscure_api:obscure_api,ad_astra:main,curios:main,polymorph:main,framework:handshake,aquamirae:main,quark:main,trashslot:network,tombstone:tombstone_channel,undead_revamp2:undead_revamp2,revive_hardcore_players:revive_hardcore_players,sophisticatedcore:channel,faded_conquest_2:faded_conquest_2,zeta:main,elevatorid:main_channel,twilightforest:channel,waystones:network] rejected vanilla connections
+[22Mar2025 03:00:44.587] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.250.95.184:36447] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[22Mar2025 03:04:09.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 03:04:19.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 03:04:29.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [We Need to Go Deeper]
+[22Mar2025 03:05:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 03:05:15.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [A Terrible Fortress]
+[22Mar2025 03:05:38.619] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 03:05:38.657] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved

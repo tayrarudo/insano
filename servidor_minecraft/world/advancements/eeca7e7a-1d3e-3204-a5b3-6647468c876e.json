@@ -310,6 +310,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-21 23:54:44 +0000",
+      "minecraft:pillager": "2025-03-22 02:45:31 +0000",
       "minecraft:skeleton": "2025-03-16 23:11:24 +0000",
       "minecraft:vindicator": "2025-03-16 23:35:44 +0000",
       "minecraft:magma_cube": "2025-03-22 00:15:00 +0000",
@@ -714,27 +715,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_mercy": {
+  "alexsmobs:alexsmobs/falconry_glove": {
     "criteria": {
-      "has_magic_scroll": "2025-03-22 00:37:23 +0000"
+      "falconry_glove": "2025-03-21 23:44:58 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/nuclear_bomb": {
+  "tombstone:adventure/use_lightning_resistance": {
     "criteria": {
-      "nuclear_bomb": "2025-03-22 02:09:45 +0000"
+      "has_magic_scroll": "2025-03-21 23:48:52 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
+  "minecraft:nether/root": {
     "criteria": {
-      "killed_by": "2025-03-21 23:54:38 +0000"
+      "entered_nether": "2025-03-21 23:49:12 +0000"
     },
     "done": true
   },
-  "faded_conquest_2:pbslain": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "pbslain_0": "2025-03-22 01:01:12 +0000"
+      "entered_nether": "2025-03-21 23:49:12 +0000"
     },
     "done": true
   },
@@ -746,27 +747,15 @@
     },
     "done": false
   },
-  "minecraft:nether/root": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "entered_nether": "2025-03-21 23:49:12 +0000"
+      "in_better_fortress": "2025-03-21 23:49:23 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_lightning_resistance": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_magic_scroll": "2025-03-21 23:48:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-03-22 02:03:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-03-21 23:49:12 +0000"
+      "killed_by": "2025-03-21 23:54:38 +0000"
     },
     "done": true
   },
@@ -776,63 +765,15 @@
     },
     "done": true
   },
-  "ad_astra:ti_69": {
-    "criteria": {
-      "has_ti_69": "2025-03-22 01:53:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_treasure": "2025-03-22 00:15:01 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-03-22 00:06:36 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_purification": {
-    "criteria": {
-      "has_magic_scroll": "2025-03-22 00:16:28 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/falconry_glove": {
-    "criteria": {
-      "falconry_glove": "2025-03-21 23:44:58 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/polymer_plate": {
     "criteria": {
       "cooked_dinosaur_chop": "2025-03-21 23:55:37 +0000"
     },
     "done": true
   },
-  "undead_revamp2:mommy": {
+  "alexscaves:alexscaves/raygun": {
     "criteria": {
-      "mommy_0": "2025-03-22 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_home": {
-    "criteria": {
-      "coded_trigger": "2025-03-22 00:49:35 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-03-22 02:14:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-03-22 00:13:19 +0000"
+      "raygun": "2025-03-21 23:55:48 +0000"
     },
     "done": true
   },
@@ -842,15 +783,39 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-03-22 00:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-22 00:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-03-22 00:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-22 00:15:02 +0000"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "tombstone:adventure/use_purification": {
     "criteria": {
-      "travelled": "2025-03-22 00:49:35 +0000"
+      "has_magic_scroll": "2025-03-22 00:16:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-22 00:37:23 +0000"
     },
     "done": true
   },
@@ -860,15 +825,21 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "phantom": "2025-03-22 01:52:20 +0000"
+      "has_enchanted_voodoo_poppet": "2025-03-22 00:45:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "tombstone:adventure/use_home": {
     "criteria": {
-      "in_better_fortress": "2025-03-21 23:49:23 +0000"
+      "coded_trigger": "2025-03-22 00:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-22 00:49:35 +0000"
     },
     "done": true
   },
@@ -878,15 +849,51 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "faded_conquest_2:pbslain": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-03-22 00:45:48 +0000"
+      "pbslain_0": "2025-03-22 01:01:12 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/raygun": {
+  "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "raygun": "2025-03-21 23:55:48 +0000"
+      "phantom": "2025-03-22 01:52:20 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:ti_69": {
+    "criteria": {
+      "has_ti_69": "2025-03-22 01:53:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-03-22 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-22 02:03:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-03-22 02:09:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-03-22 02:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-22 02:45:31 +0000"
     },
     "done": true
   },
