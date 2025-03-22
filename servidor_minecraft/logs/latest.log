@@ -1568,3 +1568,253 @@ Reason: Banned by an operator.
 [22Mar2025 20:05:59.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [22Mar2025 20:06:18.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
 [22Mar2025 20:06:37.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
+[22Mar2025 20:07:21.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[22Mar2025 20:08:09.472] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: No value present
+	Index: 2
+	Listeners:
+		0: HIGHEST
+		1: ASM: class twilightforest.events.CharmEvents applyDeathItems(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		2: ASM: team.creative.playerrevive.server.ReviveEventServer@19e94269 playerDied(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		3: HIGH
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		5: NORMAL
+		6: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@6ec239ef DeathEvent(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		7: ASM: com.mrcrayfish.framework.event.ForgeEvents@20c52363 onLivingEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		8: ASM: class com.modderg.tameablebeasts.server.events.ServerForgeEvents onDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		9: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@c6c064 livingDie(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		10: ASM: class net.mcreator.undeadrevamp.procedures.SkillissueProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		11: ASM: class dev.xylonity.knightquest.common.item.KQArmorItem$ArmorStatusManagerEvents onLivingDead(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		12: ASM: class net.mcreator.borninchaosv.procedures.ZombieMaggotsProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		13: ASM: class net.mcreator.borninchaosv.procedures.RampagePProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		14: ASM: class net.mcreator.borninchaosv.procedures.ObsessiondeadProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		15: ASM: class net.mcreator.borninchaosv.procedures.LunarSpruceCowboyPProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		16: ASM: class net.mcreator.borninchaosv.procedures.LivingcocoonplayersideDeadProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		17: ASM: class net.mcreator.borninchaosv.procedures.LivingCocoonDeadProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		18: ASM: class net.mcreator.borninchaosv.procedures.KillinganimalsProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		19: ASM: class net.mcreator.borninchaosv.procedures.KillingVillagersProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		20: ASM: class net.mcreator.borninchaosv.procedures.DeathTotemKoghdaPriedmietNakhoditsiaVRukieProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		21: ASM: class net.mcreator.borninchaosv.procedures.DarkWardActivProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		22: ASM: class net.clockwork.cannibal.event.CommonForgeEvents onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		23: net.minecraftforge.eventbus.EventBus$$Lambda$4308/0x000070c984b4dca0@25f3ea8e
+		24: net.minecraftforge.eventbus.EventBus$$Lambda$4308/0x000070c984b4dca0@582e018e
+		25: net.minecraftforge.eventbus.EventBus$$Lambda$4308/0x000070c984b4dca0@757d8fd6
+		26: net.minecraftforge.eventbus.EventBus$$Lambda$4308/0x000070c984b4dca0@28c3b3d1
+		27: ASM: class nonamecrackers2.witherstormmod.common.event.WitherStormEvents onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		28: ASM: class nonamecrackers2.witherstormmod.common.event.EntityConversionEvents onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		29: LOWEST
+		30: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at TRANSFORMER/playerrevive@2.0.31/team.creative.playerrevive.server.ReviveEventServer.doesByPass(ReviveEventServer.java:131)
+	at TRANSFORMER/playerrevive@2.0.31/team.creative.playerrevive.server.ReviveEventServer.playerDied(ReviveEventServer.java:168)
+	at TRANSFORMER/playerrevive@2.0.31/team.creative.playerrevive.server.__ReviveEventServer_playerDied_LivingDeathEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6667_(ServerPlayer.java:573)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6469_(Player.java:840)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695)
+	at TRANSFORMER/aquamirae@6.API15/com.obscuria.aquamirae.common.effects.CrystallizationMobEffect.m_6386_(CrystallizationMobEffect.java:30)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_7285_(LivingEntity.java:1024)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_7285_(ServerPlayer.java:1182)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:763)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Entity.m_8119_(Entity.java:422)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[22Mar2025 20:08:09.676] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.223.203.153:33263
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at team.creative.playerrevive.server.ReviveEventServer.doesByPass(ReviveEventServer.java:131) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23247!/:2.0.31]
+	at team.creative.playerrevive.server.ReviveEventServer.playerDied(ReviveEventServer.java:168) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23247!/:2.0.31]
+	at team.creative.playerrevive.server.__ReviveEventServer_playerDied_LivingDeathEvent.invoke(.dynamic) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23247!/:2.0.31]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303) ~[forge-1.20.1-47.3.7-universal.jar%23288!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6667_(ServerPlayer.java:573) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.player.Player.m_6469_(Player.java:840) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at com.obscuria.aquamirae.common.effects.CrystallizationMobEffect.m_6386_(CrystallizationMobEffect.java:30) ~[aquamirae-6.API15.jar%23197!/:com.obscuria]
+	at net.minecraft.world.entity.LivingEntity.m_7285_(LivingEntity.java:1024) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7285_(ServerPlayer.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:763) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	... 9 more
+[22Mar2025 20:08:09.680] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 20:08:09.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Internal server error
+[22Mar2025 20:08:09.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[22Mar2025 20:08:11.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/114125, l='ServerLevel[world]', x=472.23, y=-256.00, z=440.24] died, message: 'Unemployed was killed'
+[22Mar2025 20:08:23.072] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: No value present
+	Index: 2
+	Listeners:
+		0: HIGHEST
+		1: ASM: class twilightforest.events.CharmEvents applyDeathItems(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		2: ASM: team.creative.playerrevive.server.ReviveEventServer@19e94269 playerDied(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		3: HIGH
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		5: NORMAL
+		6: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@6ec239ef DeathEvent(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		7: ASM: com.mrcrayfish.framework.event.ForgeEvents@20c52363 onLivingEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		8: ASM: class com.modderg.tameablebeasts.server.events.ServerForgeEvents onDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		9: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@c6c064 livingDie(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		10: ASM: class net.mcreator.undeadrevamp.procedures.SkillissueProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		11: ASM: class dev.xylonity.knightquest.common.item.KQArmorItem$ArmorStatusManagerEvents onLivingDead(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		12: ASM: class net.mcreator.borninchaosv.procedures.ZombieMaggotsProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		13: ASM: class net.mcreator.borninchaosv.procedures.RampagePProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		14: ASM: class net.mcreator.borninchaosv.procedures.ObsessiondeadProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		15: ASM: class net.mcreator.borninchaosv.procedures.LunarSpruceCowboyPProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		16: ASM: class net.mcreator.borninchaosv.procedures.LivingcocoonplayersideDeadProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		17: ASM: class net.mcreator.borninchaosv.procedures.LivingCocoonDeadProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		18: ASM: class net.mcreator.borninchaosv.procedures.KillinganimalsProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		19: ASM: class net.mcreator.borninchaosv.procedures.KillingVillagersProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		20: ASM: class net.mcreator.borninchaosv.procedures.DeathTotemKoghdaPriedmietNakhoditsiaVRukieProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		21: ASM: class net.mcreator.borninchaosv.procedures.DarkWardActivProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		22: ASM: class net.clockwork.cannibal.event.CommonForgeEvents onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		23: net.minecraftforge.eventbus.EventBus$$Lambda$4308/0x000070c984b4dca0@25f3ea8e
+		24: net.minecraftforge.eventbus.EventBus$$Lambda$4308/0x000070c984b4dca0@582e018e
+		25: net.minecraftforge.eventbus.EventBus$$Lambda$4308/0x000070c984b4dca0@757d8fd6
+		26: net.minecraftforge.eventbus.EventBus$$Lambda$4308/0x000070c984b4dca0@28c3b3d1
+		27: ASM: class nonamecrackers2.witherstormmod.common.event.WitherStormEvents onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		28: ASM: class nonamecrackers2.witherstormmod.common.event.EntityConversionEvents onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		29: LOWEST
+		30: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at TRANSFORMER/playerrevive@2.0.31/team.creative.playerrevive.server.ReviveEventServer.doesByPass(ReviveEventServer.java:131)
+	at TRANSFORMER/playerrevive@2.0.31/team.creative.playerrevive.server.ReviveEventServer.playerDied(ReviveEventServer.java:168)
+	at TRANSFORMER/playerrevive@2.0.31/team.creative.playerrevive.server.__ReviveEventServer_playerDied_LivingDeathEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6667_(ServerPlayer.java:573)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6469_(Player.java:840)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695)
+	at TRANSFORMER/aquamirae@6.API15/com.obscuria.aquamirae.common.effects.CrystallizationMobEffect.m_6386_(CrystallizationMobEffect.java:30)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_7285_(LivingEntity.java:1024)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_7285_(ServerPlayer.java:1182)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:763)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Entity.m_8119_(Entity.java:422)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[22Mar2025 20:08:23.104] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.227.119.219:59635
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at team.creative.playerrevive.server.ReviveEventServer.doesByPass(ReviveEventServer.java:131) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23247!/:2.0.31]
+	at team.creative.playerrevive.server.ReviveEventServer.playerDied(ReviveEventServer.java:168) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23247!/:2.0.31]
+	at team.creative.playerrevive.server.__ReviveEventServer_playerDied_LivingDeathEvent.invoke(.dynamic) ~[PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar%23247!/:2.0.31]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303) ~[forge-1.20.1-47.3.7-universal.jar%23288!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6667_(ServerPlayer.java:573) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.player.Player.m_6469_(Player.java:840) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at com.obscuria.aquamirae.common.effects.CrystallizationMobEffect.m_6386_(CrystallizationMobEffect.java:30) ~[aquamirae-6.API15.jar%23197!/:com.obscuria]
+	at net.minecraft.world.entity.LivingEntity.m_7285_(LivingEntity.java:1024) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_7285_(ServerPlayer.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:763) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	... 9 more
+[22Mar2025 20:08:23.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa lost connection: Internal server error
+[22Mar2025 20:08:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa left the game
+[22Mar2025 20:08:23.182] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[22Mar2025 20:08:31.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:39087] logged in with entity id 114251 at (317.7134327588635, 67.23152379758702, 1653.6097840394732)
+[22Mar2025 20:08:31.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[22Mar2025 20:08:31.716] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[22Mar2025 20:08:49.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: minitipa[/127.227.119.219:39077] logged in with entity id 114352 at (328.38399502868424, 61.904028477980226, 1651.6580225732018)
+[22Mar2025 20:08:49.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa joined the game
+[22Mar2025 20:08:49.645] [Server thread/INFO] [Jade/]: Syncing config to minitipa (1d6e4435-2c18-3115-b89f-54099a7bb6dd)
+[22Mar2025 20:09:14.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 moved too quickly! 0.9126715257994533,0.19640284491605087,-10.642073480330168
+[22Mar2025 20:09:33.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=64, z=1647} BlockPos{x=329, y=63, z=1647}
+[22Mar2025 20:09:34.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 moved too quickly! -1.2736602887207482,0.0,10.783529884426855
+[22Mar2025 20:09:34.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved too quickly! 1.872292782859688,0.8502405994857156,10.72653552198102
+[22Mar2025 20:09:43.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved too quickly! 1.8718704042421166,0.0,10.726612176046274
+[22Mar2025 20:09:43.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 moved too quickly! -0.7966830269995171,0.0,10.859648093283795
+[22Mar2025 20:10:04.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set elchipaxd12's game mode to Survival Mode]
+[22Mar2025 20:10:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set minitipa's game mode to Survival Mode]
+[22Mar2025 20:10:04.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 moved wrongly!
+[22Mar2025 20:10:13.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported elchipaxd12 to fablex39]
+[22Mar2025 20:10:34.683] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[22Mar2025 20:10:34.695] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[22Mar2025 20:10:35.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Mar2025 20:10:42.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa was slain by The Wheezer
+[22Mar2025 20:10:49.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported minitipa to fablex39]
+[22Mar2025 20:10:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported minitipa to fablex39]
+[22Mar2025 20:10:55.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set minitipa's game mode to Survival Mode]
+[22Mar2025 20:11:36.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Gave 1 [Ender Pearl] to fablex39]
+[22Mar2025 20:11:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has made the advancement [The Most Useful Key]
+[22Mar2025 20:11:51.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has reached the goal [A Fast Comeback]
+[22Mar2025 20:12:07.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Mar2025 20:12:12.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported minitipa to fablex39]
+[22Mar2025 20:12:27.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[22Mar2025 20:12:47.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4877ms or 97 ticks behind
+[22Mar2025 20:12:48.834] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 20:12:48.914] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 20:13:06.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[22Mar2025 20:13:44.552] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[22Mar2025 20:13:44.602] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[22Mar2025 20:14:00.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 20:14:53.037] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[22Mar2025 20:14:53.081] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[22Mar2025 20:15:26.333] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 20:15:26.389] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
