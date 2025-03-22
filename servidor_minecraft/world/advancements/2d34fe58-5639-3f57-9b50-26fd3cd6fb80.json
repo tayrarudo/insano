@@ -86,7 +86,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-03-22 19:05:26 +0000",
-      "rocky_shrubland": "2025-03-22 19:04:40 +0000"
+      "rocky_shrubland": "2025-03-22 19:04:40 +0000",
+      "rainforest": "2025-03-22 19:36:03 +0000"
     },
     "done": false
   },
@@ -174,6 +175,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-22 19:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-22 19:40:40 +0000"
     },
     "done": true
   },
