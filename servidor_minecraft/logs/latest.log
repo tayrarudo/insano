@@ -1059,3 +1059,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Mar2025 17:52:06.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 moved wrongly!
 [22Mar2025 17:52:14.989] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [22Mar2025 17:52:48.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [It Belongs in a Museum]
+[22Mar2025 17:55:38.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[22Mar2025 17:55:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[22Mar2025 17:59:03.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[22Mar2025 18:02:11.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:44883] logged in with entity id 44579 at (463.40327168120274, 70.7531999805212, 439.44893497859186)
+[22Mar2025 18:02:11.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[22Mar2025 18:02:11.070] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[22Mar2025 18:02:48.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of elchipaxd12) moved too quickly! 0.5,25.579596168079206,0.5
+[22Mar2025 18:02:48.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of elchipaxd12) moved too quickly! 0.5,25.0845961680792,0.5
+[22Mar2025 18:02:48.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of elchipaxd12) moved too quickly! 0.5,26.039595448055138,0.5
+[22Mar2025 18:03:10.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Capture a mob using a Capture Cell]
+[22Mar2025 18:03:23.558] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 18:03:23.561] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 18:03:23.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 moved wrongly!
+[22Mar2025 18:03:23.589] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 18:03:23.641] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 18:03:30.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 blew up
+[22Mar2025 18:03:31.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 went up in flames
+[22Mar2025 18:03:32.071] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 18:03:42.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
