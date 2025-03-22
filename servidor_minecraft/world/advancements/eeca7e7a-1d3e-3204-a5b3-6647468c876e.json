@@ -938,6 +938,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-03-22 04:18:14 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/serene_salad": {
     "criteria": {
       "serene_salad": "2025-03-22 04:02:26 +0000"

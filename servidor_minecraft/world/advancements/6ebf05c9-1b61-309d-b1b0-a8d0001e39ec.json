@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-22 04:17:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-22 03:12:34 +0000"
@@ -191,6 +197,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-03-22 03:15:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_2_rocket": {
+    "criteria": {
+      "has_tier_2_rocket": "2025-03-22 04:20:07 +0000"
     },
     "done": true
   },
