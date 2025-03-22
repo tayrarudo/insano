@@ -1415,3 +1415,71 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Mar2025 19:15:57.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:50809] logged in with entity id 90025 at (463.17379592787, 71.0, 415.956278102107)
 [22Mar2025 19:15:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
 [22Mar2025 19:15:57.492] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[22Mar2025 19:17:05.062] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 19:17:05.072] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:17:22.435] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 19:17:22.467] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:17:24.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LTCBAS2022 lost connection: Disconnected
+[22Mar2025 19:17:24.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 left the game
+[22Mar2025 19:17:39.573] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 19:17:39.582] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:18:06.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/89156, l='ServerLevel[world]', x=484.44, y=68.00, z=433.70] died, message: 'Unemployed was slain by elchipaxd12'
+[22Mar2025 19:20:19.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LTCBAS2022[/127.157.4.137:50775] logged in with entity id 92000 at (471.72774537921015, 69.0, 443.331080572934)
+[22Mar2025 19:20:19.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 joined the game
+[22Mar2025 19:20:19.287] [Server thread/INFO] [Jade/]: Syncing config to LTCBAS2022 (2d34fe58-5639-3f57-9b50-26fd3cd6fb80)
+[22Mar2025 19:21:16.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[22Mar2025 19:21:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[22Mar2025 19:21:39.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:60887] logged in with entity id 92414 at (450.4502007245098, 88.14233545147135, 416.1220747152317)
+[22Mar2025 19:21:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[22Mar2025 19:21:39.781] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[22Mar2025 19:21:50.721] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 19:21:50.729] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 19:22:07.820] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 19:22:07.829] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:22:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by elchipaxd12
+[22Mar2025 19:22:08.471] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:22:14.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 19:22:20.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/92642, l='ServerLevel[world]', x=471.40, y=-256.00, z=440.27] died, message: 'Unemployed was killed'
+[22Mar2025 19:22:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 19:22:54.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 19:23:31.610] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 19:23:31.622] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:23:51.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by elchipaxd12
+[22Mar2025 19:23:51.524] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:24:00.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Banned elchipaxd12: Banned by an operator.]
+[22Mar2025 19:24:00.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[22Mar2025 19:24:00.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[22Mar2025 19:24:00.824] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 19:24:06.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 19:25:39.853] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 19:25:39.868] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 19:26:10.104] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 19:26:10.118] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:26:30.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Nightmare Stalker
+[22Mar2025 19:26:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 19:26:50.102] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 19:26:50.116] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:26:55.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was doomed to fall
+[22Mar2025 19:26:55.570] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:27:02.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 19:27:12.355] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 19:27:12.371] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 19:27:20.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Nightmare Stalker
+[22Mar2025 19:27:27.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 19:28:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 19:28:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 19:28:33.751] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 19:28:33.789] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 19:29:04.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 withered away
+[22Mar2025 19:29:04.071] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 19:29:08.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Acquire Hardware]
+[22Mar2025 19:29:17.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Andremat2010's game mode to Survival Mode]
+[22Mar2025 19:29:46.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Isn't It Iron Pick]
+[22Mar2025 19:32:01.566] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@20018385[id=c93c4669-f71e-3f02-9321-c5af2f0fcd55,name=elchipaxd12,properties={},legacy=false] (/127.223.203.153:47723): You are banned from this server.
+Reason: Banned by an operator.
+[22Mar2025 19:32:01.570] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20018385[id=c93c4669-f71e-3f02-9321-c5af2f0fcd55,name=elchipaxd12,properties={},legacy=false] (/127.223.203.153:47723) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[22Mar2025 19:32:01.608] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 19:32:23.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: minitipa[/127.227.119.219:59635] logged in with entity id 95714 at (477.9131885683687, 70.0, 439.10337800644925)
+[22Mar2025 19:32:23.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa joined the game
+[22Mar2025 19:32:23.843] [Server thread/INFO] [Jade/]: Syncing config to minitipa (1d6e4435-2c18-3115-b89f-54099a7bb6dd)

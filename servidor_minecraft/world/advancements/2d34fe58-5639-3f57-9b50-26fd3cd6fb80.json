@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "rocky_shrubland": "2025-03-22 19:04:40 +0000"
-    },
-    "done": true
-  },
   "faded_conquest_2:faded_2": {
     "criteria": {
       "faded_2_0": "2025-03-22 19:04:39 +0000"
@@ -47,28 +41,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-03-22 19:05:55 +0000"
-    },
-    "done": true
-  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-03-22 19:04:39 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "woodland": "2025-03-22 19:05:26 +0000",
-      "rocky_shrubland": "2025-03-22 19:04:40 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-22 19:07:45 +0000"
     },
     "done": true
   },
@@ -81,6 +56,55 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-22 19:04:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-03-22 19:04:39 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-03-22 19:04:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-22 19:04:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_shrubland": "2025-03-22 19:04:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-03-22 19:05:26 +0000",
+      "rocky_shrubland": "2025-03-22 19:04:40 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-03-22 19:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-22 19:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-22 19:07:45 +0000"
     },
     "done": true
   },
@@ -98,27 +122,76 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bornin_chaos": {
+  "tombstone:adventure/find_easter_egg": {
     "criteria": {
-      "bornin_chaos_0": "2025-03-22 19:04:39 +0000"
+      "coded_trigger": "2025-03-22 19:13:02 +0000"
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "always": "2025-03-22 19:04:39 +0000"
+      "minecraft:lukewarm_ocean": "2025-03-22 19:13:31 +0000",
+      "minecraft:stony_shore": "2025-03-22 19:13:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-22 19:13:14 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "lootr:1chest": {
     "criteria": {
-      "auto": "2025-03-22 19:04:40 +0000"
+      "opened_chest": "2025-03-22 19:13:32 +0000"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "lootr:social": {
     "criteria": {
-      "custom_test_name": "2025-03-22 19:04:39 +0000"
+      "opened_chest": "2025-03-22 19:13:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-22 19:14:34 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-03-22 19:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-22 19:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-22 19:29:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-22 19:32:39 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-03-22 19:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-22 19:30:43 +0000"
     },
     "done": true
   },
