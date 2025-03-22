@@ -1818,3 +1818,18 @@ Caused by: java.util.NoSuchElementException: No value present
 [22Mar2025 20:14:53.081] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
 [22Mar2025 20:15:26.333] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
 [22Mar2025 20:15:26.389] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 20:18:51.141] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 20:18:51.187] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 20:18:58.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Mar2025 20:19:15.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22Mar2025 20:19:45.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Mar2025 20:19:57.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 lost connection: Disconnected
+[22Mar2025 20:19:57.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 left the game
+[22Mar2025 20:24:42.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 20:25:19.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LTCBAS2022 has made the advancement [Knight Quest]
+[22Mar2025 20:25:27.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [The Wind Darkening]
+[22Mar2025 20:26:22.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:48505] logged in with entity id 124596 at (321.799176148337, 74.0, 1665.9997769647684)
+[22Mar2025 20:26:22.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[22Mar2025 20:26:22.938] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[22Mar2025 20:26:44.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Gotta Capture Them All!]
+[22Mar2025 20:27:14.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Somehow, Pickarang Returned]
