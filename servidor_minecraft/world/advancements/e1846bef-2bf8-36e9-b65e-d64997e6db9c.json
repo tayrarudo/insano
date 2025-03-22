@@ -739,6 +739,12 @@
     },
     "done": true
   },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-03-22 05:36:06 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-03-22 05:19:27 +0000"
