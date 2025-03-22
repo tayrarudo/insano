@@ -595,6 +595,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2025-03-22 01:01:18 +0000"
+    },
+    "done": true
+  },
   "ad_astra:carbon_footprint": {
     "criteria": {
       "has_coal_generator": "2025-03-22 00:37:34 +0000"

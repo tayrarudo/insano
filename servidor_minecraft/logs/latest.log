@@ -345,3 +345,131 @@
 [22Mar2025 01:02:34.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [22Mar2025 01:02:39.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 drowned
 [22Mar2025 01:02:39.601] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 01:02:59.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[22Mar2025 01:03:09.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 01:03:13.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJxs_12 has made the advancement [Those Were the Days]
+[22Mar2025 01:03:16.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[22Mar2025 01:03:23.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Andremat2010's game mode to Survival Mode]
+[22Mar2025 01:03:28.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=67, z=9}
+[22Mar2025 01:03:29.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=67, z=9}
+[22Mar2025 01:03:30.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=67, z=9}
+[22Mar2025 01:03:32.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=67, z=9}
+[22Mar2025 01:03:32.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=67, z=9}
+[22Mar2025 01:03:32.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:33.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:33.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:33.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:34.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:34.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:34.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[22Mar2025 01:03:34.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:34.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:34.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:35.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:35.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:35.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:35.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:35.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:36.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:36.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:36.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:36.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:36.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:37.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:37.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:37.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:37.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:37.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:37.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:38.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:38.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:38.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:38.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:43.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJxs_12 has made the advancement [Who is Cutting Onions?]
+[22Mar2025 01:03:43.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:46.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:46.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 01:03:51.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:51.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:03:53.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 lost connection: Disconnected
+[22Mar2025 01:03:53.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 left the game
+[22Mar2025 01:04:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 01:04:13.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andremat2010[/127.39.185.135:38325] logged in with entity id 122310 at (0.695941092835958, 66.0, 9.699999988079071)
+[22Mar2025 01:04:13.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 joined the game
+[22Mar2025 01:04:13.772] [Server thread/INFO] [Jade/]: Syncing config to Andremat2010 (b6190ebc-ec78-3fbc-8ee5-431ad60fde8c)
+[22Mar2025 01:04:29.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 01:04:29.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:29.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:29.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:30.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:30.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:30.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:30.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:31.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:34.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:34.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:42.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:42.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:42.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:50.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=67, z=9}
+[22Mar2025 01:04:50.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:04:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 01:05:00.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=66, z=9}
+[22Mar2025 01:05:00.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 01:05:00.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=67, z=9}
+[22Mar2025 01:05:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andremat2010> fablex tp
+[22Mar2025 01:05:12.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported Andremat2010 to fablex39]
+[22Mar2025 01:05:43.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> o fablex
+[22Mar2025 01:05:47.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> me ayudas_
+[22Mar2025 01:05:50.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> ?
+[22Mar2025 01:05:52.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> tepeate a mi
+[22Mar2025 01:05:53.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> xd
+[22Mar2025 01:06:00.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to zJxs_12]
+[22Mar2025 01:06:01.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> no importa
+[22Mar2025 01:06:15.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to elchipaxd12]
+[22Mar2025 01:06:18.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> aca hay looot
+[22Mar2025 01:06:20.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> loot
+[22Mar2025 01:06:23.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> kgon
+[22Mar2025 01:08:22.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved wrongly!
+[22Mar2025 01:08:30.452] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 01:08:30.496] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 01:08:46.926] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 01:08:46.954] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 01:09:00.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/124549, l='ServerLevel[world]', x=471.77, y=-256.00, z=428.06] died, message: 'Unemployed was killed'
+[22Mar2025 01:09:19.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andremat2010 moved wrongly!
+[22Mar2025 01:09:20.224] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 01:09:20.250] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 01:09:23.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved wrongly!
+[22Mar2025 01:09:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 01:09:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 01:09:57.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/74616, l='ServerLevel[world]', x=473.51, y=74.00, z=435.51] died, message: 'Farmer was slain by Wilted'
+[22Mar2025 01:10:23.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved wrongly!
+[22Mar2025 01:10:24.198] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 01:10:26.180] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 01:10:26.199] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 01:10:30.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> ayudaa
+[22Mar2025 01:10:34.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> xdd
+[22Mar2025 01:10:38.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> aparecio
+[22Mar2025 01:10:40.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> otro
+[22Mar2025 01:10:52.980] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 01:10:53.002] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 01:11:09.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 moved wrongly!
+[22Mar2025 01:11:10.481] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 01:11:10.504] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 01:11:40.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> puramrd
+[22Mar2025 01:11:41.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Wilted
+[22Mar2025 01:11:41.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved wrongly!
+[22Mar2025 01:11:41.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa moved wrongly!
+[22Mar2025 01:11:42.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> fablex tp
+[22Mar2025 01:11:43.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> ALA
+[22Mar2025 01:11:47.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> toy atrapado
+[22Mar2025 01:11:49.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 01:12:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 01:12:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 01:12:38.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Dark Metallurgy]
+[22Mar2025 01:12:41.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> quien murio
+[22Mar2025 01:12:45.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/74600, l='ServerLevel[world]', x=464.70, y=69.50, z=438.70] died, message: 'Fletcher went up in flames'
+[22Mar2025 01:12:46.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/74615, l='ServerLevel[world]', x=473.58, y=74.00, z=437.45] died, message: 'Librarian went up in flames'
+[22Mar2025 01:12:49.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=472, y=71, z=437} BlockPos{x=472, y=70, z=436}
+[22Mar2025 01:13:00.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=469, y=73, z=437} BlockPos{x=469, y=73, z=436}
