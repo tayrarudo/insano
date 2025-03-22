@@ -469,5 +469,41 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-03-22 01:57:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 01:53:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-22 01:53:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 01:52:40 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-03-22 02:00:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-22 01:53:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

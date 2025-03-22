@@ -281,6 +281,7 @@
       "minecraft:piglin_brute": "2025-03-22 01:06:42 +0000",
       "minecraft:spider": "2025-03-22 00:34:49 +0000",
       "minecraft:evoker": "2025-03-16 23:26:34 +0000",
+      "minecraft:phantom": "2025-03-22 01:58:05 +0000",
       "minecraft:piglin": "2025-03-22 01:10:41 +0000",
       "minecraft:enderman": "2025-03-17 00:20:25 +0000",
       "minecraft:zombie": "2025-03-16 23:19:02 +0000",
@@ -432,9 +433,33 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-03-22 01:58:17 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-03-22 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-22 01:58:05 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 01:52:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-22 01:52:31 +0000"
     },
     "done": true
   },

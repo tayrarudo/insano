@@ -251,6 +251,7 @@
       "minecraft:spider": "2025-03-20 22:11:51 +0000",
       "minecraft:creeper": "2025-03-20 22:48:47 +0000",
       "minecraft:slime": "2025-03-22 00:59:27 +0000",
+      "minecraft:phantom": "2025-03-22 01:51:23 +0000",
       "minecraft:witch": "2025-03-20 22:16:48 +0000",
       "minecraft:wither_skeleton": "2025-03-22 00:24:10 +0000",
       "minecraft:vex": "2025-03-16 23:44:56 +0000",
@@ -600,6 +601,24 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-03-22 01:16:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-22 01:51:23 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 01:53:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 01:53:14 +0000"
     },
     "done": true
   },
