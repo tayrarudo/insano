@@ -149,6 +149,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-03-22 17:14:54 +0000",
       "minecraft:bamboo_jungle": "2025-03-20 23:33:03 +0000",
       "minecraft:stony_peaks": "2025-03-17 00:52:48 +0000",
       "minecraft:sparse_jungle": "2025-03-20 23:32:49 +0000",
@@ -502,6 +503,12 @@
   "portablemobs:basiccelladvancement": {
     "criteria": {
       "basiccell": "2025-03-22 02:00:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-03-22 17:18:26 +0000"
     },
     "done": true
   },

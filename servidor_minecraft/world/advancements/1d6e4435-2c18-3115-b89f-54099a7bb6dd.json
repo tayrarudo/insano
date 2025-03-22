@@ -83,7 +83,9 @@
       "shrubland": "2025-03-16 23:05:48 +0000",
       "rocky_shrubland": "2025-03-16 23:04:45 +0000",
       "scrubland": "2025-03-17 01:20:05 +0000",
+      "erupting_inferno": "2025-03-22 17:12:43 +0000",
       "highland": "2025-03-20 23:38:47 +0000",
+      "crystalline_chasm": "2025-03-22 17:12:30 +0000",
       "mediterranean_forest": "2025-03-17 01:20:08 +0000",
       "redwood_forest": "2025-03-20 23:38:49 +0000",
       "dune_beach": "2025-03-16 23:45:33 +0000",
@@ -516,7 +518,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-22 00:27:14 +0000",
       "minecraft:nether_wastes": "2025-03-22 00:27:31 +0000",
-      "minecraft:soul_sand_valley": "2025-03-22 01:30:45 +0000"
+      "minecraft:soul_sand_valley": "2025-03-22 01:30:45 +0000",
+      "minecraft:basalt_deltas": "2025-03-22 17:16:20 +0000"
     },
     "done": false
   },
