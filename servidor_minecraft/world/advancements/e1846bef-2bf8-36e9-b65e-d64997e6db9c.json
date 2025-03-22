@@ -83,6 +83,7 @@
       "shrubland": "2025-03-16 22:24:13 +0000",
       "rocky_shrubland": "2025-03-16 22:19:07 +0000",
       "scrubland": "2025-03-16 23:10:13 +0000",
+      "erupting_inferno": "2025-03-22 00:17:36 +0000",
       "highland": "2025-03-16 22:40:02 +0000",
       "jade_cliffs": "2025-03-16 22:40:11 +0000",
       "mediterranean_forest": "2025-03-16 23:13:46 +0000",
@@ -593,9 +594,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-22 00:19:30 +0000"
+    },
+    "done": true
+  },
   "create:copper_casing": {
     "criteria": {
       "0": "2025-03-21 23:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-22 00:17:36 +0000"
     },
     "done": true
   },

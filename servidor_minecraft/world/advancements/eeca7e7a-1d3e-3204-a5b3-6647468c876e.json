@@ -83,6 +83,7 @@
       "shrubland": "2025-03-16 22:25:07 +0000",
       "rocky_shrubland": "2025-03-16 22:24:21 +0000",
       "scrubland": "2025-03-16 23:23:39 +0000",
+      "erupting_inferno": "2025-03-22 00:13:07 +0000",
       "highland": "2025-03-21 01:17:44 +0000",
       "marsh": "2025-03-21 01:03:19 +0000",
       "jade_cliffs": "2025-03-21 22:01:13 +0000",
@@ -308,6 +309,7 @@
       "minecraft:blaze": "2025-03-21 23:54:44 +0000",
       "minecraft:skeleton": "2025-03-16 23:11:24 +0000",
       "minecraft:vindicator": "2025-03-16 23:35:44 +0000",
+      "minecraft:magma_cube": "2025-03-22 00:15:00 +0000",
       "minecraft:spider": "2025-03-17 00:09:22 +0000",
       "minecraft:creeper": "2025-03-21 22:18:14 +0000",
       "minecraft:slime": "2025-03-21 00:26:53 +0000",
@@ -742,9 +744,21 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-03-22 00:15:01 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-03-22 00:06:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-22 00:16:28 +0000"
     },
     "done": true
   },
@@ -760,9 +774,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-22 00:13:19 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-03-22 00:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-22 00:15:02 +0000"
     },
     "done": true
   },
