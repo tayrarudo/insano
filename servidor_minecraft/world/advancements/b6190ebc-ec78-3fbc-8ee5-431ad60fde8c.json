@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-22 00:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-22 00:22:14 +0000"
@@ -488,6 +494,12 @@
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2025-03-22 00:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-22 00:39:58 +0000"
     },
     "done": true
   },

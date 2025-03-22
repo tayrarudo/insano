@@ -158,3 +158,56 @@
 [22Mar2025 00:31:30.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> no
 [22Mar2025 00:31:37.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5446ms or 108 ticks behind
 [22Mar2025 00:31:59.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7102ms or 142 ticks behind
+[22Mar2025 00:32:21.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6858ms or 137 ticks behind
+[22Mar2025 00:32:41.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4325ms or 86 ticks behind
+[22Mar2025 00:33:00.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4517ms or 90 ticks behind
+[22Mar2025 00:33:00.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 00:33:09.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 00:33:15.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-453, y=40, z=536} BlockPos{x=-453, y=38, z=536}
+[22Mar2025 00:33:20.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4688ms or 93 ticks behind
+[22Mar2025 00:33:39.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4517ms or 90 ticks behind
+[22Mar2025 00:33:51.204] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[22Mar2025 00:33:57.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJxs_12 has made the advancement [Suit Up]
+[22Mar2025 00:34:00.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6275ms or 125 ticks behind
+[22Mar2025 00:34:03.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=37, z=88} BlockPos{x=32, y=36, z=89}
+[22Mar2025 00:34:21.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5486ms or 109 ticks behind
+[22Mar2025 00:34:41.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4787ms or 95 ticks behind
+[22Mar2025 00:34:56.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> el server va lag?
+[22Mar2025 00:35:03.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7486ms or 149 ticks behind
+[22Mar2025 00:35:06.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> le pego al zombie cada 10 segundos
+[22Mar2025 00:35:24.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6393ms or 127 ticks behind
+[22Mar2025 00:35:47.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7525ms or 150 ticks behind
+[22Mar2025 00:36:07.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4955ms or 99 ticks behind
+[22Mar2025 00:36:26.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
+[22Mar2025 00:36:36.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=11, z=103} BlockPos{x=24, y=10, z=102}
+[22Mar2025 00:36:46.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4732ms or 94 ticks behind
+[22Mar2025 00:37:06.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> pq hay un warden
+[22Mar2025 00:37:06.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
+[22Mar2025 00:37:23.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has reached the goal [A self-respecting Soul]
+[22Mar2025 00:37:27.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5327ms or 106 ticks behind
+[22Mar2025 00:37:34.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Carbon Footprint]
+[22Mar2025 00:37:47.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5423ms or 108 ticks behind
+[22Mar2025 00:38:09.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7585ms or 151 ticks behind
+[22Mar2025 00:38:32.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7279ms or 145 ticks behind
+[22Mar2025 00:38:49.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 00:38:51.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
+[22Mar2025 00:39:11.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
+[22Mar2025 00:39:31.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4963ms or 99 ticks behind
+[22Mar2025 00:39:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Smart Blasting]
+[22Mar2025 00:39:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 00:39:51.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4208ms or 84 ticks behind
+[22Mar2025 00:39:58.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 has made the advancement [Ice Bucket Challenge]
+[22Mar2025 00:40:09.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Enchanter]
+[22Mar2025 00:40:10.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4543ms or 90 ticks behind
+[22Mar2025 00:40:24.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 00:40:30.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4758ms or 95 ticks behind
+[22Mar2025 00:40:50.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 00:40:50.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5412ms or 108 ticks behind
+[22Mar2025 00:41:08.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa lost connection: Disconnected
+[22Mar2025 00:41:08.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa left the game
+[22Mar2025 00:41:10.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[22Mar2025 00:41:29.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
+[22Mar2025 00:41:47.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3595ms or 71 ticks behind
+[22Mar2025 00:42:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> o mateo
+[22Mar2025 00:42:05.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> pq te fuiste
+[22Mar2025 00:42:07.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4175ms or 83 ticks behind

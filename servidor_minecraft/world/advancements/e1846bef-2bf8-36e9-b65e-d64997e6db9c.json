@@ -576,6 +576,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-03-22 00:30:43 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_4": "2025-03-21 23:40:36 +0000"
@@ -588,9 +594,21 @@
     },
     "done": true
   },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2025-03-22 00:37:34 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-03-22 00:03:10 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-03-22 00:30:44 +0000"
     },
     "done": true
   },
@@ -618,6 +636,12 @@
     },
     "done": true
   },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-03-22 00:39:40 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-03-21 23:39:56 +0000"
@@ -627,6 +651,12 @@
   "create:burner": {
     "criteria": {
       "0": "2025-03-21 23:22:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2025-03-22 00:37:34 +0000"
     },
     "done": true
   },

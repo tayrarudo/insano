@@ -222,14 +222,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-03-22 00:28:02 +0000",
       "minecraft:skeleton": "2025-03-16 23:35:33 +0000",
+      "minecraft:magma_cube": "2025-03-22 00:29:59 +0000",
       "minecraft:spider": "2025-03-16 23:19:10 +0000",
       "minecraft:creeper": "2025-03-16 23:36:07 +0000",
       "minecraft:slime": "2025-03-17 00:40:53 +0000",
       "minecraft:zombified_piglin": "2025-03-22 00:25:32 +0000",
       "minecraft:witch": "2025-03-20 23:25:47 +0000",
+      "minecraft:wither_skeleton": "2025-03-22 00:27:57 +0000",
       "minecraft:cave_spider": "2025-03-20 23:24:31 +0000",
-      "minecraft:zombie": "2025-03-16 23:36:12 +0000"
+      "minecraft:zombie": "2025-03-16 23:36:12 +0000",
+      "quark:foxhound": "2025-03-22 00:27:33 +0000"
     },
     "done": false
   },
@@ -493,7 +497,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-22 00:27:14 +0000"
+      "minecraft:crimson_forest": "2025-03-22 00:27:14 +0000",
+      "minecraft:nether_wastes": "2025-03-22 00:27:31 +0000"
     },
     "done": false
   },
@@ -503,9 +508,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 00:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-22 00:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-22 00:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-03-22 00:27:53 +0000"
     },
     "done": true
   },
