@@ -1531,3 +1531,40 @@ Reason: Banned by an operator.
 [22Mar2025 19:56:05.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
 [22Mar2025 19:56:17.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
 [22Mar2025 19:56:53.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 19:56:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 19:57:29.189] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@37372b4d[id=c93c4669-f71e-3f02-9321-c5af2f0fcd55,name=elchipaxd12,properties={},legacy=false] (/127.223.203.153:37747): You are banned from this server.
+Reason: Banned by an operator.
+[22Mar2025 19:57:29.189] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37372b4d[id=c93c4669-f71e-3f02-9321-c5af2f0fcd55,name=elchipaxd12,properties={},legacy=false] (/127.223.203.153:37747) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[22Mar2025 19:57:29.232] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 19:57:56.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
+[22Mar2025 19:58:16.190] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@333c8823[id=<null>,name=elchipaxd12,properties={},legacy=false] (/127.223.203.153:54175) lost connection: Disconnected
+[22Mar2025 19:58:53.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22Mar2025 19:59:12.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22Mar2025 19:59:15.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Unbanned elchipaxd12]
+[22Mar2025 19:59:29.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:33263] logged in with entity id 107816 at (429.3244488412379, 63.0, 400.58669295287797)
+[22Mar2025 19:59:29.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[22Mar2025 19:59:29.348] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[22Mar2025 19:59:30.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 19:59:41.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 20:00:54.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Mar2025 20:01:12.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3529ms or 70 ticks behind
+[22Mar2025 20:01:18.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 20:01:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 20:01:32.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5302ms or 106 ticks behind
+[22Mar2025 20:01:50.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[22Mar2025 20:04:08.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22Mar2025 20:04:12.525] [Server thread/WARN] [tombstone/]: The death event of the player LTCBAS2022 was canceled by another mod
+[22Mar2025 20:04:12.588] [Server thread/INFO] [tombstone/]: The player LTCBAS2022 has successfully been saved
+[22Mar2025 20:04:21.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=266, y=29, z=1379} but found not block entity block Block{minecraft:water}[level=8] at location
+[22Mar2025 20:04:21.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=266, y=29, z=1379}
+[22Mar2025 20:04:25.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Mar2025 20:04:30.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/111337, l='ServerLevel[world]', x=472.53, y=-256.00, z=428.96] died, message: 'Unemployed was killed'
+[22Mar2025 20:04:49.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has completed the challenge [Centennial]
+[22Mar2025 20:05:03.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 20:05:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 20:05:32.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Mar2025 20:05:50.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has made the advancement [Life turned out to be a comedy]
+[22Mar2025 20:05:59.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Mar2025 20:06:18.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[22Mar2025 20:06:37.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
