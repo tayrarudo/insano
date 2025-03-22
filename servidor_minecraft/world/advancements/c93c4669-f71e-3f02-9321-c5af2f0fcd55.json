@@ -432,5 +432,11 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-21 23:59:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

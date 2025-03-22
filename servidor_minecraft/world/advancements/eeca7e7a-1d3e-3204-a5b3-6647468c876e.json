@@ -742,6 +742,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-03-22 00:06:36 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/falconry_glove": {
     "criteria": {
       "falconry_glove": "2025-03-21 23:44:58 +0000"
@@ -751,6 +757,12 @@
   "alexscaves:alexscaves/polymer_plate": {
     "criteria": {
       "cooked_dinosaur_chop": "2025-03-21 23:55:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-03-22 00:03:27 +0000"
     },
     "done": true
   },
