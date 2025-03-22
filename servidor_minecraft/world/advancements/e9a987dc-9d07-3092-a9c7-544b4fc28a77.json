@@ -282,6 +282,12 @@
     },
     "done": false
   },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-03-22 03:59:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-22 02:45:26 +0000"
@@ -339,6 +345,12 @@
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2025-03-22 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-03-22 04:02:30 +0000"
     },
     "done": true
   },
@@ -414,6 +426,12 @@
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_relicheirus": "2025-03-22 03:52:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 03:56:56 +0000"
     },
     "done": true
   },

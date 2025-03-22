@@ -18982,3 +18982,84 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Mar2025 03:56:32.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of fablex39) moved too quickly! 423.5,54.92053167211236,107.5
 [22Mar2025 03:56:32.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of fablex39) moved too quickly! 423.5,55.91726134928285,107.5
 [22Mar2025 03:56:32.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of culosucio) moved too quickly! 429.5,59.19482336526323,112.5
+[22Mar2025 03:56:56.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Ashes 'n Bones]
+[22Mar2025 03:57:19.199] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 03:57:19.212] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 03:57:22.253] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 03:57:22.272] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 03:57:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by The Moonflower
+[22Mar2025 03:57:28.680] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:424, y:63, z:420, dim:minecraft:overworld]
+[22Mar2025 03:57:29.993] [Server thread/DEBUG] [twilightforest/]: Player fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c) respawned and received items held in storage
+[22Mar2025 03:57:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 03:58:12.462] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 03:58:12.481] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 03:58:16.664] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 03:58:16.683] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 03:58:19.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Nightmare Stalker
+[22Mar2025 03:58:19.605] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:440, y:70, z:427, dim:minecraft:overworld]
+[22Mar2025 03:58:20.957] [Server thread/DEBUG] [twilightforest/]: Player fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c) respawned and received items held in storage
+[22Mar2025 03:58:26.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 03:58:36.332] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 03:58:36.352] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 03:58:44.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/229412, l='ServerLevel[world]', x=471.76, y=-256.00, z=428.65] died, message: 'Unemployed was killed'
+[22Mar2025 03:58:46.884] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 03:58:46.910] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 03:58:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Mutual Aid]
+[22Mar2025 03:58:56.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was blown up by Creeper
+[22Mar2025 03:58:56.050] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:464, y:71, z:416, dim:minecraft:overworld]
+[22Mar2025 03:58:57.496] [Server thread/DEBUG] [twilightforest/]: Player fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c) respawned and received items held in storage
+[22Mar2025 03:59:02.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 03:59:37.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Mar2025 03:59:37.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has reached the goal [Heliomancer]
+[22Mar2025 03:59:40.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 03:59:40.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 03:59:55.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
+[22Mar2025 03:59:56.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 04:00:13.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22Mar2025 04:00:31.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[22Mar2025 04:00:33.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 04:00:40.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Tastes Like Chicken]
+[22Mar2025 04:00:42.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Swaggy Meal Mommy Made It]
+[22Mar2025 04:00:48.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[22Mar2025 04:00:54.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Fronds Like These]
+[22Mar2025 04:01:06.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[22Mar2025 04:01:24.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
+[22Mar2025 04:01:28.148] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 04:01:28.180] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 04:01:41.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[22Mar2025 04:01:49.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Tree Stars!!!]
+[22Mar2025 04:01:59.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[22Mar2025 04:02:17.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Mar2025 04:02:26.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Strictly Medicinal Purposes]
+[22Mar2025 04:02:30.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Strictly Medicinal Purposes]
+[22Mar2025 04:02:34.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22Mar2025 04:02:52.824] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 04:02:52.849] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 04:02:54.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22Mar2025 04:03:12.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22Mar2025 04:03:27.983] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: e1846bef-2bf8-36e9-b65e-d64997e6db9c data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[22Mar2025 04:03:30.452] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: e1846bef-2bf8-36e9-b65e-d64997e6db9c data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=ebfb1e69-330a-4970-8bca-f5625c90681a, emoteData=null, startingAt=0, player=null}
+[22Mar2025 04:03:30.954] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: 6ebf05c9-1b61-309d-b1b0-a8d0001e39ec data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[22Mar2025 04:03:31.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Mar2025 04:03:34.678] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: e1846bef-2bf8-36e9-b65e-d64997e6db9c data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[22Mar2025 04:03:39.519] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: e1846bef-2bf8-36e9-b65e-d64997e6db9c data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=0de63fbe-2f20-44e0-8969-479b76ceeb6b, length=44, extra={valid=true}}, startingAt=0, player=null}
+[22Mar2025 04:03:42.750] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: e1846bef-2bf8-36e9-b65e-d64997e6db9c data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=f9f6669d-f1b3-4170-8bc5-475a9a600439, length=61, extra={valid=true}}, startingAt=0, player=null}
+[22Mar2025 04:03:44.863] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: 6ebf05c9-1b61-309d-b1b0-a8d0001e39ec data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
+[22Mar2025 04:03:45.148] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: e1846bef-2bf8-36e9-b65e-d64997e6db9c data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=96506a5e-a69c-4a18-9add-d43dfd272fa6, length=46, extra={valid=true}}, startingAt=0, player=null}
+[22Mar2025 04:03:46.618] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: e1846bef-2bf8-36e9-b65e-d64997e6db9c data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=96506a5e-a69c-4a18-9add-d43dfd272fa6, emoteData=null, startingAt=0, player=null}
+[22Mar2025 04:03:47.076] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: 6ebf05c9-1b61-309d-b1b0-a8d0001e39ec data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=ebfb1e69-330a-4970-8bca-f5625c90681a, emoteData=null, startingAt=0, player=null}
+[22Mar2025 04:03:54.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Mar2025 04:04:15.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[22Mar2025 04:04:32.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[22Mar2025 04:04:50.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[22Mar2025 04:05:08.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[22Mar2025 04:05:25.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 04:05:25.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 04:05:25.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[22Mar2025 04:05:35.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Swaggy Meal Mommy Made It]
+[22Mar2025 04:05:45.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[22Mar2025 04:06:03.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[22Mar2025 04:06:20.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
+[22Mar2025 04:06:38.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[22Mar2025 04:06:38.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has completed the challenge [Well, that was disgusting]
+[22Mar2025 04:06:56.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind

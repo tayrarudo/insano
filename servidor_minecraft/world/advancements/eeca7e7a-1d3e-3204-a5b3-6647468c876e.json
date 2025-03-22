@@ -902,6 +902,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-03-22 04:00:54 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "killed_by_relicheirus": "2025-03-22 03:51:15 +0000"
@@ -914,15 +920,57 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-03-22 04:01:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-03-22 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-03-22 04:02:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-03-22 03:54:38 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2025-03-22 03:40:36 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-03-22 04:00:42 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-22 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-03-22 03:55:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 03:58:49 +0000"
     },
     "done": true
   },
