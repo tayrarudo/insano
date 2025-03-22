@@ -167,8 +167,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chorus_fruit": "2025-03-22 18:16:12 +0000",
       "potato": "2025-03-22 03:14:19 +0000",
-      "golden_apple": "2025-03-22 04:22:44 +0000"
+      "golden_apple": "2025-03-22 04:22:44 +0000",
+      "bread": "2025-03-22 18:29:14 +0000"
     },
     "done": false
   },
@@ -407,6 +409,42 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-03-22 04:49:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-22 18:26:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-22 18:26:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-22 18:15:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-03-22 18:26:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-22 18:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-22 18:15:07 +0000"
     },
     "done": true
   },

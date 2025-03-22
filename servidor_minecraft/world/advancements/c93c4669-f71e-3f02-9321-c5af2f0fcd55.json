@@ -509,15 +509,15 @@
     },
     "done": true
   },
-  "undead_revamp2:nowyouknow": {
+  "ad_astra:astronaut": {
     "criteria": {
-      "nowyouknow_0": "2025-03-22 17:26:54 +0000"
+      "has_astronaut": "2025-03-22 17:07:24 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "ad_astra:zip_gun": {
     "criteria": {
-      "killed_by_tremorsaurus": "2025-03-22 17:31:53 +0000"
+      "using_zip_gun": "2025-03-22 17:08:05 +0000"
     },
     "done": true
   },
@@ -533,27 +533,33 @@
     },
     "done": true
   },
-  "ad_astra:moon": {
+  "undead_revamp2:nowyouknow": {
     "criteria": {
-      "entered_moon": "2025-03-22 18:13:26 +0000"
+      "nowyouknow_0": "2025-03-22 17:26:54 +0000"
     },
     "done": true
   },
-  "ad_astra:astronaut": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "has_astronaut": "2025-03-22 17:07:24 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:zip_gun": {
-    "criteria": {
-      "using_zip_gun": "2025-03-22 17:08:05 +0000"
+      "killed_by_tremorsaurus": "2025-03-22 17:31:53 +0000"
     },
     "done": true
   },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-03-22 17:39:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2025-03-22 18:13:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:moon_cheese": {
+    "criteria": {
+      "has_moon_cheese": "2025-03-22 18:15:38 +0000"
     },
     "done": true
   },
