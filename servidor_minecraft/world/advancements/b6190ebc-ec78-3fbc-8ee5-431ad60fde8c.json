@@ -270,6 +270,7 @@
       "minecraft:phantom": "2025-03-22 01:51:23 +0000",
       "minecraft:witch": "2025-03-20 22:16:48 +0000",
       "minecraft:wither_skeleton": "2025-03-22 00:24:10 +0000",
+      "minecraft:enderman": "2025-03-22 20:33:27 +0000",
       "minecraft:vex": "2025-03-16 23:44:56 +0000",
       "minecraft:zombie": "2025-03-20 22:01:36 +0000",
       "minecraft:zombie_villager": "2025-03-21 23:39:22 +0000"
@@ -695,6 +696,12 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-03-22 19:48:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-03-22 20:25:27 +0000"
     },
     "done": true
   },

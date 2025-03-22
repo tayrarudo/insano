@@ -160,6 +160,7 @@
       "minecraft:dripstone_caves": "2025-03-22 17:23:31 +0000",
       "minecraft:forest": "2025-03-17 00:52:44 +0000",
       "minecraft:jungle": "2025-03-21 01:02:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-22 20:28:53 +0000",
       "minecraft:deep_dark": "2025-03-21 21:51:42 +0000",
       "minecraft:meadow": "2025-03-17 00:52:32 +0000",
       "minecraft:plains": "2025-03-22 17:23:02 +0000"
@@ -168,6 +169,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-03-22 20:28:00 +0000",
       "apple": "2025-03-17 00:57:03 +0000",
       "potato": "2025-03-17 01:23:50 +0000",
       "bread": "2025-03-17 01:06:18 +0000",
@@ -572,6 +574,18 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-03-22 20:04:49 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-03-22 20:26:44 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-03-22 20:27:14 +0000"
     },
     "done": true
   },

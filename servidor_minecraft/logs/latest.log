@@ -1833,3 +1833,32 @@ Caused by: java.util.NoSuchElementException: No value present
 [22Mar2025 20:26:22.938] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
 [22Mar2025 20:26:44.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Gotta Capture Them All!]
 [22Mar2025 20:27:14.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 has made the advancement [Somehow, Pickarang Returned]
+[22Mar2025 20:28:51.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has completed the challenge [+PARRY]
+[22Mar2025 20:29:05.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa has completed the challenge [I'm not sugar coating it]
+[22Mar2025 20:29:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 20:29:56.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to elchipaxd12]
+[22Mar2025 20:29:58.612] [Server thread/WARN] [tombstone/]: The death event of the player elchipaxd12 was canceled by another mod
+[22Mar2025 20:29:58.628] [Server thread/INFO] [tombstone/]: The player elchipaxd12 has successfully been saved
+[22Mar2025 20:30:14.276] [Server thread/WARN] [tombstone/]: The death event of the player minitipa was canceled by another mod
+[22Mar2025 20:30:14.331] [Server thread/INFO] [tombstone/]: The player minitipa has successfully been saved
+[22Mar2025 20:30:22.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: minitipa lost connection: Disconnected
+[22Mar2025 20:30:22.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa left the game
+[22Mar2025 20:30:22.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa was shot by Skeleton
+[22Mar2025 20:31:48.206] [Server thread/WARN] [tombstone/]: The death event of the player LTCBAS2022 was canceled by another mod
+[22Mar2025 20:31:48.229] [Server thread/INFO] [tombstone/]: The player LTCBAS2022 has successfully been saved
+[22Mar2025 20:32:04.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to LTCBAS2022]
+[22Mar2025 20:32:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 20:33:55.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Mar2025 20:34:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 20:34:13.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3093ms or 61 ticks behind
+[22Mar2025 20:34:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 20:34:31.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3205ms or 64 ticks behind
+[22Mar2025 20:34:37.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to elchipaxd12]
+[22Mar2025 20:34:38.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 20:34:49.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
+[22Mar2025 20:36:27.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to LTCBAS2022]
+[22Mar2025 20:36:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 20:36:53.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 20:37:48.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: minitipa[/127.227.119.219:33967] logged in with entity id 131510 at (208.53759534290248, 94.0, 1658.678850956095)
+[22Mar2025 20:37:48.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minitipa joined the game
+[22Mar2025 20:37:48.503] [Server thread/INFO] [Jade/]: Syncing config to minitipa (1d6e4435-2c18-3115-b89f-54099a7bb6dd)
