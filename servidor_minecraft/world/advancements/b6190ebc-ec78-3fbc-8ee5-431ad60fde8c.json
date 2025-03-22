@@ -83,6 +83,8 @@
       "shrubland": "2025-03-16 22:49:29 +0000",
       "rocky_shrubland": "2025-03-16 22:46:30 +0000",
       "scrubland": "2025-03-16 23:13:10 +0000",
+      "volcano": "2025-03-22 03:20:00 +0000",
+      "volcanic_plains": "2025-03-22 03:19:33 +0000",
       "rainforest": "2025-03-17 01:16:47 +0000"
     },
     "done": false
@@ -196,6 +198,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-03-22 03:24:22 +0000",
+      "minecraft:bamboo_jungle": "2025-03-22 03:20:13 +0000",
       "minecraft:stony_peaks": "2025-03-16 23:27:57 +0000",
       "minecraft:lukewarm_ocean": "2025-03-17 00:02:43 +0000",
       "minecraft:river": "2025-03-16 23:00:34 +0000",
@@ -203,6 +207,7 @@
       "minecraft:jagged_peaks": "2025-03-21 22:52:42 +0000",
       "minecraft:forest": "2025-03-21 22:25:05 +0000",
       "minecraft:jungle": "2025-03-17 01:19:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-22 03:24:00 +0000",
       "minecraft:meadow": "2025-03-16 23:27:02 +0000"
     },
     "done": false

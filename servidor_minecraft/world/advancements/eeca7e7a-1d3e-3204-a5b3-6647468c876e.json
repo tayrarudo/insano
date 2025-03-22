@@ -253,6 +253,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-03-21 00:56:35 +0000",
+      "minecraft:deep_ocean": "2025-03-22 03:24:22 +0000",
       "minecraft:birch_forest": "2025-03-21 00:55:24 +0000",
       "minecraft:bamboo_jungle": "2025-03-21 21:44:52 +0000",
       "minecraft:beach": "2025-03-21 00:57:02 +0000",
@@ -895,6 +896,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-03-22 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-22 03:17:37 +0000"
     },
     "done": true
   },
