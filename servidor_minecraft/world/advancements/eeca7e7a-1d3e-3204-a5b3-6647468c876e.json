@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-03-22 02:09:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-03-21 23:54:38 +0000"
@@ -748,6 +754,12 @@
   "tombstone:adventure/use_lightning_resistance": {
     "criteria": {
       "has_magic_scroll": "2025-03-21 23:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-22 02:03:08 +0000"
     },
     "done": true
   },
