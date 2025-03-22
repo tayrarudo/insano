@@ -732,15 +732,45 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-03-22 05:20:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-03-22 05:19:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:solar_panel": {
+    "criteria": {
+      "has_solar_panel": "2025-03-22 05:14:55 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-03-22 04:56:37 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-03-22 05:19:34 +0000"
+    },
+    "done": true
+  },
   "ad_astra:doom_slayer": {
     "criteria": {
       "has_netherite_space_suit": "2025-03-22 05:12:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-03-22 05:19:43 +0000"
     },
     "done": true
   },

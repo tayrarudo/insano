@@ -520,5 +520,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-03-22 05:14:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

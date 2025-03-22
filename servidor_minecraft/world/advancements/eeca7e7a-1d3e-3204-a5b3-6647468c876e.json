@@ -1000,6 +1000,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-22 05:22:46 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_grottoceratops": "2025-03-22 03:55:25 +0000"
@@ -1015,6 +1021,12 @@
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-03-22 03:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-22 05:24:45 +0000"
     },
     "done": true
   },
