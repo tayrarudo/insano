@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "ad_astra:rocket_science": {
+    "criteria": {
+      "has_nasa_workbench": "2025-03-22 00:44:24 +0000"
+    },
+    "done": true
+  },
   "ad_astra:ad_astra": {
     "criteria": {
       "has_coal_generator": "2025-03-22 00:37:34 +0000"
