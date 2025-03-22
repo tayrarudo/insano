@@ -156,6 +156,7 @@
       "apple": "2025-03-17 01:02:44 +0000",
       "potato": "2025-03-22 03:14:36 +0000",
       "bread": "2025-03-17 01:03:32 +0000",
+      "golden_apple": "2025-03-22 04:31:10 +0000",
       "melon_slice": "2025-03-22 03:07:53 +0000",
       "golden_carrot": "2025-03-22 03:39:26 +0000"
     },
@@ -465,15 +466,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-22 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-03-22 04:23:42 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:parry": {
     "criteria": {
       "parry_0": "2025-03-22 04:17:04 +0000"
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-03-22 04:22:40 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/primitive_club": {
     "criteria": {
       "limestone": "2025-03-22 04:16:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_vallumraptor": {
+    "criteria": {
+      "killed": "2025-03-22 04:28:02 +0000"
     },
     "done": true
   },
