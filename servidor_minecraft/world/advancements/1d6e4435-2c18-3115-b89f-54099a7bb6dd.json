@@ -226,8 +226,10 @@
       "minecraft:skeleton": "2025-03-16 23:35:33 +0000",
       "minecraft:magma_cube": "2025-03-22 00:29:59 +0000",
       "minecraft:spider": "2025-03-16 23:19:10 +0000",
+      "minecraft:piglin_brute": "2025-03-22 01:44:38 +0000",
       "minecraft:creeper": "2025-03-16 23:36:07 +0000",
       "minecraft:slime": "2025-03-17 00:40:53 +0000",
+      "minecraft:phantom": "2025-03-22 01:50:59 +0000",
       "minecraft:zombified_piglin": "2025-03-22 00:25:32 +0000",
       "minecraft:witch": "2025-03-20 23:25:47 +0000",
       "minecraft:wither_skeleton": "2025-03-22 00:27:57 +0000",
@@ -535,11 +537,41 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-03-22 01:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-22 01:42:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-22 01:00:56 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-03-22 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-22 01:39:14 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-22 01:50:59 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
