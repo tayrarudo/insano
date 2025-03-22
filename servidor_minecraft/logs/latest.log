@@ -972,3 +972,37 @@
 [22Mar2025 03:05:15.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [A Terrible Fortress]
 [22Mar2025 03:05:38.619] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
 [22Mar2025 03:05:38.657] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 03:05:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 03:08:06.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Monster Hunter]
+[22Mar2025 03:08:24.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: culosucio[/127.250.95.184:35397] logged in with entity id 192897 at (10.5, 103.0, -1.5)
+[22Mar2025 03:08:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio joined the game
+[22Mar2025 03:08:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has reached the goal [Easter]
+[22Mar2025 03:08:24.584] [Server thread/INFO] [Jade/]: Syncing config to culosucio (6ebf05c9-1b61-309d-b1b0-a8d0001e39ec)
+[22Mar2025 03:08:24.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has completed the challenge [The Undead]
+[22Mar2025 03:09:00.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> xaero-waypoint:Shared Location:S:464:74:435:15:false:0:Internal-overworld-waypoints
+[22Mar2025 03:09:23.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [Sweet Dreams]
+[22Mar2025 03:09:25.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Stone Age]
+[22Mar2025 03:10:25.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zJxs_12[/127.45.10.185:59963] logged in with entity id 194440 at (464.69999998807907, 70.0, 446.69999998807907)
+[22Mar2025 03:10:25.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJxs_12 joined the game
+[22Mar2025 03:10:25.581] [Server thread/INFO] [Jade/]: Syncing config to zJxs_12 (2547154b-88c2-3dac-85ff-029fb9ef907a)
+[22Mar2025 03:10:27.964] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 03:10:28.021] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 03:10:39.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> OE SANTI
+[22Mar2025 03:10:43.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> la lava
+[22Mar2025 03:10:44.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> muy mal
+[22Mar2025 03:11:20.296] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 03:11:20.345] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 03:11:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> qn es culosucio
+[22Mar2025 03:12:12.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [Alex's Mobs]
+[22Mar2025 03:12:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [Isn't It Iron Pick]
+[22Mar2025 03:12:28.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zJxs_12 lost connection: Disconnected
+[22Mar2025 03:12:28.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJxs_12 left the game
+[22Mar2025 03:12:34.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [Stone Age]
+[22Mar2025 03:14:00.685] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 03:14:00.693] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 03:14:22.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to culosucio]
+[22Mar2025 03:14:23.185] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 03:14:23.192] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 03:15:31.857] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -2450 -56 2331 in 1s
+[22Mar2025 03:15:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [A Seedy Place]
+[22Mar2025 03:15:55.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to culosucio]
