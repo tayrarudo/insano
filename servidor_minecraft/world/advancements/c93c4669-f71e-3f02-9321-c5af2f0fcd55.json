@@ -156,10 +156,12 @@
       "minecraft:lukewarm_ocean": "2025-03-17 01:03:04 +0000",
       "minecraft:river": "2025-03-17 01:08:31 +0000",
       "minecraft:stony_shore": "2025-03-17 01:01:50 +0000",
+      "minecraft:dripstone_caves": "2025-03-22 17:23:31 +0000",
       "minecraft:forest": "2025-03-17 00:52:44 +0000",
       "minecraft:jungle": "2025-03-21 01:02:09 +0000",
       "minecraft:deep_dark": "2025-03-21 21:51:42 +0000",
-      "minecraft:meadow": "2025-03-17 00:52:32 +0000"
+      "minecraft:meadow": "2025-03-17 00:52:32 +0000",
+      "minecraft:plains": "2025-03-22 17:23:02 +0000"
     },
     "done": false
   },
@@ -509,6 +511,12 @@
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-03-22 17:18:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-03-22 17:20:55 +0000"
     },
     "done": true
   },

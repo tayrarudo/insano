@@ -595,5 +595,17 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-22 17:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-22 17:24:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
