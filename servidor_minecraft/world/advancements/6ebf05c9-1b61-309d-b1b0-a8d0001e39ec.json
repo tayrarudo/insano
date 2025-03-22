@@ -1,4 +1,10 @@
 {
+  "ad_astra:moon_cheese": {
+    "criteria": {
+      "has_moon_cheese": "2025-03-22 03:42:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-22 03:08:24 +0000"
@@ -23,6 +29,12 @@
     },
     "done": true
   },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-03-22 03:25:34 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2025-03-22 03:08:24 +0000"
@@ -32,6 +44,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-22 03:12:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2025-03-22 03:41:08 +0000"
     },
     "done": true
   },
@@ -59,9 +77,21 @@
     },
     "done": true
   },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2025-03-22 03:40:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "rocky_shrubland": "2025-03-22 03:08:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ti_69": {
+    "criteria": {
+      "has_ti_69": "2025-03-22 03:37:10 +0000"
     },
     "done": true
   },
@@ -104,6 +134,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-22 03:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-22 03:31:16 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-22 03:08:24 +0000"
@@ -116,16 +158,33 @@
     },
     "done": true
   },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2025-03-22 03:33:29 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-22 03:08:24 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-22 03:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-03-22 03:26:35 +0000",
+      "minecraft:sparse_jungle": "2025-03-22 03:25:49 +0000",
       "minecraft:lukewarm_ocean": "2025-03-22 03:23:44 +0000",
-      "minecraft:stony_shore": "2025-03-22 03:12:01 +0000"
+      "minecraft:river": "2025-03-22 03:25:45 +0000",
+      "minecraft:stony_shore": "2025-03-22 03:12:01 +0000",
+      "minecraft:jungle": "2025-03-22 03:26:24 +0000",
+      "minecraft:ocean": "2025-03-22 03:27:14 +0000"
     },
     "done": false
   },
@@ -165,6 +224,12 @@
       "wheat": "2025-03-22 03:15:36 +0000"
     },
     "done": false
+  },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-03-22 03:28:12 +0000"
+    },
+    "done": true
   },
   "aquamirae:adventure/root": {
     "criteria": {

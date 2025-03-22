@@ -83,8 +83,12 @@
       "shrubland": "2025-03-16 22:49:29 +0000",
       "rocky_shrubland": "2025-03-16 22:46:30 +0000",
       "scrubland": "2025-03-16 23:13:10 +0000",
+      "moor": "2025-03-22 03:29:36 +0000",
+      "redwood_forest": "2025-03-22 03:26:24 +0000",
+      "dune_beach": "2025-03-22 03:26:13 +0000",
       "volcano": "2025-03-22 03:20:00 +0000",
       "volcanic_plains": "2025-03-22 03:19:33 +0000",
+      "grassland": "2025-03-22 03:29:45 +0000",
       "rainforest": "2025-03-17 01:16:47 +0000"
     },
     "done": false
@@ -200,6 +204,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-03-22 03:24:22 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 03:20:13 +0000",
+      "minecraft:beach": "2025-03-22 03:26:12 +0000",
       "minecraft:stony_peaks": "2025-03-16 23:27:57 +0000",
       "minecraft:lukewarm_ocean": "2025-03-17 00:02:43 +0000",
       "minecraft:river": "2025-03-16 23:00:34 +0000",
@@ -207,6 +212,7 @@
       "minecraft:jagged_peaks": "2025-03-21 22:52:42 +0000",
       "minecraft:forest": "2025-03-21 22:25:05 +0000",
       "minecraft:jungle": "2025-03-17 01:19:46 +0000",
+      "minecraft:ocean": "2025-03-22 03:24:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 03:24:00 +0000",
       "minecraft:meadow": "2025-03-16 23:27:02 +0000"
     },
@@ -607,6 +613,12 @@
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-03-22 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-03-22 03:26:47 +0000"
     },
     "done": true
   },
