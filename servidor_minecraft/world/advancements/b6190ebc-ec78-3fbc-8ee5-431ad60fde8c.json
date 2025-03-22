@@ -212,6 +212,7 @@
       "minecraft:lukewarm_ocean": "2025-03-17 00:02:43 +0000",
       "minecraft:river": "2025-03-16 23:00:34 +0000",
       "minecraft:stony_shore": "2025-03-16 23:09:01 +0000",
+      "minecraft:dripstone_caves": "2025-03-22 21:03:50 +0000",
       "minecraft:jagged_peaks": "2025-03-21 22:52:42 +0000",
       "minecraft:forest": "2025-03-21 22:25:05 +0000",
       "minecraft:jungle": "2025-03-17 01:19:46 +0000",
@@ -675,6 +676,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-03-22 21:02:15 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-03-22 17:18:26 +0000"
@@ -717,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-22 20:57:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-03-22 19:48:13 +0000"
@@ -738,6 +751,12 @@
   "alexscaves:alexscaves/tame_vallumraptor": {
     "criteria": {
       "killed": "2025-03-22 20:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-22 20:57:38 +0000"
     },
     "done": true
   },
