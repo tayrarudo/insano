@@ -517,3 +517,32 @@
 [22Mar2025 01:22:37.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> yo no lo queme
 [22Mar2025 01:23:08.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> vaya mrd
 [22Mar2025 01:23:28.134] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 01:24:02.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zJxs_12 has made the advancement [It Belongs in a Museum]
+[22Mar2025 01:24:23.341] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[22Mar2025 01:25:38.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elchipaxd12[/127.223.203.153:44533] logged in with entity id 134811 at (455.4819051464562, 69.0, 480.12899076884855)
+[22Mar2025 01:25:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elchipaxd12 joined the game
+[22Mar2025 01:25:38.802] [Server thread/INFO] [Jade/]: Syncing config to elchipaxd12 (c93c4669-f71e-3f02-9321-c5af2f0fcd55)
+[22Mar2025 01:26:05.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Mar2025 01:26:37.143] [Netty Epoll Server IO #1/WARN] [emotecraft/]: Player: ServerPlayer['zJxs_12'/128540, l='ServerLevel[world]', x=470.50, y=69.00, z=441.50] does not respect server-side emote tracking. Ignoring repeat
+[22Mar2025 01:26:52.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> no
+[22Mar2025 01:27:04.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> estabaen el nether
+[22Mar2025 01:27:13.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> hasta fablex se tepeo a mi
+[22Mar2025 01:30:24.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Life turned out to be a comedy]
+[22Mar2025 01:30:25.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=32, z=270} BlockPos{x=11, y=37, z=265}
+[22Mar2025 01:30:38.970] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 01:30:38.982] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 01:31:19.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Mar2025 01:31:35.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported Andremat2010 to fablex39]
+[22Mar2025 01:31:36.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[22Mar2025 01:31:54.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[22Mar2025 01:32:12.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[22Mar2025 01:32:15.457] [Server thread/WARN] [tombstone/]: The death event of the player Andremat2010 was canceled by another mod
+[22Mar2025 01:32:15.518] [Server thread/INFO] [tombstone/]: The player Andremat2010 has successfully been saved
+[22Mar2025 01:32:30.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[22Mar2025 01:32:46.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> no
+[22Mar2025 01:32:49.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
+[22Mar2025 01:32:53.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> si
+[22Mar2025 01:33:07.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zJxs_12> quieres?
+[22Mar2025 01:33:08.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
+[22Mar2025 01:33:26.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[22Mar2025 01:33:43.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
