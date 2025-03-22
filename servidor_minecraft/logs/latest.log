@@ -1372,3 +1372,88 @@
 [22Mar2025 04:35:12.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/247822, l='ServerLevel[world]', x=471.49, y=-256.00, z=428.77] died, message: 'Unemployed was killed'
 [22Mar2025 04:35:34.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
 [22Mar2025 04:35:34.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[22Mar2025 04:37:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [Easter Egg Searcher]
+[22Mar2025 04:39:01.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:32847] logged in with entity id 249282 at (-4.888857157192614, 77.13980803617578, -55.21784522255127)
+[22Mar2025 04:39:01.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[22Mar2025 04:39:01.550] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[22Mar2025 04:39:31.949] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 04:39:32.002] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 04:40:14.169] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 04:40:14.179] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 04:40:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Capturing Mobs]
+[22Mar2025 04:40:28.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Gremlin
+[22Mar2025 04:40:43.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 04:41:19.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[22Mar2025 04:41:30.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has reached the goal [Clever Girl]
+[22Mar2025 04:41:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has made the advancement [Best Friends Forever]
+[22Mar2025 04:41:35.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 04:41:41.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7233ms or 144 ticks behind
+[22Mar2025 04:41:48.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac has made the advancement [Capture a mob using a Capture Cell]
+[22Mar2025 04:41:49.368] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 04:41:49.441] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 04:41:55.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 04:42:00.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to culosucio]
+[22Mar2025 04:42:01.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5453ms or 109 ticks behind
+[22Mar2025 04:42:08.066] [Server thread/WARN] [tombstone/]: The death event of the player Kiritogamericrac was canceled by another mod
+[22Mar2025 04:42:08.100] [Server thread/INFO] [tombstone/]: The player Kiritogamericrac has successfully been saved
+[22Mar2025 04:42:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xaero-waypoint:base:B:-2085:-27:2254:11:false:0:Internal-overworld-waypoints
+[22Mar2025 04:42:13.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/251633, l='ServerLevel[world]', x=471.49, y=-256.00, z=428.77] died, message: 'Unemployed was killed'
+[22Mar2025 04:42:19.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
+[22Mar2025 04:42:24.181] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 04:42:24.241] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 04:42:35.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/251841, l='ServerLevel[world]', x=472.14, y=-256.00, z=428.85] died, message: 'Unemployed was killed'
+[22Mar2025 04:42:37.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
+[22Mar2025 04:42:56.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4563ms or 91 ticks behind
+[22Mar2025 04:43:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 04:43:07.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/252328, l='ServerLevel[world]', x=471.49, y=-256.00, z=428.77] died, message: 'Unemployed was killed'
+[22Mar2025 04:43:10.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 04:43:17.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5997ms or 119 ticks behind
+[22Mar2025 04:43:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac was slain by Vallumraptor
+[22Mar2025 04:43:37.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4452ms or 89 ticks behind
+[22Mar2025 04:43:58.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiritogamericrac moved too quickly! 0.44302896953558957,-6.375000046098018,7.86603868597922
+[22Mar2025 04:43:58.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6598ms or 131 ticks behind
+[22Mar2025 04:44:17.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4040ms or 80 ticks behind
+[22Mar2025 04:44:35.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[22Mar2025 04:44:47.790] [Server thread/WARN] [tombstone/]: The death event of the player culosucio was canceled by another mod
+[22Mar2025 04:44:47.792] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 04:44:47.808] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 04:44:47.906] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 04:44:52.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[22Mar2025 04:44:53.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has reached the goal [Strong or Careful]
+[22Mar2025 04:44:53.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio tried to swim in lava
+[22Mar2025 04:44:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [Your First Grave]
+[22Mar2025 04:44:54.053] [Server thread/INFO] [tombstone/]: The player culosucio has successfully been saved
+[22Mar2025 04:44:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was killed by [Intentional Game Design]
+[22Mar2025 04:44:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> fablex podes revivir a mati
+[22Mar2025 04:45:00.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> ??
+[22Mar2025 04:45:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> pla
+[22Mar2025 04:45:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> pls
+[22Mar2025 04:45:04.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xd
+[22Mar2025 04:45:07.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabriel> xdddd
+[22Mar2025 04:45:10.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fablex39> ala
+[22Mar2025 04:45:16.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <culosucio> gg
+[22Mar2025 04:45:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Kiritogamericrac's game mode to Survival Mode]
+[22Mar2025 04:45:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 04:45:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set culosucio's game mode to Survival Mode]
+[22Mar2025 04:45:24.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[22Mar2025 04:45:30.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22Mar2025 04:45:34.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 04:45:49.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4322ms or 86 ticks behind
+[22Mar2025 04:46:03.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has made the advancement [The Most Useful Key]
+[22Mar2025 04:46:07.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
+[22Mar2025 04:46:19.014] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 04:46:19.107] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 04:46:25.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has reached the goal [A Fast Comeback]
+[22Mar2025 04:46:30.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 burned to death
+[22Mar2025 04:46:30.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8335ms or 166 ticks behind
+[22Mar2025 04:46:30.768] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 04:46:37.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culosucio has reached the goal [Discreet Search]
+[22Mar2025 04:46:41.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[22Mar2025 04:46:53.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8065ms or 161 ticks behind
+[22Mar2025 04:46:54.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiritogamericrac lost connection: Disconnected
+[22Mar2025 04:46:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiritogamericrac left the game
+[22Mar2025 04:47:11.140] [Server thread/WARN] [tombstone/]: The death event of the player fablex39 was canceled by another mod
+[22Mar2025 04:47:11.216] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[22Mar2025 04:47:12.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3453ms or 69 ticks behind
+[22Mar2025 04:47:32.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Mar2025 04:47:50.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind

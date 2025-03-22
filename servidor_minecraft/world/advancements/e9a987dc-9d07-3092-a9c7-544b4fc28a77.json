@@ -466,6 +466,12 @@
     },
     "done": true
   },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-03-22 04:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-03-22 04:28:02 +0000"
@@ -496,9 +502,21 @@
     },
     "done": true
   },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-03-22 04:40:25 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_vallumraptor": {
     "criteria": {
       "killed": "2025-03-22 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-22 04:33:33 +0000"
     },
     "done": true
   },

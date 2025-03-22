@@ -47,6 +47,19 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-03-22 04:33:53 +0000",
+      "minecraft:nether_wastes": "2025-03-22 04:35:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-22 04:33:52 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2025-03-22 03:08:24 +0000"
@@ -74,6 +87,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-22 03:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-22 04:33:52 +0000"
     },
     "done": true
   },
@@ -110,6 +129,12 @@
   "ad_astra:ti_69": {
     "criteria": {
       "has_ti_69": "2025-03-22 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 04:37:44 +0000"
     },
     "done": true
   },
@@ -173,6 +198,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-22 04:30:53 +0000",
+      "minecraft:hoglin": "2025-03-22 04:43:26 +0000",
+      "minecraft:wither_skeleton": "2025-03-22 04:34:30 +0000",
       "minecraft:zombie": "2025-03-22 03:31:16 +0000"
     },
     "done": false
@@ -308,6 +335,12 @@
   "portablemobs:basiccelladvancement": {
     "criteria": {
       "basiccell": "2025-03-22 04:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-03-22 04:34:03 +0000"
     },
     "done": true
   },
