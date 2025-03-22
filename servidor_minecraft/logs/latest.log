@@ -986,3 +986,76 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Mar2025 17:41:07.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> xdd
 [22Mar2025 17:41:09.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elchipaxd12> no esta
 [22Mar2025 17:41:13.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andremat2010 was slain by Wilted
+[22Mar2025 17:46:16.232] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.253] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.257] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.261] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.264] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.268] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.287] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.292] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.295] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.299] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.303] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.336] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.336] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.351] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.366] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.369] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.373] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.380] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.396] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.404] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.417] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.434] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.451] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.456] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.471] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.484] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.489] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.506] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.506] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.507] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.507] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.507] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.508] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.508] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.508] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.509] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.509] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.509] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.509] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.510] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.510] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.510] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.511] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.511] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.511] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.512] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.512] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.512] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.512] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.513] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.513] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.513] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.513] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.514] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.514] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.514] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.515] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.515] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.515] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.516] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.516] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings
+[22Mar2025 17:46:16.516] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.517] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.517] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:46:16.517] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: cannibal:cannibal_village/roads -> cannibal:cannibal_village/buildings -> cannibal:cannibal_village/roads
+[22Mar2025 17:50:50.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fablex39[/127.104.85.61:32839] logged in with entity id 37675 at (444.83037650825537, 70.0, 420.76814047203715)
+[22Mar2025 17:50:50.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 joined the game
+[22Mar2025 17:50:50.257] [Server thread/INFO] [Jade/]: Syncing config to fablex39 (e1846bef-2bf8-36e9-b65e-d64997e6db9c)
+[22Mar2025 17:51:34.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set Andremat2010's game mode to Survival Mode]
+[22Mar2025 17:51:44.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported Andremat2010 to fablex39]
+[22Mar2025 17:52:06.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elchipaxd12 moved wrongly!
+[22Mar2025 17:52:14.989] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[22Mar2025 17:52:48.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [It Belongs in a Museum]
