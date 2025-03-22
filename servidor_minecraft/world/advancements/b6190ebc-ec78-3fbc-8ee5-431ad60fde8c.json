@@ -246,9 +246,11 @@
     "criteria": {
       "minecraft:blaze": "2025-03-22 00:24:58 +0000",
       "minecraft:skeleton": "2025-03-20 22:04:30 +0000",
+      "minecraft:hoglin": "2025-03-22 00:52:15 +0000",
       "minecraft:magma_cube": "2025-03-22 00:41:43 +0000",
       "minecraft:spider": "2025-03-20 22:11:51 +0000",
       "minecraft:creeper": "2025-03-20 22:48:47 +0000",
+      "minecraft:slime": "2025-03-22 00:59:27 +0000",
       "minecraft:witch": "2025-03-20 22:16:48 +0000",
       "minecraft:wither_skeleton": "2025-03-22 00:24:10 +0000",
       "minecraft:vex": "2025-03-16 23:44:56 +0000",

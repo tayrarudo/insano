@@ -232,6 +232,7 @@
       "minecraft:witch": "2025-03-20 23:25:47 +0000",
       "minecraft:wither_skeleton": "2025-03-22 00:27:57 +0000",
       "minecraft:cave_spider": "2025-03-20 23:24:31 +0000",
+      "minecraft:piglin": "2025-03-22 00:59:27 +0000",
       "minecraft:zombie": "2025-03-16 23:36:12 +0000",
       "quark:foxhound": "2025-03-22 00:27:33 +0000"
     },
@@ -495,22 +496,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-03-22 00:27:14 +0000",
-      "minecraft:nether_wastes": "2025-03-22 00:27:31 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-03-22 00:27:13 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-03-22 00:29:55 +0000"
     },
     "done": true
   },
@@ -520,15 +508,34 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-03-22 00:27:14 +0000",
+      "minecraft:nether_wastes": "2025-03-22 00:27:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-03-22 00:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-03-22 00:28:02 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "in_better_fortress": "2025-03-22 00:27:53 +0000"
+      "coded_trigger": "2025-03-22 00:29:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 01:00:56 +0000"
     },
     "done": true
   },

@@ -268,6 +268,7 @@
       "minecraft:deep_cold_ocean": "2025-03-21 00:58:38 +0000",
       "minecraft:jungle": "2025-03-20 23:59:33 +0000",
       "minecraft:ocean": "2025-03-21 22:03:21 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-22 00:50:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-21 00:55:52 +0000",
       "minecraft:deep_dark": "2025-03-21 23:02:53 +0000",
       "minecraft:meadow": "2025-03-20 22:59:41 +0000",
@@ -313,6 +314,7 @@
       "minecraft:vindicator": "2025-03-16 23:35:44 +0000",
       "minecraft:magma_cube": "2025-03-22 00:15:00 +0000",
       "minecraft:spider": "2025-03-17 00:09:22 +0000",
+      "minecraft:piglin_brute": "2025-03-22 00:49:06 +0000",
       "minecraft:creeper": "2025-03-21 22:18:14 +0000",
       "minecraft:slime": "2025-03-21 00:26:53 +0000",
       "minecraft:zombified_piglin": "2025-03-21 23:49:38 +0000",
@@ -722,6 +724,12 @@
     },
     "done": true
   },
+  "faded_conquest_2:pbslain": {
+    "criteria": {
+      "pbslain_0": "2025-03-22 01:01:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-03-21 23:49:13 +0000",
@@ -784,6 +792,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 00:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-03-22 00:13:19 +0000"
@@ -802,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-22 00:49:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-03-22 00:45:48 +0000"
@@ -811,6 +831,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-03-21 23:49:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 00:50:08 +0000"
     },
     "done": true
   },
