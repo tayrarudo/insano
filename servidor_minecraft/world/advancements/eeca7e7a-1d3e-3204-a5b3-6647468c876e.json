@@ -90,6 +90,8 @@
       "clover_patch": "2025-03-21 22:00:19 +0000",
       "old_growth_woodland": "2025-03-21 00:46:01 +0000",
       "maple_woods": "2025-03-21 22:13:05 +0000",
+      "crystalline_chasm": "2025-03-23 01:33:43 +0000",
+      "withered_abyss": "2025-03-23 01:35:07 +0000",
       "orchard": "2025-03-21 01:18:53 +0000",
       "lavender_forest": "2025-03-21 01:17:51 +0000",
       "moor": "2025-03-22 03:29:39 +0000",
@@ -749,9 +751,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-21 23:49:13 +0000",
       "minecraft:nether_wastes": "2025-03-21 23:49:52 +0000",
-      "minecraft:warped_forest": "2025-03-22 00:28:56 +0000"
+      "minecraft:soul_sand_valley": "2025-03-23 01:33:58 +0000",
+      "minecraft:warped_forest": "2025-03-22 00:28:56 +0000",
+      "minecraft:basalt_deltas": "2025-03-23 01:36:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -1115,6 +1119,18 @@
       "dreadbow": "2025-03-23 00:33:36 +0000"
     },
     "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-03-23 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-23 01:19:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

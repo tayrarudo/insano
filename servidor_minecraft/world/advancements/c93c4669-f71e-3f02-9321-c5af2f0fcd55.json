@@ -267,6 +267,7 @@
       "minecraft:skeleton": "2025-03-21 23:27:23 +0000",
       "minecraft:vindicator": "2025-03-22 20:43:12 +0000",
       "minecraft:magma_cube": "2025-03-21 23:30:16 +0000",
+      "minecraft:spider": "2025-03-23 01:21:22 +0000",
       "minecraft:slime": "2025-03-22 01:00:02 +0000",
       "minecraft:phantom": "2025-03-22 23:36:05 +0000",
       "minecraft:zombified_piglin": "2025-03-21 23:48:06 +0000",
@@ -705,15 +706,15 @@
     },
     "done": false
   },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-03-23 00:22:32 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-03-23 00:15:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-23 00:22:32 +0000"
     },
     "done": true
   },

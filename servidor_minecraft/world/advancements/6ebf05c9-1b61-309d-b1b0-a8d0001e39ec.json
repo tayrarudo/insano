@@ -476,5 +476,23 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-03-23 00:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-23 00:46:01 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/amulet": {
+    "criteria": {
+      "inventory_changed": "2025-03-23 00:46:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

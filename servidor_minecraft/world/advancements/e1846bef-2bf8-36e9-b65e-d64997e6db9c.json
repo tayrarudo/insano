@@ -886,15 +886,9 @@
     },
     "done": true
   },
-  "portablemobs:playercaptureadvancement": {
+  "graveyard:graveyard/dark_iron": {
     "criteria": {
-      "playertrigger": "2025-03-23 00:19:26 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2025-03-23 00:17:55 +0000"
+      "dark_iron": "2025-03-22 21:15:07 +0000"
     },
     "done": true
   },
@@ -904,21 +898,33 @@
     },
     "done": true
   },
-  "graveyard:graveyard/dark_iron": {
-    "criteria": {
-      "dark_iron": "2025-03-22 21:15:07 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-03-22 23:10:21 +0000"
     },
     "done": false
   },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-03-23 00:17:55 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:playercaptureadvancement": {
+    "criteria": {
+      "playertrigger": "2025-03-23 00:19:26 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-03-23 00:28:26 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/amulet": {
+    "criteria": {
+      "inventory_changed": "2025-03-23 01:37:41 +0000"
     },
     "done": true
   },
