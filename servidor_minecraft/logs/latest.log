@@ -1744,3 +1744,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Mar2025 03:50:05.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of Gabriel) moved too quickly! 6.829604473392692,1.0,11.529570178769063
 [23Mar2025 03:50:05.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of Gabriel) moved too quickly! 7.042481795466983,1.0,11.959271104722575
 [23Mar2025 03:50:05.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elephant (vehicle of Gabriel) moved too quickly! 7.257620619699992,1.0,12.387837644489991
+[23Mar2025 03:50:44.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Mar2025 03:51:01.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[23Mar2025 03:51:24.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23Mar2025 03:51:42.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Mar2025 03:52:00.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Mar2025 03:52:21.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Mar2025 03:52:40.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[23Mar2025 03:52:57.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[23Mar2025 03:53:21.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Mar2025 03:53:53.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Mar2025 03:54:17.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Mar2025 03:54:35.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Mar2025 03:54:53.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[23Mar2025 03:55:20.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1525245269,1540113467,-1220055943,-1016494837],type:"minecraft:entity",y_offset:0.36f}}]
+[23Mar2025 03:55:23.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Mar2025 03:56:33.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Mar2025 03:57:16.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[23Mar2025 03:58:32.730] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[23Mar2025 03:58:38.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Mar2025 03:58:52.265] [Server thread/INFO] [naturescompass/]: Search failed: 10001 radius, 24532 samples
+[23Mar2025 03:58:52.265] [Server thread/ERROR] [naturescompass/]: Invalid compass after search
+[23Mar2025 03:58:55.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabriel has completed the challenge [Praise the Sun]
+[23Mar2025 03:58:56.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
+[23Mar2025 04:00:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[23Mar2025 04:00:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]

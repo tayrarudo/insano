@@ -1144,6 +1144,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tame_elephant": {
+    "criteria": {
+      "tame": "2025-03-23 03:49:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_reach": {
     "criteria": {
       "has_magic_scroll": "2025-03-23 03:23:52 +0000"
