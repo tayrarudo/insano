@@ -802,5 +802,11 @@
     },
     "done": true
   },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-03-23 03:09:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

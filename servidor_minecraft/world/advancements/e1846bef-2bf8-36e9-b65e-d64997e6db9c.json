@@ -141,6 +141,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-03-17 00:05:24 +0000",
+      "potato": "2025-03-23 03:13:18 +0000",
       "bread": "2025-03-16 22:39:26 +0000",
       "golden_apple": "2025-03-17 00:35:37 +0000"
     },
