@@ -108,13 +108,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-03-22 03:26:35 +0000",
+      "minecraft:beach": "2025-03-23 03:25:33 +0000",
       "minecraft:sparse_jungle": "2025-03-22 03:25:49 +0000",
       "minecraft:lukewarm_ocean": "2025-03-22 03:23:44 +0000",
       "minecraft:river": "2025-03-22 03:25:45 +0000",
       "minecraft:stony_shore": "2025-03-22 03:12:01 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
       "minecraft:ocean": "2025-03-22 03:27:14 +0000",
-      "minecraft:savanna": "2025-03-22 18:41:06 +0000"
+      "minecraft:savanna": "2025-03-22 18:41:06 +0000",
+      "minecraft:plains": "2025-03-23 03:25:11 +0000"
     },
     "done": false
   },
