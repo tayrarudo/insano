@@ -212,12 +212,15 @@
       "minecraft:lukewarm_ocean": "2025-03-17 00:02:43 +0000",
       "minecraft:river": "2025-03-16 23:00:34 +0000",
       "minecraft:stony_shore": "2025-03-16 23:09:01 +0000",
+      "minecraft:snowy_plains": "2025-03-23 04:08:13 +0000",
       "minecraft:dripstone_caves": "2025-03-22 21:03:50 +0000",
       "minecraft:jagged_peaks": "2025-03-21 22:52:42 +0000",
       "minecraft:forest": "2025-03-21 22:25:05 +0000",
       "minecraft:jungle": "2025-03-17 01:19:46 +0000",
       "minecraft:ocean": "2025-03-22 03:24:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 03:24:00 +0000",
+      "minecraft:flower_forest": "2025-03-23 04:15:38 +0000",
+      "minecraft:deep_dark": "2025-03-23 04:16:00 +0000",
       "minecraft:meadow": "2025-03-16 23:27:02 +0000",
       "minecraft:savanna": "2025-03-22 18:41:37 +0000"
     },
@@ -802,9 +805,27 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-23 04:16:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-03-23 04:10:10 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/summon_luxtructosaurus": {
     "criteria": {
       "summon_luxtructosaurus": "2025-03-23 03:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-23 04:15:58 +0000"
     },
     "done": true
   },

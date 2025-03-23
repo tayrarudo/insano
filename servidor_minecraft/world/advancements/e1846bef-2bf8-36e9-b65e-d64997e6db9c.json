@@ -87,10 +87,14 @@
       "highland": "2025-03-16 22:40:02 +0000",
       "jade_cliffs": "2025-03-16 22:40:11 +0000",
       "crystalline_chasm": "2025-03-22 17:20:25 +0000",
+      "field": "2025-03-23 04:08:03 +0000",
       "mediterranean_forest": "2025-03-16 23:13:46 +0000",
+      "spider_nest": "2025-03-23 04:11:18 +0000",
       "redwood_forest": "2025-03-16 22:40:13 +0000",
       "dune_beach": "2025-03-22 18:36:07 +0000",
+      "pasture": "2025-03-23 04:11:11 +0000",
       "lavender_field": "2025-03-16 22:39:58 +0000",
+      "snowy_coniferous_forest": "2025-03-23 04:09:07 +0000",
       "rainforest": "2025-03-16 23:15:23 +0000"
     },
     "done": false
@@ -155,6 +159,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-03-23 04:11:05 +0000",
       "minecraft:birch_forest": "2025-03-22 17:14:53 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 03:26:35 +0000",
       "minecraft:dark_forest": "2025-03-22 17:25:05 +0000",
@@ -167,6 +172,8 @@
       "minecraft:forest": "2025-03-16 22:42:01 +0000",
       "minecraft:ocean": "2025-03-16 23:45:19 +0000",
       "minecraft:jungle": "2025-03-22 03:26:24 +0000",
+      "minecraft:flower_forest": "2025-03-23 04:11:47 +0000",
+      "minecraft:deep_dark": "2025-03-23 04:15:53 +0000",
       "minecraft:meadow": "2025-03-21 22:57:50 +0000",
       "minecraft:savanna": "2025-03-22 18:41:00 +0000",
       "minecraft:plains": "2025-03-22 05:27:32 +0000"
@@ -927,6 +934,54 @@
   "witherstormmod:main/amulet": {
     "criteria": {
       "inventory_changed": "2025-03-23 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-23 04:15:53 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nicehousebro": {
+    "criteria": {
+      "nicehousebro_0": "2025-03-23 04:13:38 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-03-23 04:13:38 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-03-23 04:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-03-23 04:14:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-23 04:15:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-23 04:08:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-03-23 04:08:05 +0000"
     },
     "done": true
   },
