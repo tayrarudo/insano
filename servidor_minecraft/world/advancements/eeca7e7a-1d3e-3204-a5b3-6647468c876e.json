@@ -1132,6 +1132,12 @@
     },
     "done": false
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-03-23 04:01:42 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-03-23 03:42:29 +0000"
@@ -1147,6 +1153,12 @@
   "alexsmobs:alexsmobs/tame_elephant": {
     "criteria": {
       "tame": "2025-03-23 03:49:20 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-03-23 03:58:55 +0000"
     },
     "done": true
   },
