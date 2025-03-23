@@ -652,9 +652,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
-      "killed_by_tremorsaurus": "2025-03-22 20:51:30 +0000"
+      "discover": "2025-03-22 17:18:26 +0000"
     },
     "done": true
   },
@@ -664,57 +664,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-03-22 20:51:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-03-22 19:08:58 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/crypt": {
-    "criteria": {
-      "crypt": "2025-03-22 21:02:15 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-03-22 17:18:26 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2025-03-22 20:52:25 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_wraith": {
-    "criteria": {
-      "wraith": "2025-03-22 21:07:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:bee": "2025-03-22 18:56:02 +0000"
     },
     "done": false
   },
-  "alexscaves:alexscaves/limestone": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "limestone": "2025-03-22 20:48:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-03-22 19:55:41 +0000"
+      "bred": "2025-03-22 18:56:02 +0000"
     },
     "done": true
   },
@@ -724,21 +682,9 @@
     },
     "done": true
   },
-  "graveyard:graveyard/dark_iron": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "dark_iron": "2025-03-22 21:07:57 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-03-22 19:50:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-03-22 20:57:38 +0000"
+      "coded_trigger": "2025-03-22 19:08:58 +0000"
     },
     "done": true
   },
@@ -748,9 +694,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "killed_grottoceratops": "2025-03-22 20:52:47 +0000"
+      "fighting_nightmares_0": "2025-03-22 19:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-03-22 19:55:41 +0000"
     },
     "done": true
   },
@@ -760,15 +712,45 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-03-22 20:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-22 20:51:02 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_vallumraptor": {
     "criteria": {
       "killed": "2025-03-22 20:51:02 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/corruption": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "corruption": "2025-03-22 21:06:18 +0000"
+      "killed_by_tremorsaurus": "2025-03-22 20:51:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-03-22 20:52:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-03-22 20:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-22 20:57:38 +0000"
     },
     "done": true
   },
@@ -778,9 +760,45 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "graveyard:graveyard/crypt": {
     "criteria": {
-      "bred": "2025-03-22 18:56:02 +0000"
+      "crypt": "2025-03-22 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-22 21:06:18 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-03-22 21:07:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-03-22 21:07:58 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-03-22 22:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-22 22:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-23 00:26:47 +0000"
     },
     "done": true
   },

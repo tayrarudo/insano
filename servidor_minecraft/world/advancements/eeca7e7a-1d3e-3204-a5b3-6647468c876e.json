@@ -330,6 +330,7 @@
       "minecraft:silverfish": "2025-03-21 21:49:33 +0000",
       "minecraft:enderman": "2025-03-22 02:35:05 +0000",
       "minecraft:zombie": "2025-03-16 23:04:17 +0000",
+      "minecraft:drowned": "2025-03-22 22:52:46 +0000",
       "minecraft:zombie_villager": "2025-03-22 03:11:29 +0000"
     },
     "done": false
@@ -902,27 +903,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/fiddlehead": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "fiddlehead": "2025-03-22 04:00:54 +0000"
+      "ex": "2025-03-22 03:17:37 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
-      "killed_by_relicheirus": "2025-03-22 03:51:15 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:daddy": {
-    "criteria": {
-      "daddy_0": "2025-03-22 04:08:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-03-22 04:41:30 +0000"
+      "horror_underthe_mantle_0": "2025-03-22 03:40:36 +0000"
     },
     "done": true
   },
@@ -932,9 +921,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tree_star": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "tree_star": "2025-03-22 04:01:49 +0000"
+      "killed_by_relicheirus": "2025-03-22 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-03-22 03:54:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-03-22 03:55:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-03-22 03:58:49 +0000"
     },
     "done": true
   },
@@ -944,9 +951,57 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-03-22 04:00:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-03-22 04:00:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-03-22 04:01:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-03-22 04:02:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-03-22 04:08:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-03-22 04:15:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2025-03-22 04:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-22 04:41:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_vallumraptor": {
+    "criteria": {
+      "killed": "2025-03-22 04:41:30 +0000"
     },
     "done": true
   },
@@ -958,45 +1013,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/serene_salad": {
-    "criteria": {
-      "serene_salad": "2025-03-22 04:02:26 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:parry": {
-    "criteria": {
-      "parry_0": "2025-03-22 03:54:38 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-03-22 03:40:36 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/tame_tremorsaurus": {
     "criteria": {
       "killed": "2025-03-22 05:08:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-03-22 04:00:42 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-03-22 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/primitive_club": {
-    "criteria": {
-      "limestone": "2025-03-22 04:15:41 +0000"
     },
     "done": true
   },
@@ -1006,27 +1025,94 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
-    "criteria": {
-      "killed_grottoceratops": "2025-03-22 03:55:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tame_vallumraptor": {
-    "criteria": {
-      "killed": "2025-03-22 04:41:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2025-03-22 03:58:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-03-22 05:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-03-22 23:10:19 +0000",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-03-22 23:10:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-03-22 23:10:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-03-22 23:33:58 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-03-22 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2025-03-22 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-03-22 23:35:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-22 23:36:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-22 23:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-03-22 23:45:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2025-03-23 00:13:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2025-03-23 00:14:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2025-03-23 00:27:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 00:27:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2025-03-23 00:33:36 +0000"
     },
     "done": true
   },

@@ -92,11 +92,14 @@
       "mediterranean_forest": "2025-03-17 01:20:08 +0000",
       "coniferous_forest": "2025-03-22 21:03:10 +0000",
       "redwood_forest": "2025-03-20 23:38:49 +0000",
+      "visceral_heap": "2025-03-23 00:10:38 +0000",
       "dune_beach": "2025-03-16 23:45:33 +0000",
       "rocky_rainforest": "2025-03-21 00:58:38 +0000",
       "volcanic_plains": "2025-03-22 02:14:44 +0000",
       "lavender_field": "2025-03-20 23:39:59 +0000",
+      "fir_clearing": "2025-03-22 21:24:01 +0000",
       "grassland": "2025-03-22 20:57:12 +0000",
+      "undergrowth": "2025-03-23 00:07:38 +0000",
       "rainforest": "2025-03-17 01:03:21 +0000"
     },
     "done": false
@@ -174,6 +177,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-22 21:44:28 +0000",
+      "minecraft:cherry_grove": "2025-03-22 21:43:06 +0000",
       "minecraft:birch_forest": "2025-03-22 20:08:02 +0000",
       "minecraft:bamboo_jungle": "2025-03-22 20:09:41 +0000",
       "minecraft:beach": "2025-03-16 23:13:58 +0000",
@@ -257,6 +262,7 @@
       "minecraft:cave_spider": "2025-03-20 23:24:31 +0000",
       "quark:wraith": "2025-03-22 01:34:56 +0000",
       "minecraft:piglin": "2025-03-22 00:59:27 +0000",
+      "minecraft:enderman": "2025-03-23 00:02:41 +0000",
       "minecraft:zombie": "2025-03-16 23:36:12 +0000",
       "quark:foxhound": "2025-03-22 00:27:33 +0000",
       "minecraft:zombie_villager": "2025-03-22 20:43:45 +0000"
@@ -538,9 +544,10 @@
       "minecraft:crimson_forest": "2025-03-22 00:27:14 +0000",
       "minecraft:nether_wastes": "2025-03-22 00:27:31 +0000",
       "minecraft:soul_sand_valley": "2025-03-22 01:30:45 +0000",
-      "minecraft:basalt_deltas": "2025-03-22 17:16:20 +0000"
+      "minecraft:basalt_deltas": "2025-03-22 17:16:20 +0000",
+      "minecraft:warped_forest": "2025-03-23 00:17:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -674,22 +681,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_0": "2025-03-22 20:48:16 +0000",
-      "charm_collector_4": "2025-03-22 20:48:16 +0000"
-    },
-    "done": false
-  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-03-22 20:42:44 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-03-22 20:50:13 +0000"
     },
     "done": true
   },
@@ -699,9 +693,58 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-03-22 20:48:16 +0000",
+      "charm_collector_4": "2025-03-22 20:48:16 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-03-22 20:50:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-03-22 20:52:01 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:pbslain": {
+    "criteria": {
+      "pbslain_0": "2025-03-22 21:20:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-03-22 21:24:40 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-03-22 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-03-22 21:50:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-03-22 21:59:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-03-23 00:18:55 +0000"
     },
     "done": true
   },
