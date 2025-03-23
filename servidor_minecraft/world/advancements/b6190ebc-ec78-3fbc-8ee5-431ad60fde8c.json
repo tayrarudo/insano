@@ -814,5 +814,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2025-03-23 03:38:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
